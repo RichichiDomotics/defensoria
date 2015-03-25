@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/sigi-morelia/!svn/ver/3/trunk/nsjp/nsjp-comun/src/main/java/mx/gob/segob/nsjp/comun/excepcion
+END
+NSJPNegocioException.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/sigi-morelia/!svn/ver/3/trunk/nsjp/nsjp-comun/src/main/java/mx/gob/segob/nsjp/comun/excepcion/NSJPNegocioException.java
+END
+NSJPSistemaException.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/sigi-morelia/!svn/ver/3/trunk/nsjp/nsjp-comun/src/main/java/mx/gob/segob/nsjp/comun/excepcion/NSJPSistemaException.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sigi-morelia/!svn/ver/3/trunk/nsjp/nsjp-comun/src/main/java/mx/gob/segob/nsjp/comun/util
+END
+EncriptadorUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/sigi-morelia/!svn/ver/3/trunk/nsjp/nsjp-comun/src/main/java/mx/gob/segob/nsjp/comun/util/EncriptadorUtil.java
+END
+QueryUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/sigi-morelia/!svn/ver/3/trunk/nsjp/nsjp-comun/src/main/java/mx/gob/segob/nsjp/comun/util/QueryUtils.java
+END
+HTMLUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/sigi-morelia/!svn/ver/3/trunk/nsjp/nsjp-comun/src/main/java/mx/gob/segob/nsjp/comun/util/HTMLUtils.java
+END
+Log4jPrintWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/sigi-morelia/!svn/ver/3/trunk/nsjp/nsjp-comun/src/main/java/mx/gob/segob/nsjp/comun/util/Log4jPrintWriter.java
+END
+DateUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sigi-morelia/!svn/ver/241/trunk/nsjp/nsjp-comun/src/main/java/mx/gob/segob/nsjp/comun/util/DateUtils.java
+END
+URLUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/sigi-morelia/!svn/ver/3/trunk/nsjp/nsjp-comun/src/main/java/mx/gob/segob/nsjp/comun/util/URLUtils.java
+END
+ConsecutivosUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/sigi-morelia/!svn/ver/114/trunk/nsjp/nsjp-comun/src/main/java/mx/gob/segob/nsjp/comun/util/ConsecutivosUtil.java
+END

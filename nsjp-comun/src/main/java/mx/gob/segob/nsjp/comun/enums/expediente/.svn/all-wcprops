@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/sigi-morelia/!svn/ver/3/trunk/nsjp/nsjp-comun/src/main/java/mx/gob/segob/nsjp/comun/enums/expediente
+END
+EstatusExpediente.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/sigi-morelia/!svn/ver/3/trunk/nsjp/nsjp-comun/src/main/java/mx/gob/segob/nsjp/comun/enums/expediente/EstatusExpediente.java
+END
+TipoTurno.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/sigi-morelia/!svn/ver/3/trunk/nsjp/nsjp-comun/src/main/java/mx/gob/segob/nsjp/comun/enums/expediente/TipoTurno.java
+END
+EstatusTurno.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/sigi-morelia/!svn/ver/3/trunk/nsjp/nsjp-comun/src/main/java/mx/gob/segob/nsjp/comun/enums/expediente/EstatusTurno.java
+END
+TipoExpediente.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/sigi-morelia/!svn/ver/3/trunk/nsjp/nsjp-comun/src/main/java/mx/gob/segob/nsjp/comun/enums/expediente/TipoExpediente.java
+END
+TipoMovimiento.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/sigi-morelia/!svn/ver/3/trunk/nsjp/nsjp-comun/src/main/java/mx/gob/segob/nsjp/comun/enums/expediente/TipoMovimiento.java
+END
+EtapasExpediente.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/sigi-morelia/!svn/ver/3/trunk/nsjp/nsjp-comun/src/main/java/mx/gob/segob/nsjp/comun/enums/expediente/EtapasExpediente.java
+END
+AcronimoNumExpAlterno.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/sigi-morelia/!svn/ver/46/trunk/nsjp/nsjp-comun/src/main/java/mx/gob/segob/nsjp/comun/enums/expediente/AcronimoNumExpAlterno.java
+END
+OrigenExpediente.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/sigi-morelia/!svn/ver/3/trunk/nsjp/nsjp-comun/src/main/java/mx/gob/segob/nsjp/comun/enums/expediente/OrigenExpediente.java
+END
+TipoBusquedaCoordinadorAT.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/sigi-morelia/!svn/ver/3/trunk/nsjp/nsjp-comun/src/main/java/mx/gob/segob/nsjp/comun/enums/expediente/TipoBusquedaCoordinadorAT.java
+END

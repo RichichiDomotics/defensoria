@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sigi-morelia/!svn/ver/3/trunk/nsjp/nsjp-comun/src/main/java/mx/gob/segob/nsjp/comun/enums/funcionario
+END
+Especialidades.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/sigi-morelia/!svn/ver/3/trunk/nsjp/nsjp-comun/src/main/java/mx/gob/segob/nsjp/comun/enums/funcionario/Especialidades.java
+END
+TipoEspecialidad.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/sigi-morelia/!svn/ver/3/trunk/nsjp/nsjp-comun/src/main/java/mx/gob/segob/nsjp/comun/enums/funcionario/TipoEspecialidad.java
+END
+Puestos.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/sigi-morelia/!svn/ver/3/trunk/nsjp/nsjp-comun/src/main/java/mx/gob/segob/nsjp/comun/enums/funcionario/Puestos.java
+END
+TipoDefensoria.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/sigi-morelia/!svn/ver/3/trunk/nsjp/nsjp-comun/src/main/java/mx/gob/segob/nsjp/comun/enums/funcionario/TipoDefensoria.java
+END

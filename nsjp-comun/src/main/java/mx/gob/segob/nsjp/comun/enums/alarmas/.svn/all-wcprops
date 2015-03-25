@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/sigi-morelia/!svn/ver/3/trunk/nsjp/nsjp-comun/src/main/java/mx/gob/segob/nsjp/comun/enums/alarmas
+END
+EstatusAlarmaAlerta.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/sigi-morelia/!svn/ver/3/trunk/nsjp/nsjp-comun/src/main/java/mx/gob/segob/nsjp/comun/enums/alarmas/EstatusAlarmaAlerta.java
+END
+TipoEventoAlarma.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/sigi-morelia/!svn/ver/3/trunk/nsjp/nsjp-comun/src/main/java/mx/gob/segob/nsjp/comun/enums/alarmas/TipoEventoAlarma.java
+END

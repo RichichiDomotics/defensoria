@@ -1,0 +1,23 @@
+package mx.gob.segob.nsjp.comun.enums.catalogo;
+
+
+public enum EntidadFederativa {
+	AGUASCALIENTES(1L),BAJA_CALIFORNIA(2L),BAJA_CALIFORNIA_SUR(3L),CAMPECHE(4L),COAHUILA_DE_ZARAGOZA(5L),COLIMA(6L),
+	CHIAPAS(7L),CHIHUAHUA(8L),DISTRITO_FEDERAL(9L),DURANGO(10L),GUANAJUATO(11L),GUERRERO(12L),HIDALGO(13L),JALISCO(14L),
+	MEXICO(15L),MICHOACAN_DE_OCAMPO(16L),MORELOS(17L),NAYARIT(18L),NUEVO_LEON(19L),OAXACA(20L),PUEBLA(21L),QUERETARO(22L),
+	QUINTANA_ROO(23L),SAN_LUIS_POTOSI(24L),SINALOA(25L),SONORA(26L),TABASCO(27L),TAMAULIPAS(28L),TLAXCALA(29L),
+	VERACRUZ_DE_IGNACIO_DE_LA_LLAVE(30L),YUCATAN(31L),ZACATECAS(32L);
+	
+	private Long valorId;
+	
+	private EntidadFederativa(Long valorIdPredefinido){
+		this.valorId = valorIdPredefinido;
+	}
+
+	/**
+	 * @return the valorId
+	 */
+	public Long getValorId() {
+		return valorId;
+	}
+}
