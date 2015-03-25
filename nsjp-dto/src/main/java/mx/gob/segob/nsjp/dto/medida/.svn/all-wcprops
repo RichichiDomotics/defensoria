@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sigi-morelia/!svn/ver/5/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/medida
+END
+MedidaAlternaDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/sigi-morelia/!svn/ver/5/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/medida/MedidaAlternaDTO.java
+END
+CompromisoPeriodicoDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/sigi-morelia/!svn/ver/5/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/medida/CompromisoPeriodicoDTO.java
+END
+FechaCompArchDigDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/sigi-morelia/!svn/ver/5/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/medida/FechaCompArchDigDTO.java
+END
+FechaCompromisoDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/sigi-morelia/!svn/ver/5/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/medida/FechaCompromisoDTO.java
+END
+MedidaWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/sigi-morelia/!svn/ver/5/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/medida/MedidaWSDTO.java
+END
+FiltroBusquedaCompromisosDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/sigi-morelia/!svn/ver/5/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/medida/FiltroBusquedaCompromisosDTO.java
+END
+IncidenciaDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sigi-morelia/!svn/ver/5/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/medida/IncidenciaDTO.java
+END
+MedidaDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sigi-morelia/!svn/ver/5/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/medida/MedidaDTO.java
+END
+MedidaCautelarWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/sigi-morelia/!svn/ver/5/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/medida/MedidaCautelarWSDTO.java
+END
+MedidaAlternaWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/sigi-morelia/!svn/ver/5/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/medida/MedidaAlternaWSDTO.java
+END

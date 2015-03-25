@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sigi-morelia/!svn/ver/5/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/actos
+END
+IndiciplinaDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sigi-morelia/!svn/ver/5/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/actos/IndiciplinaDTO.java
+END
+BuenaConductaDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sigi-morelia/!svn/ver/5/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/actos/BuenaConductaDTO.java
+END
+TipoIndiciplinaDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/sigi-morelia/!svn/ver/5/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/actos/TipoIndiciplinaDTO.java
+END
+ActoDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/sigi-morelia/!svn/ver/5/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/actos/ActoDTO.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sigi-morelia/!svn/ver/5/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/prueba
+END
+MedioPruebaDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/sigi-morelia/!svn/ver/5/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/prueba/MedioPruebaDTO.java
+END
+RelacionPruebaInvolucradoDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/sigi-morelia/!svn/ver/5/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/prueba/RelacionPruebaInvolucradoDTO.java
+END
+DatoPruebaDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sigi-morelia/!svn/ver/5/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/prueba/DatoPruebaDTO.java
+END
+RelacionDatoMedioPruebaDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/sigi-morelia/!svn/ver/5/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/prueba/RelacionDatoMedioPruebaDTO.java
+END

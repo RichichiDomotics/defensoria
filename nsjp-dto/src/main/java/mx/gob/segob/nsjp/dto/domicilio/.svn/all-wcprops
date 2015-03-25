@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sigi-morelia/!svn/ver/5/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/domicilio
+END
+LugarDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/sigi-morelia/!svn/ver/5/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/domicilio/LugarDTO.java
+END
+DomicilioWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/sigi-morelia/!svn/ver/5/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/domicilio/DomicilioWSDTO.java
+END
+DomicilioDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sigi-morelia/!svn/ver/5/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/domicilio/DomicilioDTO.java
+END
+CiudadDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/sigi-morelia/!svn/ver/5/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/domicilio/CiudadDTO.java
+END
+EntidadFederativaDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/sigi-morelia/!svn/ver/5/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/domicilio/EntidadFederativaDTO.java
+END
+AsentamientoDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/sigi-morelia/!svn/ver/5/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/domicilio/AsentamientoDTO.java
+END
+DomicilioExtranjeroDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/sigi-morelia/!svn/ver/5/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/domicilio/DomicilioExtranjeroDTO.java
+END
+LugarWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sigi-morelia/!svn/ver/5/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/domicilio/LugarWSDTO.java
+END
+TipoAsentamientoDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/sigi-morelia/!svn/ver/5/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/domicilio/TipoAsentamientoDTO.java
+END
+MunicipioDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sigi-morelia/!svn/ver/5/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/domicilio/MunicipioDTO.java
+END

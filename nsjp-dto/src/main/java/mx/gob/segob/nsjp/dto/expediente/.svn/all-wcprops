@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/sigi-morelia/!svn/ver/279/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/expediente
+END
+FiltroExpedienteDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/sigi-morelia/!svn/ver/5/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/expediente/FiltroExpedienteDTO.java
+END
+ExpedienteTecnicoDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/sigi-morelia/!svn/ver/5/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/expediente/ExpedienteTecnicoDTO.java
+END
+TurnoDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/sigi-morelia/!svn/ver/5/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/expediente/TurnoDTO.java
+END
+DelitoPersonaDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/sigi-morelia/!svn/ver/5/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/expediente/DelitoPersonaDTO.java
+END
+DelitoWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/sigi-morelia/!svn/ver/248/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/expediente/DelitoWSDTO.java
+END
+NotaExpedienteDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/sigi-morelia/!svn/ver/5/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/expediente/NotaExpedienteDTO.java
+END
+HistoricoExpedienteDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/sigi-morelia/!svn/ver/5/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/expediente/HistoricoExpedienteDTO.java
+END
+DelitoDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sigi-morelia/!svn/ver/5/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/expediente/DelitoDTO.java
+END
+ExpedienteResumenDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/sigi-morelia/!svn/ver/5/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/expediente/ExpedienteResumenDTO.java
+END
+ParametrosDocumentoDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/sigi-morelia/!svn/ver/5/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/expediente/ParametrosDocumentoDTO.java
+END
+ExpedienteRestDefensoriaDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/sigi-morelia/!svn/ver/5/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/expediente/ExpedienteRestDefensoriaDTO.java
+END
+DatosGeneralesExpedienteUAVDDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/sigi-morelia/!svn/ver/5/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/expediente/DatosGeneralesExpedienteUAVDDTO.java
+END
+DatosGeneralesExpedienteDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/sigi-morelia/!svn/ver/5/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/expediente/DatosGeneralesExpedienteDTO.java
+END
+RelNumExpedienteAuditoriaDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/sigi-morelia/!svn/ver/5/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/expediente/RelNumExpedienteAuditoriaDTO.java
+END
+ExpedienteWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/sigi-morelia/!svn/ver/5/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/expediente/ExpedienteWSDTO.java
+END
+ConvenioDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/sigi-morelia/!svn/ver/147/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/expediente/ConvenioDTO.java
+END
+ObjetoWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/sigi-morelia/!svn/ver/279/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/expediente/ObjetoWSDTO.java
+END
+ExpedienteDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/sigi-morelia/!svn/ver/5/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/expediente/ExpedienteDTO.java
+END
+ActaCircunstanciadaDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/sigi-morelia/!svn/ver/5/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/expediente/ActaCircunstanciadaDTO.java
+END
+ExpedienteAdscritoDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/sigi-morelia/!svn/ver/5/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/expediente/ExpedienteAdscritoDTO.java
+END

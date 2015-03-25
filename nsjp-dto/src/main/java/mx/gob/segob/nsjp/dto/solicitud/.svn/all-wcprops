@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/sigi-morelia/!svn/ver/118/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/solicitud
+END
+PermisoSolicitudDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/sigi-morelia/!svn/ver/5/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/solicitud/PermisoSolicitudDTO.java
+END
+ImpDelOfendidoDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/sigi-morelia/!svn/ver/118/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/solicitud/ImpDelOfendidoDTO.java
+END
+OfendidoDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/sigi-morelia/!svn/ver/118/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/solicitud/OfendidoDTO.java
+END
+SolicitudTrasladoImputadoWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/sigi-morelia/!svn/ver/5/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/solicitud/SolicitudTrasladoImputadoWSDTO.java
+END
+SolicitudDiligenciaDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/sigi-morelia/!svn/ver/5/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/solicitud/SolicitudDiligenciaDTO.java
+END
+DocumentoWSMichDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/sigi-morelia/!svn/ver/118/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/solicitud/DocumentoWSMichDTO.java
+END
+SolicitudAudienciaBasicoWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/sigi-morelia/!svn/ver/5/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/solicitud/SolicitudAudienciaBasicoWSDTO.java
+END
+SolicitudMandamientoDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/sigi-morelia/!svn/ver/5/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/solicitud/SolicitudMandamientoDTO.java
+END
+SolicitudTrasladoImputadoDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/sigi-morelia/!svn/ver/5/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/solicitud/SolicitudTrasladoImputadoDTO.java
+END
+SolicitudAudienciaDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/sigi-morelia/!svn/ver/5/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/solicitud/SolicitudAudienciaDTO.java
+END
+SolicitudTranscripcionAudienciaDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/sigi-morelia/!svn/ver/5/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/solicitud/SolicitudTranscripcionAudienciaDTO.java
+END
+ImputadoDelitoDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/sigi-morelia/!svn/ver/118/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/solicitud/ImputadoDelitoDTO.java
+END
+SolicitudTranscripcionWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/sigi-morelia/!svn/ver/5/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/solicitud/SolicitudTranscripcionWSDTO.java
+END
+SolicitudWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/sigi-morelia/!svn/ver/5/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/solicitud/SolicitudWSDTO.java
+END
+SolicitudPericialDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/sigi-morelia/!svn/ver/5/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/solicitud/SolicitudPericialDTO.java
+END
+ImputadoDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/sigi-morelia/!svn/ver/250/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/solicitud/ImputadoDTO.java
+END
+SolicitudDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sigi-morelia/!svn/ver/5/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/solicitud/SolicitudDTO.java
+END
+SolicitudMichDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/sigi-morelia/!svn/ver/118/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/solicitud/SolicitudMichDTO.java
+END
+SolicitudBeneficiosPreliberacionWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/sigi-morelia/!svn/ver/5/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/solicitud/SolicitudBeneficiosPreliberacionWSDTO.java
+END
+SolicitudDefensorWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/sigi-morelia/!svn/ver/5/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/solicitud/SolicitudDefensorWSDTO.java
+END
+SolicitudDeDefensorWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/sigi-morelia/!svn/ver/5/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/solicitud/SolicitudDeDefensorWSDTO.java
+END
+SolicitudDefensorDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/sigi-morelia/!svn/ver/5/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/solicitud/SolicitudDefensorDTO.java
+END

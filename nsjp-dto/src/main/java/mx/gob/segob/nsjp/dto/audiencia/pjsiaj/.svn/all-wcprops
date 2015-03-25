@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/sigi-morelia/!svn/ver/217/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/audiencia/pjsiaj
+END
+DocumentoWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/sigi-morelia/!svn/ver/217/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/audiencia/pjsiaj/DocumentoWSDTO.java
+END
+SolicitudWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/sigi-morelia/!svn/ver/217/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/audiencia/pjsiaj/SolicitudWSDTO.java
+END
+ImputadoDelitoResolucionWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/sigi-morelia/!svn/ver/217/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/audiencia/pjsiaj/ImputadoDelitoResolucionWSDTO.java
+END
+AudienciaWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/sigi-morelia/!svn/ver/217/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/audiencia/pjsiaj/AudienciaWSDTO.java
+END
+VariableResolucionWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/sigi-morelia/!svn/ver/217/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/audiencia/pjsiaj/VariableResolucionWSDTO.java
+END
+NotificacionSIAJWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/sigi-morelia/!svn/ver/217/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/audiencia/pjsiaj/NotificacionSIAJWSDTO.java
+END
+RespuestaWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/sigi-morelia/!svn/ver/217/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/audiencia/pjsiaj/RespuestaWSDTO.java
+END
+ImputadoWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/sigi-morelia/!svn/ver/217/trunk/nsjp/nsjp-dto/src/main/java/mx/gob/segob/nsjp/dto/audiencia/pjsiaj/ImputadoWSDTO.java
+END
