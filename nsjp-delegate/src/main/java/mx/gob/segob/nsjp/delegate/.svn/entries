@@ -1,0 +1,223 @@
+10
+
+dir
+242
+https://subversion.assembla.com/svn/sigi-morelia/trunk/nsjp/nsjp-delegate/src/main/java/mx/gob/segob/nsjp/delegate
+https://subversion.assembla.com/svn/sigi-morelia
+
+
+
+2014-03-26T17:21:57.655029Z
+242
+DanielLopezDeLaCruz
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f7879140-5060-4e79-bf49-f6b8e9c27a7b
+
+actividad
+dir
+
+actuaciones
+dir
+
+agenda
+dir
+
+alarma
+dir
+
+almacen
+dir
+
+audiencia
+dir
+
+avisodesignacion
+dir
+
+avisodetencion
+dir
+
+bitacora
+dir
+
+cadenadecustodia
+dir
+
+calidad
+dir
+
+caso
+dir
+
+catalogo
+dir
+
+compromiso
+dir
+
+configuracion
+dir
+
+defensoria
+dir
+
+delito
+dir
+
+detencion
+dir
+
+documento
+dir
+
+elemento
+dir
+
+elementomenu
+dir
+
+eslabon
+dir
+
+eventocita
+dir
+
+evidencia
+dir
+
+expediente
+dir
+
+familiar
+dir
+
+fecha
+dir
+
+forma
+dir
+
+funcionario
+dir
+
+funcionarioexterno
+dir
+
+graficacion
+dir
+
+hecho
+dir
+
+implicado
+dir
+
+indicador
+dir
+
+informepolicial
+dir
+
+inspeccion
+dir
+
+involucrado
+dir
+
+leycodigo
+dir
+
+lugar
+dir
+
+medidas
+dir
+
+medidasalternas
+dir
+
+medidascautelares
+dir
+
+modulo
+dir
+
+notificacion
+dir
+
+numeroExpedienteAlterno
+dir
+
+objeto
+dir
+
+ordenaprehension
+dir
+
+organizacion
+dir
+
+parametro
+dir
+
+persona
+dir
+
+policiaministerial
+dir
+
+proceso
+dir
+
+programa
+dir
+
+prueba
+dir
+
+quejaciudadana
+dir
+
+reinsercion
+dir
+
+relacion
+dir
+
+rol
+dir
+
+sentencia
+dir
+
+sesion
+dir
+
+solicitud
+dir
+
+tarea
+dir
+
+turnolaboral
+dir
+
+usuario
+dir
+
+visitante
+dir
+

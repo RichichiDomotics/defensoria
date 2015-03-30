@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sigi-morelia/!svn/ver/80/trunk/nsjp/nsjp-delegate/src/main/java/mx/gob/segob/nsjp/delegate/catalogo
+END
+DistritoDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/sigi-morelia/!svn/ver/4/trunk/nsjp/nsjp-delegate/src/main/java/mx/gob/segob/nsjp/delegate/catalogo/DistritoDelegate.java
+END
+CatalogoDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/sigi-morelia/!svn/ver/80/trunk/nsjp/nsjp-delegate/src/main/java/mx/gob/segob/nsjp/delegate/catalogo/CatalogoDelegate.java
+END
+CatUIEspecializadaDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/sigi-morelia/!svn/ver/4/trunk/nsjp/nsjp-delegate/src/main/java/mx/gob/segob/nsjp/delegate/catalogo/CatUIEspecializadaDelegate.java
+END
+AdministrarCatalogoDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/sigi-morelia/!svn/ver/4/trunk/nsjp/nsjp-delegate/src/main/java/mx/gob/segob/nsjp/delegate/catalogo/AdministrarCatalogoDelegate.java
+END
+CatDiscriminanteDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/sigi-morelia/!svn/ver/4/trunk/nsjp/nsjp-delegate/src/main/java/mx/gob/segob/nsjp/delegate/catalogo/CatDiscriminanteDelegate.java
+END
