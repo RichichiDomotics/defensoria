@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/persona/impl
+END
+MedioDeContactoDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/persona/impl/MedioDeContactoDAOImpl.java
+END
+DelitoPersonaDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/sigi-morelia/!svn/ver/173/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/persona/impl/DelitoPersonaDAOImpl.java
+END
+TelefonoDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/persona/impl/TelefonoDAOImpl.java
+END
+NombreDemograficoDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/persona/impl/NombreDemograficoDAOImpl.java
+END
+PersonaDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/persona/impl/PersonaDAOImpl.java
+END
+CorreoElectronicoDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/persona/impl/CorreoElectronicoDAOImpl.java
+END

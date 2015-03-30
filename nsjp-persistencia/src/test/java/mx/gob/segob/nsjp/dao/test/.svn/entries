@@ -1,0 +1,212 @@
+10
+
+dir
+14
+https://subversion.assembla.com/svn/sigi-morelia/trunk/nsjp/nsjp-persistencia/src/test/java/mx/gob/segob/nsjp/dao/test
+https://subversion.assembla.com/svn/sigi-morelia
+
+
+
+2013-09-09T15:34:53.929720Z
+8
+ariadna
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f7879140-5060-4e79-bf49-f6b8e9c27a7b
+
+TestUtilPersitencia.java
+file
+
+
+
+
+2013-09-09T16:34:19.695000Z
+6e9830d511b7dbaa964163e573e0edb2
+2013-09-09T15:34:53.929720Z
+8
+ariadna
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+387
+
+alerta
+dir
+
+almacen
+dir
+
+archivo
+dir
+
+audiencia
+dir
+
+base
+dir
+
+bitacora
+dir
+
+cadenacustodia
+dir
+
+caso
+dir
+
+catDiscriminante
+dir
+
+catalogo
+dir
+
+centoDetencion
+dir
+
+ciudad
+dir
+
+confactividad
+dir
+
+defensoria
+dir
+
+delito
+dir
+
+documento
+dir
+
+domicilio
+dir
+
+elemento
+dir
+
+elementomenu
+dir
+
+entidadFederativa
+dir
+
+evidencia
+dir
+
+expediente
+dir
+
+forma
+dir
+
+funcion
+dir
+
+funcionario
+dir
+
+funcionarioExterno
+dir
+
+hecho
+dir
+
+informepolicial
+dir
+
+involucrado
+dir
+
+jerarquia
+dir
+
+juez
+dir
+
+mandamientoAdjuntos
+dir
+
+medida
+dir
+
+municipio
+dir
+
+niveles
+dir
+
+notificacion
+dir
+
+objeto
+dir
+
+organizacion
+dir
+
+parametro
+dir
+
+persona
+dir
+
+proceso
+dir
+
+programa
+dir
+
+prueba
+dir
+
+relacion
+dir
+
+sentencia
+dir
+
+solicitud
+dir
+
+tarea
+dir
+
+turnolaboral
+dir
+
+usuario
+dir
+
+visitante
+dir
+

@@ -1,0 +1,202 @@
+10
+
+dir
+14
+https://subversion.assembla.com/svn/sigi-morelia/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao
+https://subversion.assembla.com/svn/sigi-morelia
+
+
+
+2013-09-09T15:34:53.929720Z
+8
+ariadna
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f7879140-5060-4e79-bf49-f6b8e9c27a7b
+
+actividad
+dir
+
+agendaalarma
+dir
+
+alarma
+dir
+
+alerta
+dir
+
+almacen
+dir
+
+archivo
+dir
+
+audiencia
+dir
+
+avisodetencion
+dir
+
+base
+dir
+
+bitacora
+dir
+
+cadenadecustodia
+dir
+
+caso
+dir
+
+catalogo
+dir
+
+chat
+dir
+
+defensoria
+dir
+
+delito
+dir
+
+detencion
+dir
+
+documento
+dir
+
+domicilio
+dir
+
+elemento
+dir
+
+elementomenu
+dir
+
+eslabon
+dir
+
+evidencia
+dir
+
+expediente
+dir
+
+forma
+dir
+
+funcionario
+dir
+
+funcionarioexterno
+dir
+
+hecho
+dir
+
+informepolicial
+dir
+
+inspeccion
+dir
+
+institucion
+dir
+
+involucrado
+dir
+
+juez
+dir
+
+leycodigo
+dir
+
+lugar
+dir
+
+medida
+dir
+
+niveles
+dir
+
+objeto
+dir
+
+ordenaprehension
+dir
+
+organizacion
+dir
+
+parametro
+dir
+
+persona
+dir
+
+policiaministerial
+dir
+
+proceso
+dir
+
+programa
+dir
+
+prueba
+dir
+
+quejaciudadana
+dir
+
+reinsercion
+dir
+
+relacion
+dir
+
+sentencia
+dir
+
+sesion
+dir
+
+solicitud
+dir
+
+tarea
+dir
+
+transcripcion
+dir
+
+turnolaboral
+dir
+
+usuario
+dir
+
+util
+dir
+
+visitante
+dir
+

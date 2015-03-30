@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/domicilio/impl
+END
+CatTipoAsentamientoDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/domicilio/impl/CatTipoAsentamientoDAOImpl.java
+END
+DomicilioDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/domicilio/impl/DomicilioDAOImpl.java
+END
+CiudadDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/domicilio/impl/CiudadDAOImpl.java
+END
+EntidadFederativaDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/domicilio/impl/EntidadFederativaDAOImpl.java
+END
+AsentamientoDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/domicilio/impl/AsentamientoDAOImpl.java
+END
+DomicilioExtranjeroDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/domicilio/impl/DomicilioExtranjeroDAOImpl.java
+END
+MunicipioDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/domicilio/impl/MunicipioDAOImpl.java
+END
+LugarDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/domicilio/impl/LugarDAOImpl.java
+END

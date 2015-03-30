@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/relacion/impl
+END
+CatRelacionDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/relacion/impl/CatRelacionDAOImpl.java
+END
+CatCategoriaRelacionDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/relacion/impl/CatCategoriaRelacionDAOImpl.java
+END
+RelacionDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/relacion/impl/RelacionDAOImpl.java
+END

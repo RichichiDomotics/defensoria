@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/objeto/impl
+END
+EquipoComputoDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/objeto/impl/EquipoComputoDAOImpl.java
+END
+AeronaveDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/objeto/impl/AeronaveDAOImpl.java
+END
+InmuebleDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/objeto/impl/InmuebleDAOImpl.java
+END
+ObraArteDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/objeto/impl/ObraArteDAOImpl.java
+END
+VehiculoDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/objeto/impl/VehiculoDAOImpl.java
+END
+ArmaDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/objeto/impl/ArmaDAOImpl.java
+END
+ObjetoDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/sigi-morelia/!svn/ver/291/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/objeto/impl/ObjetoDAOImpl.java
+END
+NumerarioDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/objeto/impl/NumerarioDAOImpl.java
+END
+SustanciaDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/objeto/impl/SustanciaDAOImpl.java
+END
+JoyaDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/objeto/impl/JoyaDAOImpl.java
+END
+EmbarcacionDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/objeto/impl/EmbarcacionDAOImpl.java
+END
+DocumentoOficialDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/objeto/impl/DocumentoOficialDAOImpl.java
+END
+ExplosivoDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/objeto/impl/ExplosivoDAOImpl.java
+END
+VegetalDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/objeto/impl/VegetalDAOImpl.java
+END
+TelefoniaDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/objeto/impl/TelefoniaDAOImpl.java
+END
+EquipoTacticoDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/objeto/impl/EquipoTacticoDAOImpl.java
+END
+ArmaBlancaDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/objeto/impl/ArmaBlancaDAOImpl.java
+END
+AnimalDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/objeto/impl/AnimalDAOImpl.java
+END

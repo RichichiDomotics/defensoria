@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/involucrado/impl
+END
+DefensorPrivadoDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/involucrado/impl/DefensorPrivadoDAOImpl.java
+END
+AliasInvolucradoDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/involucrado/impl/AliasInvolucradoDAOImpl.java
+END
+ServidorPublicoDAOImp.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/involucrado/impl/ServidorPublicoDAOImp.java
+END
+InvolucradoDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/sigi-morelia/!svn/ver/291/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/involucrado/impl/InvolucradoDAOImpl.java
+END
+BiometricoDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/involucrado/impl/BiometricoDAOImpl.java
+END
+InvolucradoNacionalidadDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/involucrado/impl/InvolucradoNacionalidadDAOImpl.java
+END
+DefensaInvolucradoDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/involucrado/impl/DefensaInvolucradoDAOImpl.java
+END
+PerfilDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/involucrado/impl/PerfilDAOImpl.java
+END
+InvolucradoOcupacionDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/involucrado/impl/InvolucradoOcupacionDAOImpl.java
+END
+DetencionDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/sigi-morelia/!svn/ver/174/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/involucrado/impl/DetencionDAOImpl.java
+END

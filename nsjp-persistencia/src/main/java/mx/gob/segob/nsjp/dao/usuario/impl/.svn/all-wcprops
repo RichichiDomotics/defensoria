@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/usuario/impl
+END
+FuncionDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/usuario/impl/FuncionDAOImpl.java
+END
+RolFuncionDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/usuario/impl/RolFuncionDAOImpl.java
+END
+ModuloDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/usuario/impl/ModuloDAOImpl.java
+END
+UsuarioDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/usuario/impl/UsuarioDAOImpl.java
+END
+RolDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/usuario/impl/RolDAOImpl.java
+END
+UsuarioRolDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/usuario/impl/UsuarioRolDAOImpl.java
+END

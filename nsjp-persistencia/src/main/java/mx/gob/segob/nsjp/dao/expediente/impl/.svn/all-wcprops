@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/expediente/impl
+END
+ExpedienteTecnicoDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/expediente/impl/ExpedienteTecnicoDAOImpl.java
+END
+RelNumExpedienteAuditoriaDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/expediente/impl/RelNumExpedienteAuditoriaDAOImpl.java
+END
+TurnoDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/expediente/impl/TurnoDAOImpl.java
+END
+ConvenioDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/expediente/impl/ConvenioDAOImpl.java
+END
+NumeroExpedienteDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/sigi-morelia/!svn/ver/192/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/expediente/impl/NumeroExpedienteDAOImpl.java
+END
+NotaExpedienteDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/expediente/impl/NotaExpedienteDAOImpl.java
+END
+CausaDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/sigi-morelia/!svn/ver/226/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/expediente/impl/CausaDAOImpl.java
+END
+ExpedienteDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/sigi-morelia/!svn/ver/207/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/expediente/impl/ExpedienteDAOImpl.java
+END
+HistoricoExpedienteDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/expediente/impl/HistoricoExpedienteDAOImpl.java
+END
+ExpedienteRestDefensoriaDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/expediente/impl/ExpedienteRestDefensoriaDAOImpl.java
+END
+PermisoExpedienteDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/expediente/impl/PermisoExpedienteDAOImpl.java
+END
+ExpedienteAdscritoDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/expediente/impl/ExpedienteAdscritoDAOImpl.java
+END
+ActividadDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/expediente/impl/ActividadDAOImpl.java
+END

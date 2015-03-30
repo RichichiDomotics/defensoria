@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/test/java/mx/gob/segob/nsjp/dao/test/bitacora
+END
+BitacoraMovimientoDAOImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/test/java/mx/gob/segob/nsjp/dao/test/bitacora/BitacoraMovimientoDAOImplTest.java
+END
+BitacoraConsultaDAOImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/test/java/mx/gob/segob/nsjp/dao/test/bitacora/BitacoraConsultaDAOImplTest.java
+END
+BitacoraDescargaDAOImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/test/java/mx/gob/segob/nsjp/dao/test/bitacora/BitacoraDescargaDAOImplTest.java
+END
+RegistroBitacoraDAOImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/test/java/mx/gob/segob/nsjp/dao/test/bitacora/RegistroBitacoraDAOImplTest.java
+END

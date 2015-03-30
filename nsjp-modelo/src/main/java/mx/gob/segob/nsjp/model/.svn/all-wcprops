@@ -1,0 +1,1715 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sigi-morelia/!svn/ver/67/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model
+END
+PermisoSolicitud.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/PermisoSolicitud.java
+END
+Nota.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Nota.java
+END
+Cadaver.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Cadaver.java
+END
+ArmaExplosivoInvolucradoId.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/ArmaExplosivoInvolucradoId.java
+END
+AsignacionPrograma.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/AsignacionPrograma.java
+END
+QuejaCiudadana.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/QuejaCiudadana.java
+END
+BitacoraConsulta.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/BitacoraConsulta.java
+END
+UsuarioRol.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/UsuarioRol.java
+END
+RelacionDatoMedioPrueba.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/RelacionDatoMedioPrueba.java
+END
+Tiempo.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Tiempo.java
+END
+InvolucradoOcupacionId.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/InvolucradoOcupacionId.java
+END
+Notificacion.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Notificacion.java
+END
+RelacionDocumentoElemento.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/RelacionDocumentoElemento.java
+END
+Medida.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Medida.java
+END
+Delito.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Delito.java
+END
+Telefonia.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Telefonia.java
+END
+Elemento.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/sigi-morelia/!svn/ver/269/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Elemento.java
+END
+CatFaltaAdministrativa.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/CatFaltaAdministrativa.java
+END
+Lugar.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Lugar.java
+END
+CatEtiqueta.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/CatEtiqueta.java
+END
+AudienciaEvidenciaId.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/AudienciaEvidenciaId.java
+END
+EventoCita.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/EventoCita.java
+END
+EntrevistaInicial.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/EntrevistaInicial.java
+END
+LineaInvestigacion.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/LineaInvestigacion.java
+END
+CatDelitoClasificacion.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/CatDelitoClasificacion.java
+END
+Causa.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/sigi-morelia/!svn/ver/220/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Causa.java
+END
+OfUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/OfUser.java
+END
+AgenciaFiscalia.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/AgenciaFiscalia.java
+END
+FechaCompromiso.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/FechaCompromiso.java
+END
+InvolucradoOcupacion.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/InvolucradoOcupacion.java
+END
+CatCategoriaCurso.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/CatCategoriaCurso.java
+END
+FuncionarioAudiencia.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/FuncionarioAudiencia.java
+END
+Caso.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Caso.java
+END
+LeyCodigo.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/LeyCodigo.java
+END
+Direccion.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Direccion.java
+END
+CatTipoNivelAcademico.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/CatTipoNivelAcademico.java
+END
+MedioTransporte.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/MedioTransporte.java
+END
+Joya.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Joya.java
+END
+OficioEstructurado.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/OficioEstructurado.java
+END
+RelacionDocumento.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/RelacionDocumento.java
+END
+SubprocesoId.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/SubprocesoId.java
+END
+CampoCatalogo.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/CampoCatalogo.java
+END
+Convenio.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Convenio.java
+END
+FluidoCorporal.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/FluidoCorporal.java
+END
+Curso.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Curso.java
+END
+SolicitudAdjuntos.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/SolicitudAdjuntos.java
+END
+FechaCompArchDigId.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/FechaCompArchDigId.java
+END
+RolFuncion.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/RolFuncion.java
+END
+SolicitudTrasladoImputado.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/SolicitudTrasladoImputado.java
+END
+InvolucradoNacionalidadId.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/InvolucradoNacionalidadId.java
+END
+CompromisoPeriodico.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/CompromisoPeriodico.java
+END
+DocumentoOficial.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/DocumentoOficial.java
+END
+JerarquiaOrgTipoSolicitudId.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/JerarquiaOrgTipoSolicitudId.java
+END
+TurnoLaboral.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/TurnoLaboral.java
+END
+PermisoAudiencia.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/PermisoAudiencia.java
+END
+EncargadoAlmacen.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/EncargadoAlmacen.java
+END
+Funcionario.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Funcionario.java
+END
+RelacionReincidencia.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/RelacionReincidencia.java
+END
+BitacoraDefensor.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/BitacoraDefensor.java
+END
+Modulo.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Modulo.java
+END
+AsignacionCentroDetencion.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/AsignacionCentroDetencion.java
+END
+OfGroupUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/OfGroupUser.java
+END
+NivelAcademico.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/NivelAcademico.java
+END
+SeguimientoLI.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/SeguimientoLI.java
+END
+CatCurso.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/CatCurso.java
+END
+SolicitudDefensorDelito.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/SolicitudDefensorDelito.java
+END
+Aeronave.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Aeronave.java
+END
+RegistroBitacora.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/RegistroBitacora.java
+END
+RelNumExpedienteAuditoria.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/RelNumExpedienteAuditoria.java
+END
+CentroDetencion.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/CentroDetencion.java
+END
+SalaJAVS.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/SalaJAVS.java
+END
+DelitoPersona.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/sigi-morelia/!svn/ver/67/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/DelitoPersona.java
+END
+CartaCumplimiento.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/CartaCumplimiento.java
+END
+CatTrabajo.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/CatTrabajo.java
+END
+OrganizacionAudienciaId.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/OrganizacionAudienciaId.java
+END
+AgendaFuncionario.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/AgendaFuncionario.java
+END
+CatDelito.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/CatDelito.java
+END
+CatDistrito.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/CatDistrito.java
+END
+Almacen.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Almacen.java
+END
+CatCategoriaRelacion.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/CatCategoriaRelacion.java
+END
+MandamientoAdjuntosId.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/MandamientoAdjuntosId.java
+END
+SeniaParticular.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/SeniaParticular.java
+END
+InvolucradoAudiencia.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/InvolucradoAudiencia.java
+END
+IndiceEstructurado.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/IndiceEstructurado.java
+END
+InventarioPertenencia.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/InventarioPertenencia.java
+END
+FechaCompArchDig.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/FechaCompArchDig.java
+END
+CatComponente.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/CatComponente.java
+END
+CatJuzgado.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/sigi-morelia/!svn/ver/220/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/CatJuzgado.java
+END
+CopiasAudioVideo.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/CopiasAudioVideo.java
+END
+PermisoExpediente.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/PermisoExpediente.java
+END
+Animal.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Animal.java
+END
+AudienciaDocumento.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/AudienciaDocumento.java
+END
+InformePolicialHomologado.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/InformePolicialHomologado.java
+END
+Telefono.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Telefono.java
+END
+CatDelitoActuacion.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/CatDelitoActuacion.java
+END
+PuntoCarretero.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/PuntoCarretero.java
+END
+JerarquiaOrgTipoSolicitud.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/JerarquiaOrgTipoSolicitud.java
+END
+SolicitudDefensor.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/SolicitudDefensor.java
+END
+DiaInhabil.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/DiaInhabil.java
+END
+Expediente.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Expediente.java
+END
+Arma.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Arma.java
+END
+Inmediacion.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Inmediacion.java
+END
+Organizacion.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Organizacion.java
+END
+Sala.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Sala.java
+END
+MediaFiliacion.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/MediaFiliacion.java
+END
+ConfActividadDocumento.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/ConfActividadDocumento.java
+END
+Sentencia.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Sentencia.java
+END
+OrdenDeAprehension.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/OrdenDeAprehension.java
+END
+AvisoDesignacion.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/AvisoDesignacion.java
+END
+Biometrico.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Biometrico.java
+END
+SalaAudiencia.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sigi-morelia/!svn/ver/222/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/SalaAudiencia.java
+END
+EslabonDocumento.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/EslabonDocumento.java
+END
+AreaGeografica.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/AreaGeografica.java
+END
+Registro.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Registro.java
+END
+JerarquiaOrganizacional.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/JerarquiaOrganizacional.java
+END
+CatTipoAsentamiento.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/CatTipoAsentamiento.java
+END
+ObjetoAsegurado.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/ObjetoAsegurado.java
+END
+Explosivo.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Explosivo.java
+END
+OfGroupUserId.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/OfGroupUserId.java
+END
+Perfil.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Perfil.java
+END
+AvisoDetencionDelito.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/AvisoDetencionDelito.java
+END
+ConfInstitucion.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/ConfInstitucion.java
+END
+Vehiculo.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Vehiculo.java
+END
+ObraArte.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/ObraArte.java
+END
+CatFormaNotificacion.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/CatFormaNotificacion.java
+END
+MedioPrueba.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/MedioPrueba.java
+END
+CatAudiencia.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/sigi-morelia/!svn/ver/220/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/CatAudiencia.java
+END
+CatDelitoSituacion.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/sigi-morelia/!svn/ver/67/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/CatDelitoSituacion.java
+END
+EntrevistaComplementaria.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/EntrevistaComplementaria.java
+END
+Programa.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Programa.java
+END
+DomicilioExtranjero.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/DomicilioExtranjero.java
+END
+ArmaBlanca.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/ArmaBlanca.java
+END
+InvolucradoNacionalidad.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/InvolucradoNacionalidad.java
+END
+HistoricoExpediente.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/HistoricoExpediente.java
+END
+SolicitudAdjuntosId.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/SolicitudAdjuntosId.java
+END
+NotaExpediente.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/NotaExpediente.java
+END
+SentenciaId.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/SentenciaId.java
+END
+CatPrograma.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/CatPrograma.java
+END
+CatTipoTrabajoExterno.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/CatTipoTrabajoExterno.java
+END
+ExpedienteTecnico.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/ExpedienteTecnico.java
+END
+Alarma.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Alarma.java
+END
+MedidaCautelar.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/MedidaCautelar.java
+END
+Rol.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Rol.java
+END
+Usuario.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Usuario.java
+END
+ObjetoAseguradoId.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/ObjetoAseguradoId.java
+END
+Hecho.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Hecho.java
+END
+ArchivoDigital.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/ArchivoDigital.java
+END
+DescriptorAudiencia.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/DescriptorAudiencia.java
+END
+AvisoDetencionDelitoId.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/AvisoDetencionDelitoId.java
+END
+NumeroExpediente.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/sigi-morelia/!svn/ver/221/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/NumeroExpediente.java
+END
+Tarea.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Tarea.java
+END
+InvolucradoAudienciaId.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/InvolucradoAudienciaId.java
+END
+PeriodoAcumulacionPuntos.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/PeriodoAcumulacionPuntos.java
+END
+AudienciaDocumentoId.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/AudienciaDocumentoId.java
+END
+AvisoHechoDelictivo.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/AvisoHechoDelictivo.java
+END
+TurnoLaboralIphId.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/TurnoLaboralIphId.java
+END
+MedidaAdjuntos.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/MedidaAdjuntos.java
+END
+Turno.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Turno.java
+END
+Pertenencia.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Pertenencia.java
+END
+EspacioAereo.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/EspacioAereo.java
+END
+DatoPrueba.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/DatoPrueba.java
+END
+AsignacionMedidaAlterna.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/AsignacionMedidaAlterna.java
+END
+CatTipoPrograma.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/CatTipoPrograma.java
+END
+Domicilio.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Domicilio.java
+END
+Inspeccion.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Inspeccion.java
+END
+Valor.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/sigi-morelia/!svn/ver/119/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Valor.java
+END
+BitacoraMovimiento.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/BitacoraMovimiento.java
+END
+Funcion.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Funcion.java
+END
+Inmueble.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Inmueble.java
+END
+MedioDeContacto.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/MedioDeContacto.java
+END
+Incidencia.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Incidencia.java
+END
+Mandamiento.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Mandamiento.java
+END
+SolicitudAudiencia.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/SolicitudAudiencia.java
+END
+Documento.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Documento.java
+END
+FuncionarioExterno.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/FuncionarioExterno.java
+END
+RolFuncionId.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/RolFuncionId.java
+END
+SituacionImputado.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/sigi-morelia/!svn/ver/119/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/SituacionImputado.java
+END
+MedidaAlterna.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/MedidaAlterna.java
+END
+MandamientoAdjuntos.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/MandamientoAdjuntos.java
+END
+MedidaAdjuntosId.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/MedidaAdjuntosId.java
+END
+AudienciaEvidencia.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/AudienciaEvidencia.java
+END
+Persona.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Persona.java
+END
+Sustancia.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Sustancia.java
+END
+ActoBuenaConducta.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/ActoBuenaConducta.java
+END
+Solicitud.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Solicitud.java
+END
+SolicitudPericial.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/SolicitudPericial.java
+END
+Detencion.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Detencion.java
+END
+NotaEvolucion.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/NotaEvolucion.java
+END
+Actividad.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Actividad.java
+END
+CorreoElectronico.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/CorreoElectronico.java
+END
+AgendaAlarma.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/AgendaAlarma.java
+END
+FuncionarioAudienciaId.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/FuncionarioAudienciaId.java
+END
+EncargadoAlmacenId.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/EncargadoAlmacenId.java
+END
+PermisoExpedienteId.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/PermisoExpedienteId.java
+END
+AvisoDetencion.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/AvisoDetencion.java
+END
+EtiquetaJerarquia.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/EtiquetaJerarquia.java
+END
+MutilacionCorporal.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/MutilacionCorporal.java
+END
+CatDelitoActuacionId.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/CatDelitoActuacionId.java
+END
+EspacioMaritimo.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/EspacioMaritimo.java
+END
+ArmaExplosivoInvolucrado.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/ArmaExplosivoInvolucrado.java
+END
+InvolucradoIph.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/InvolucradoIph.java
+END
+Numerario.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Numerario.java
+END
+PermisoSolicitudId.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/PermisoSolicitudId.java
+END
+MedioTransporteId.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/MedioTransporteId.java
+END
+Resolutivo.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Resolutivo.java
+END
+Sitio.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Sitio.java
+END
+Remision.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Remision.java
+END
+DelitoIphId.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/DelitoIphId.java
+END
+CatDelitoLugar.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/CatDelitoLugar.java
+END
+SolicitudDefensorDelitoId.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/SolicitudDefensorDelitoId.java
+END
+Forma.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Forma.java
+END
+CatDelitoModalidad.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/CatDelitoModalidad.java
+END
+CamposForma.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/CamposForma.java
+END
+EquipoTactico.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/EquipoTactico.java
+END
+TurnoLaboralIph.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/TurnoLaboralIph.java
+END
+Catalogo.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Catalogo.java
+END
+CatDelitoCausa.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/CatDelitoCausa.java
+END
+QuejaConfirmada.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/QuejaConfirmada.java
+END
+DefensorPrivado.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/DefensorPrivado.java
+END
+MultaSancion.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/MultaSancion.java
+END
+ElementoMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/ElementoMenu.java
+END
+Implicado.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Implicado.java
+END
+ServidorPublico.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/ServidorPublico.java
+END
+CatDiscriminante.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/CatDiscriminante.java
+END
+Arancel.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Arancel.java
+END
+Dictamen.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Dictamen.java
+END
+BitacoraDescarga.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/BitacoraDescarga.java
+END
+CuerpoOficioEstructurado.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/CuerpoOficioEstructurado.java
+END
+Objeto.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Objeto.java
+END
+Sesion.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Sesion.java
+END
+CoordenadaGeografica.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/CoordenadaGeografica.java
+END
+Interviniente.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Interviniente.java
+END
+AgenciaFiscaliaPK.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/AgenciaFiscaliaPK.java
+END
+SolicitudTranscripcionAudiencia.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/SolicitudTranscripcionAudiencia.java
+END
+CatAreasNegocio.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/CatAreasNegocio.java
+END
+NombreDemografico.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/NombreDemografico.java
+END
+EntidadFederativa.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/EntidadFederativa.java
+END
+RelacionPruebaInvolucrado.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/RelacionPruebaInvolucrado.java
+END
+Involucrado.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/sigi-morelia/!svn/ver/269/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Involucrado.java
+END
+CatDelitoModus.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/CatDelitoModus.java
+END
+SolicitudDiligencia.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/SolicitudDiligencia.java
+END
+CatTipoRemision.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/CatTipoRemision.java
+END
+Municipio.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Municipio.java
+END
+Relacion.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Relacion.java
+END
+Calidad.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Calidad.java
+END
+ExpedienteAdscrito.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/ExpedienteAdscrito.java
+END
+Asentamiento.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Asentamiento.java
+END
+CatRelacion.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/CatRelacion.java
+END
+EquipoComputo.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/EquipoComputo.java
+END
+DefensaInvolucrado.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/DefensaInvolucrado.java
+END
+Audiencia.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sigi-morelia/!svn/ver/219/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Audiencia.java
+END
+CatEstadoPermiso.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/CatEstadoPermiso.java
+END
+OrganizacionAudiencia.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/OrganizacionAudiencia.java
+END
+FaltaAdministrativaIphId.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/FaltaAdministrativaIphId.java
+END
+SolicitudMandamiento.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/SolicitudMandamiento.java
+END
+CatUIEspecializada.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/CatUIEspecializada.java
+END
+Multimedia.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Multimedia.java
+END
+DelitoIph.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/DelitoIph.java
+END
+AliasInvolucrado.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/AliasInvolucrado.java
+END
+Evidencia.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Evidencia.java
+END
+SalaTemporal.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/SalaTemporal.java
+END
+Alerta.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Alerta.java
+END
+Familiar.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Familiar.java
+END
+Operativo.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Operativo.java
+END
+Parametro.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Parametro.java
+END
+FaltaAdministrativaIph.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/FaltaAdministrativaIph.java
+END
+Ciudad.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Ciudad.java
+END
+DefensaInvolucradoId.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/DefensaInvolucradoId.java
+END
+CatTipoCurso.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/CatTipoCurso.java
+END
+Embarcacion.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Embarcacion.java
+END
+OfProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/OfProperty.java
+END
+AcuseRecibo.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/AcuseRecibo.java
+END
+Subproceso.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Subproceso.java
+END
+Proceso.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Proceso.java
+END
+Visitante.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Visitante.java
+END
+Trabajo.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Trabajo.java
+END
+CategoriaElemento.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/CategoriaElemento.java
+END
+Comentario.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Comentario.java
+END
+Eslabon.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Eslabon.java
+END
+UsuarioRolId.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/UsuarioRolId.java
+END
+ExpedienteRestDefensoria.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/ExpedienteRestDefensoria.java
+END
+Intento.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Intento.java
+END
+CadenaDeCustodia.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/CadenaDeCustodia.java
+END
+Vegetal.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/Vegetal.java
+END
+EslabonDocumentoId.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/sigi-morelia/!svn/ver/7/trunk/nsjp/nsjp-modelo/src/main/java/mx/gob/segob/nsjp/model/EslabonDocumentoId.java
+END

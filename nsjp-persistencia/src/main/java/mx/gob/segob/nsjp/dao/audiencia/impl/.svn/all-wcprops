@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/audiencia/impl
+END
+SalaDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/audiencia/impl/SalaDAOImpl.java
+END
+InvolucradoAudienciaDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/audiencia/impl/InvolucradoAudienciaDAOImpl.java
+END
+PermisoAudienciaDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/audiencia/impl/PermisoAudienciaDAOImpl.java
+END
+IntervinienteDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/audiencia/impl/IntervinienteDAOImpl.java
+END
+SitioDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/audiencia/impl/SitioDAOImpl.java
+END
+SalaTemporalDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/audiencia/impl/SalaTemporalDAOImpl.java
+END
+OrganizacionAudienciaDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/audiencia/impl/OrganizacionAudienciaDAOImpl.java
+END
+ResolutivoDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/audiencia/impl/ResolutivoDAOImpl.java
+END
+SalaAudienciaDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/audiencia/impl/SalaAudienciaDAOImpl.java
+END
+SalaJAVSDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/audiencia/impl/SalaJAVSDAOImpl.java
+END
+AudienciaDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/sigi-morelia/!svn/ver/288/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/audiencia/impl/AudienciaDAOImpl.java
+END
+CatEstadoPermisoDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/audiencia/impl/CatEstadoPermisoDAOImpl.java
+END
+AudienciaEvidenciaDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/audiencia/impl/AudienciaEvidenciaDAOImpl.java
+END

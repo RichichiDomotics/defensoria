@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/test/java/mx/gob/segob/nsjp/dao/test/objeto/impl
+END
+AnimalDAOImplTets.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/test/java/mx/gob/segob/nsjp/dao/test/objeto/impl/AnimalDAOImplTets.java
+END
+EquipoComputoDAOImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/test/java/mx/gob/segob/nsjp/dao/test/objeto/impl/EquipoComputoDAOImplTest.java
+END
+AeronaveDAOImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/test/java/mx/gob/segob/nsjp/dao/test/objeto/impl/AeronaveDAOImplTest.java
+END
+ObraArteDAOImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/test/java/mx/gob/segob/nsjp/dao/test/objeto/impl/ObraArteDAOImplTest.java
+END
+VehiculoDAOImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/test/java/mx/gob/segob/nsjp/dao/test/objeto/impl/VehiculoDAOImplTest.java
+END
+ArmaDAOImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/test/java/mx/gob/segob/nsjp/dao/test/objeto/impl/ArmaDAOImplTest.java
+END
+ObjetoDAOImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/test/java/mx/gob/segob/nsjp/dao/test/objeto/impl/ObjetoDAOImplTest.java
+END
+NumerarioDAOImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/test/java/mx/gob/segob/nsjp/dao/test/objeto/impl/NumerarioDAOImplTest.java
+END
+SustanciaDAOImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/test/java/mx/gob/segob/nsjp/dao/test/objeto/impl/SustanciaDAOImplTest.java
+END
+JoyaDAOImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/test/java/mx/gob/segob/nsjp/dao/test/objeto/impl/JoyaDAOImplTest.java
+END
+EmbarcacionDAOImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/test/java/mx/gob/segob/nsjp/dao/test/objeto/impl/EmbarcacionDAOImplTest.java
+END
+DocumentoOficialDAOImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/test/java/mx/gob/segob/nsjp/dao/test/objeto/impl/DocumentoOficialDAOImplTest.java
+END
+ExplosivoDAOImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/test/java/mx/gob/segob/nsjp/dao/test/objeto/impl/ExplosivoDAOImplTest.java
+END
+VegetalDAOImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/test/java/mx/gob/segob/nsjp/dao/test/objeto/impl/VegetalDAOImplTest.java
+END
+TelefoniaDAOImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/test/java/mx/gob/segob/nsjp/dao/test/objeto/impl/TelefoniaDAOImplTest.java
+END

@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/programa
+END
+RemisionDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/programa/RemisionDAO.java
+END
+ActoBuenaConductaDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/programa/ActoBuenaConductaDAO.java
+END
+AsignacionProgramaDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/programa/AsignacionProgramaDAO.java
+END
+CatCursoDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/programa/CatCursoDAO.java
+END
+TrabajoDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/programa/TrabajoDAO.java
+END
+AsignacionMedidaAlternaDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/programa/AsignacionMedidaAlternaDAO.java
+END
+CatTipoProgramaDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/programa/CatTipoProgramaDAO.java
+END
+CatTipoRemisionDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/programa/CatTipoRemisionDAO.java
+END
+CatTrabajoDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/programa/CatTrabajoDAO.java
+END
+CatTipoTrabajoExternoDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/programa/CatTipoTrabajoExternoDAO.java
+END
+CatTipoCursoDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/programa/CatTipoCursoDAO.java
+END
+CatProgramaDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/programa/CatProgramaDAO.java
+END
+AsignacionCentroDetencionDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/programa/AsignacionCentroDetencionDAO.java
+END
+PeriodoAcumulacionPuntosDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/programa/PeriodoAcumulacionPuntosDAO.java
+END
+CursoDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/programa/CursoDAO.java
+END
+ProgramaDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/programa/ProgramaDAO.java
+END
+CatCategoriaCursoDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/programa/CatCategoriaCursoDAO.java
+END

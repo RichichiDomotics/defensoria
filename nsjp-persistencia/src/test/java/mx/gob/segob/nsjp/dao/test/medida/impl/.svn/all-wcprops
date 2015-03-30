@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/test/java/mx/gob/segob/nsjp/dao/test/medida/impl
+END
+IncidenciaDAOImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/test/java/mx/gob/segob/nsjp/dao/test/medida/impl/IncidenciaDAOImplTest.java
+END
+MedidaDAOImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/test/java/mx/gob/segob/nsjp/dao/test/medida/impl/MedidaDAOImplTest.java
+END
+MedidaAlternaDAOImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/test/java/mx/gob/segob/nsjp/dao/test/medida/impl/MedidaAlternaDAOImplTest.java
+END
+CompromisoPeriodicoDAOImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/test/java/mx/gob/segob/nsjp/dao/test/medida/impl/CompromisoPeriodicoDAOImplTest.java
+END
+MedidaAdjuntosDAOImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/test/java/mx/gob/segob/nsjp/dao/test/medida/impl/MedidaAdjuntosDAOImplTest.java
+END

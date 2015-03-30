@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/sigi-morelia/!svn/ver/242/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/solicitud
+END
+SolicitudMandamientoDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/solicitud/SolicitudMandamientoDAO.java
+END
+SolicitudDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/solicitud/SolicitudDAO.java
+END
+SolicitudTranscricpionAudienciaDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/solicitud/SolicitudTranscricpionAudienciaDAO.java
+END
+SolicitudTrasladoImputadoDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/solicitud/SolicitudTrasladoImputadoDAO.java
+END
+SolicitudAudienciaDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/solicitud/SolicitudAudienciaDAO.java
+END
+SolicitudDefensorDelitoDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/sigi-morelia/!svn/ver/242/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/solicitud/SolicitudDefensorDelitoDAO.java
+END
+SolicitudDefensorDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/solicitud/SolicitudDefensorDAO.java
+END
+SolicitudAdjuntosDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/solicitud/SolicitudAdjuntosDAO.java
+END
+PermisoSolicitudDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/solicitud/PermisoSolicitudDAO.java
+END
+SolicitudDiligenciaDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/solicitud/SolicitudDiligenciaDAO.java
+END
+SolicitudPericialDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/solicitud/SolicitudPericialDAO.java
+END

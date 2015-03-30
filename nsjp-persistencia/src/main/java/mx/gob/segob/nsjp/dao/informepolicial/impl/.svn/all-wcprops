@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/informepolicial/impl
+END
+TurnoLaboralIphIdDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/informepolicial/impl/TurnoLaboralIphIdDAOImpl.java
+END
+InformePolicialHomologadoDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/informepolicial/impl/InformePolicialHomologadoDAOImpl.java
+END
+InvolucradoIPHDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/informepolicial/impl/InvolucradoIPHDAOImpl.java
+END
+OperativoDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/informepolicial/impl/OperativoDAOImpl.java
+END

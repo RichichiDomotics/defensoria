@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/sigi-morelia/!svn/ver/66/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/catalogo/impl
+END
+CatDiscriminateDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/catalogo/impl/CatDiscriminateDAOImpl.java
+END
+ValorDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/sigi-morelia/!svn/ver/120/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/catalogo/impl/ValorDAOImpl.java
+END
+CatDelitoClasificacionDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/catalogo/impl/CatDelitoClasificacionDAOImpl.java
+END
+CatDistritoDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/catalogo/impl/CatDistritoDAOImpl.java
+END
+CatUIEspecializadaDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/catalogo/impl/CatUIEspecializadaDAOImpl.java
+END
+CatDelitoDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/sigi-morelia/!svn/ver/80/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/catalogo/impl/CatDelitoDAOImpl.java
+END
+CatDelitoModusDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/catalogo/impl/CatDelitoModusDAOImpl.java
+END
+CatFaltaAdministrativaDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/catalogo/impl/CatFaltaAdministrativaDAOImpl.java
+END
+RegistroDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/catalogo/impl/RegistroDAOImpl.java
+END
+CatalogoDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/catalogo/impl/CatalogoDAOImpl.java
+END
+CatDelitoCausaDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/catalogo/impl/CatDelitoCausaDAOImpl.java
+END
+DiaInhabilDAOImipl.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/catalogo/impl/DiaInhabilDAOImipl.java
+END
+CatAreasNegocioDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/catalogo/impl/CatAreasNegocioDAOImpl.java
+END
+CatDelitoModalidadDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/catalogo/impl/CatDelitoModalidadDAOImpl.java
+END
+CatDelitoLugarDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/catalogo/impl/CatDelitoLugarDAOImpl.java
+END
+CatDelitoSituacionDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/sigi-morelia/!svn/ver/66/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/catalogo/impl/CatDelitoSituacionDAOImpl.java
+END

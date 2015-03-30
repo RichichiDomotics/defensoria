@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/institucion/impl
+END
+JerarquiaOrganizacionalDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/institucion/impl/JerarquiaOrganizacionalDAOImpl.java
+END
+ConfInstitucionDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/institucion/impl/ConfInstitucionDAOImpl.java
+END
+JerarquiaOrgTipoSolicitudDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/institucion/impl/JerarquiaOrgTipoSolicitudDAOImpl.java
+END

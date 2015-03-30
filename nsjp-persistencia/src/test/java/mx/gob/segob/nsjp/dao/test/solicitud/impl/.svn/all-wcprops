@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/test/java/mx/gob/segob/nsjp/dao/test/solicitud/impl
+END
+SolicitudDAOImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/test/java/mx/gob/segob/nsjp/dao/test/solicitud/impl/SolicitudDAOImplTest.java
+END
+SolicitudTranscricpionAudienciaDAOImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/test/java/mx/gob/segob/nsjp/dao/test/solicitud/impl/SolicitudTranscricpionAudienciaDAOImplTest.java
+END
+SolicitudTrasladoImputadoDAOImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/test/java/mx/gob/segob/nsjp/dao/test/solicitud/impl/SolicitudTrasladoImputadoDAOImplTest.java
+END
+SolicitudAudienciaDAOImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/test/java/mx/gob/segob/nsjp/dao/test/solicitud/impl/SolicitudAudienciaDAOImplTest.java
+END
+SolicitudDefensorDAOImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/test/java/mx/gob/segob/nsjp/dao/test/solicitud/impl/SolicitudDefensorDAOImplTest.java
+END
+SolicitudPericialDAOImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/test/java/mx/gob/segob/nsjp/dao/test/solicitud/impl/SolicitudPericialDAOImplTest.java
+END
+SolicitudMandamientoDAOImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/test/java/mx/gob/segob/nsjp/dao/test/solicitud/impl/SolicitudMandamientoDAOImplTest.java
+END

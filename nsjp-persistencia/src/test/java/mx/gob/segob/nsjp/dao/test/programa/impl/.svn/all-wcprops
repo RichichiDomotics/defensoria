@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/test/java/mx/gob/segob/nsjp/dao/test/programa/impl
+END
+AsignacionCentroDetencionDAOImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/test/java/mx/gob/segob/nsjp/dao/test/programa/impl/AsignacionCentroDetencionDAOImplTest.java
+END
+CursoDAOImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/test/java/mx/gob/segob/nsjp/dao/test/programa/impl/CursoDAOImplTest.java
+END
+ProgramaDAOImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/test/java/mx/gob/segob/nsjp/dao/test/programa/impl/ProgramaDAOImplTest.java
+END
+CatCategoriaCursoDAOImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/test/java/mx/gob/segob/nsjp/dao/test/programa/impl/CatCategoriaCursoDAOImplTest.java
+END
+RemisionDAOImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/test/java/mx/gob/segob/nsjp/dao/test/programa/impl/RemisionDAOImplTest.java
+END
+AsignacionProgramaDAOImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/test/java/mx/gob/segob/nsjp/dao/test/programa/impl/AsignacionProgramaDAOImplTest.java
+END
+CatCursoDAOImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/test/java/mx/gob/segob/nsjp/dao/test/programa/impl/CatCursoDAOImplTest.java
+END
+CatTipoProgramaDAOImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/test/java/mx/gob/segob/nsjp/dao/test/programa/impl/CatTipoProgramaDAOImplTest.java
+END
+TrabajoDAOImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/test/java/mx/gob/segob/nsjp/dao/test/programa/impl/TrabajoDAOImplTest.java
+END
+AsignacionMedidaAlternaDAOImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/test/java/mx/gob/segob/nsjp/dao/test/programa/impl/AsignacionMedidaAlternaDAOImplTest.java
+END
+CatTipoRemisionDAOImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/test/java/mx/gob/segob/nsjp/dao/test/programa/impl/CatTipoRemisionDAOImplTest.java
+END
+CatTrabajoDAOImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/test/java/mx/gob/segob/nsjp/dao/test/programa/impl/CatTrabajoDAOImplTest.java
+END
+CatTipoTrabajoExternoDAOImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/test/java/mx/gob/segob/nsjp/dao/test/programa/impl/CatTipoTrabajoExternoDAOImplTest.java
+END
+CatTipoCursoDAOImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/test/java/mx/gob/segob/nsjp/dao/test/programa/impl/CatTipoCursoDAOImplTest.java
+END
+CatProgramaDAOImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/test/java/mx/gob/segob/nsjp/dao/test/programa/impl/CatProgramaDAOImplTest.java
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/test/java/mx/gob/segob/nsjp/dao/test/documento/impl
+END
+DocumentoDAOImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/test/java/mx/gob/segob/nsjp/dao/test/documento/impl/DocumentoDAOImplTest.java
+END
+AvisoHechoDelictivoDAOImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/test/java/mx/gob/segob/nsjp/dao/test/documento/impl/AvisoHechoDelictivoDAOImplTest.java
+END
+EslabonDocumentoDAOImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/test/java/mx/gob/segob/nsjp/dao/test/documento/impl/EslabonDocumentoDAOImplTest.java
+END
+MandamientoDAOImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/test/java/mx/gob/segob/nsjp/dao/test/documento/impl/MandamientoDAOImplTest.java
+END
+AvisoDesignacionDAOImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/test/java/mx/gob/segob/nsjp/dao/test/documento/impl/AvisoDesignacionDAOImplTest.java
+END
+AcuseReciboDAOImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/test/java/mx/gob/segob/nsjp/dao/test/documento/impl/AcuseReciboDAOImplTest.java
+END
+NotificacionDAOImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/test/java/mx/gob/segob/nsjp/dao/test/documento/impl/NotificacionDAOImplTest.java
+END
+NotaDAOImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/test/java/mx/gob/segob/nsjp/dao/test/documento/impl/NotaDAOImplTest.java
+END
+MedidaCautelarDAOImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/test/java/mx/gob/segob/nsjp/dao/test/documento/impl/MedidaCautelarDAOImplTest.java
+END
+AvisoDetencionDAOImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/test/java/mx/gob/segob/nsjp/dao/test/documento/impl/AvisoDetencionDAOImplTest.java
+END
+DetencionDAOImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/test/java/mx/gob/segob/nsjp/dao/test/documento/impl/DetencionDAOImplTest.java
+END
+CartaCumplimientoDAOImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/test/java/mx/gob/segob/nsjp/dao/test/documento/impl/CartaCumplimientoDAOImplTest.java
+END
+CatFormaNotificacionDAOImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/test/java/mx/gob/segob/nsjp/dao/test/documento/impl/CatFormaNotificacionDAOImplTest.java
+END

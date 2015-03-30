@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/funcionario/impl
+END
+BitacoraDefensorDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/funcionario/impl/BitacoraDefensorDAOImpl.java
+END
+DefensorDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/sigi-morelia/!svn/ver/175/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/funcionario/impl/DefensorDAOImpl.java
+END
+FuncionarioDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/funcionario/impl/FuncionarioDAOImpl.java
+END
+FuncionarioAudienciaDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/sigi-morelia/!svn/ver/8/trunk/nsjp/nsjp-persistencia/src/main/java/mx/gob/segob/nsjp/dao/funcionario/impl/FuncionarioAudienciaDAOImpl.java
+END
