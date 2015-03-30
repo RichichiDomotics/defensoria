@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/sigi-morelia/!svn/ver/6/trunk/nsjp/nsjp-mail/src/main/java/mx/gob/segob/nsjp/service/correo
+END
+EsActivo.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sigi-morelia/!svn/ver/6/trunk/nsjp/nsjp-mail/src/main/java/mx/gob/segob/nsjp/service/correo/EsActivo.java
+END
+OrdenarRecipientes.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/sigi-morelia/!svn/ver/6/trunk/nsjp/nsjp-mail/src/main/java/mx/gob/segob/nsjp/service/correo/OrdenarRecipientes.java
+END
+ObtenerCorreos.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/sigi-morelia/!svn/ver/6/trunk/nsjp/nsjp-mail/src/main/java/mx/gob/segob/nsjp/service/correo/ObtenerCorreos.java
+END
+EnviarCorreo.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/sigi-morelia/!svn/ver/6/trunk/nsjp/nsjp-mail/src/main/java/mx/gob/segob/nsjp/service/correo/EnviarCorreo.java
+END
