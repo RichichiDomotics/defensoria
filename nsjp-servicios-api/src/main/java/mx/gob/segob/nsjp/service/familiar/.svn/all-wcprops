@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/sigi-morelia/!svn/ver/9/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/familiar
+END
+GuardarFamiliarService.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/sigi-morelia/!svn/ver/9/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/familiar/GuardarFamiliarService.java
+END
+ConsultarFamiliaresPorIdEntrevistaComplementariaService.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/sigi-morelia/!svn/ver/9/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/familiar/ConsultarFamiliaresPorIdEntrevistaComplementariaService.java
+END
+ConsultarFamiliarPorIdService.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/sigi-morelia/!svn/ver/9/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/familiar/ConsultarFamiliarPorIdService.java
+END

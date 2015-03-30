@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/caso/impl
+END
+AsignarNumeroCasoServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/sigi-morelia/!svn/ver/113/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/caso/impl/AsignarNumeroCasoServiceImpl.java
+END
+RegistrarReplicaCasoServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/sigi-morelia/!svn/ver/254/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/caso/impl/RegistrarReplicaCasoServiceImpl.java
+END
+EnviarReplicaCasoServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/sigi-morelia/!svn/ver/291/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/caso/impl/EnviarReplicaCasoServiceImpl.java
+END
+ActualizarEtapaCasoServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/caso/impl/ActualizarEtapaCasoServiceImpl.java
+END
+BuscarCasoServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/caso/impl/BuscarCasoServiceImpl.java
+END

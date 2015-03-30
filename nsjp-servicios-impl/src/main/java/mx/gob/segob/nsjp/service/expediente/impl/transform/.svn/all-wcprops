@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/expediente/impl/transform
+END
+ActividadTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/expediente/impl/transform/ActividadTransformer.java
+END
+UsuarioTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/expediente/impl/transform/UsuarioTransformer.java
+END
+CompromisoPeriodicoTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/expediente/impl/transform/CompromisoPeriodicoTransformer.java
+END
+FechaCompromisoTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/expediente/impl/transform/FechaCompromisoTransformer.java
+END
+RelNumExpedienteAuditoriaTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/expediente/impl/transform/RelNumExpedienteAuditoriaTransformer.java
+END
+TurnoTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/expediente/impl/transform/TurnoTransformer.java
+END
+DatosGeneralesExpedienteTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/expediente/impl/transform/DatosGeneralesExpedienteTransformer.java
+END
+ConvenioTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/expediente/impl/transform/ConvenioTransformer.java
+END
+JerarquiaOrganizacionalTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/expediente/impl/transform/JerarquiaOrganizacionalTransformer.java
+END
+NotaExpedienteTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/expediente/impl/transform/NotaExpedienteTransformer.java
+END
+HistoricoExpedienteTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/expediente/impl/transform/HistoricoExpedienteTransformer.java
+END
+ExpedienteTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/sigi-morelia/!svn/ver/244/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/expediente/impl/transform/ExpedienteTransformer.java
+END

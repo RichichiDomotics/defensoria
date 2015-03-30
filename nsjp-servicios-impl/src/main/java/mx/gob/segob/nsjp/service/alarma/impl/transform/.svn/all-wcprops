@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/alarma/impl/transform
+END
+AlarmaTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/alarma/impl/transform/AlarmaTransformer.java
+END
+AlertaTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/alarma/impl/transform/AlertaTransformer.java
+END

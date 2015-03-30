@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/medida/impl
+END
+ConsultarMedidaServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/medida/impl/ConsultarMedidaServiceImpl.java
+END
+IngresarMedidaServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/medida/impl/IngresarMedidaServiceImpl.java
+END
+CambiarEstatusAMedidasConFechaFinVencidaServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/medida/impl/CambiarEstatusAMedidasConFechaFinVencidaServiceImpl.java
+END
+CambiarEstatusMedidaServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/medida/impl/CambiarEstatusMedidaServiceImpl.java
+END
+AsociarArchivoDigitalAMedidaServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/medida/impl/AsociarArchivoDigitalAMedidaServiceImpl.java
+END
+RegistrarMedidaCautelarServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/medida/impl/RegistrarMedidaCautelarServiceImpl.java
+END
+EnviarMedidaCautelarServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/medida/impl/EnviarMedidaCautelarServiceImpl.java
+END
+RegistrarMedidaAlternaServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/medida/impl/RegistrarMedidaAlternaServiceImpl.java
+END

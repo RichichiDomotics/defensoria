@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/organizacion/impl
+END
+EliminarOrganizacionServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/organizacion/impl/EliminarOrganizacionServiceImpl.java
+END
+ModificarOrganizacionServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/organizacion/impl/ModificarOrganizacionServiceImpl.java
+END
+IngresarOrganizacionServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/organizacion/impl/IngresarOrganizacionServiceImpl.java
+END

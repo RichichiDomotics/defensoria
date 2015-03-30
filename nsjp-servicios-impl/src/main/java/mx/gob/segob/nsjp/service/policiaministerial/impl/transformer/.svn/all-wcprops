@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/policiaministerial/impl/transformer
+END
+ComentarioTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/policiaministerial/impl/transformer/ComentarioTransformer.java
+END
+SeguimientoLITransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/policiaministerial/impl/transformer/SeguimientoLITransformer.java
+END
+LineaInvestigacionTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/policiaministerial/impl/transformer/LineaInvestigacionTransformer.java
+END

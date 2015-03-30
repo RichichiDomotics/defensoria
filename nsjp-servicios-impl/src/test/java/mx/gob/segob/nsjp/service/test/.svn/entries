@@ -1,0 +1,245 @@
+10
+
+dir
+14
+https://subversion.assembla.com/svn/sigi-morelia/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test
+https://subversion.assembla.com/svn/sigi-morelia
+
+
+
+2013-09-09T15:41:41.649772Z
+10
+ariadna
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f7879140-5060-4e79-bf49-f6b8e9c27a7b
+
+TestUtilServiceImpl.java
+file
+
+
+
+
+2013-09-09T16:39:26.443000Z
+5c35a227663e19e3f32e885933947e81
+2013-09-09T15:41:41.649772Z
+10
+ariadna
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1935
+
+actividad
+dir
+
+agenda
+dir
+
+alarma
+dir
+
+alerta
+dir
+
+almacen
+dir
+
+amparo
+dir
+
+archivo
+dir
+
+audiencia
+dir
+
+avisodetencion
+dir
+
+base
+dir
+
+bitacora
+dir
+
+cadenadecustodia
+dir
+
+calidad
+dir
+
+caso
+dir
+
+catalogo
+dir
+
+confactividad
+dir
+
+configuacion
+dir
+
+convenio
+dir
+
+defensoria
+dir
+
+delito
+dir
+
+detencion
+dir
+
+documento
+dir
+
+elemento
+dir
+
+elementomenu
+dir
+
+eslabon
+dir
+
+eventocita
+dir
+
+evidencia
+dir
+
+expediente
+dir
+
+fecha
+dir
+
+forma
+dir
+
+funcionario
+dir
+
+funcionarioexterno
+dir
+
+graficacion
+dir
+
+hecho
+dir
+
+implicado
+dir
+
+indicador
+dir
+
+informepolicial
+dir
+
+infra
+dir
+
+institucion
+dir
+
+involucrado
+dir
+
+juez
+dir
+
+leycodigo
+dir
+
+lugar
+dir
+
+medida
+dir
+
+medidascautelares
+dir
+
+notificacion
+dir
+
+objeto
+dir
+
+organizacion
+dir
+
+parametro
+dir
+
+persona
+dir
+
+policiaministerial
+dir
+
+programa
+dir
+
+prueba
+dir
+
+quejaciudadana
+dir
+
+relacion
+dir
+
+sesion
+dir
+
+solicitud
+dir
+
+tarea
+dir
+
+turnolaboral
+dir
+
+usuario
+dir
+
+visitante
+dir
+

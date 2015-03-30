@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sigi-morelia/!svn/ver/9/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/graficacion
+END
+GraficaPrincipalesDelitosService.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/sigi-morelia/!svn/ver/9/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/graficacion/GraficaPrincipalesDelitosService.java
+END
+GraficaDenunciaVSTipoDelitoService.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/sigi-morelia/!svn/ver/9/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/graficacion/GraficaDenunciaVSTipoDelitoService.java
+END
+GraficaDenunciasProbablesResponsablesDetenidosService.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/sigi-morelia/!svn/ver/9/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/graficacion/GraficaDenunciasProbablesResponsablesDetenidosService.java
+END
+GraficaSeguimientoMedidasCautelaresService.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/sigi-morelia/!svn/ver/9/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/graficacion/GraficaSeguimientoMedidasCautelaresService.java
+END
+GraficaDeterminacionPorDenunciaService.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/sigi-morelia/!svn/ver/9/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/graficacion/GraficaDeterminacionPorDenunciaService.java
+END
+GraficaDetencionesPorTipoService.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/sigi-morelia/!svn/ver/9/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/graficacion/GraficaDetencionesPorTipoService.java
+END
+GraficaInformesElaboradosService.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/sigi-morelia/!svn/ver/9/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/graficacion/GraficaInformesElaboradosService.java
+END
+GraficaSeguimientoMedidasAlternasService.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/sigi-morelia/!svn/ver/9/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/graficacion/GraficaSeguimientoMedidasAlternasService.java
+END
+GraficaCasosRemitidosService.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/sigi-morelia/!svn/ver/9/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/graficacion/GraficaCasosRemitidosService.java
+END

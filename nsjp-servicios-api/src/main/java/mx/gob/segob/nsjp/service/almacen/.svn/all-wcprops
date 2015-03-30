@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sigi-morelia/!svn/ver/9/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/almacen
+END
+ValidarCadenaCustodiaEnAlmacenService.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/sigi-morelia/!svn/ver/9/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/almacen/ValidarCadenaCustodiaEnAlmacenService.java
+END
+ConsultarMovimientosDeObjetosAlmacenService.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/sigi-morelia/!svn/ver/9/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/almacen/ConsultarMovimientosDeObjetosAlmacenService.java
+END
+ConsultarAlmacenesPorTipoService.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/sigi-morelia/!svn/ver/9/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/almacen/ConsultarAlmacenesPorTipoService.java
+END
+AsociarEvidenciasPorAlmacenService.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/sigi-morelia/!svn/ver/9/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/almacen/AsociarEvidenciasPorAlmacenService.java
+END
+ConsultarEncargadosAlmacenService.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/sigi-morelia/!svn/ver/9/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/almacen/ConsultarEncargadosAlmacenService.java
+END
+EncargadoAlmacenService.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/sigi-morelia/!svn/ver/9/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/almacen/EncargadoAlmacenService.java
+END
+CambiarExpedienteDeAlmacenService.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/sigi-morelia/!svn/ver/9/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/almacen/CambiarExpedienteDeAlmacenService.java
+END
+RegistrarAlmacenService.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/sigi-morelia/!svn/ver/9/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/almacen/RegistrarAlmacenService.java
+END
+ConsultarAlmacenService.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/sigi-morelia/!svn/ver/9/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/almacen/ConsultarAlmacenService.java
+END
+ConsultarEvidenciaPorAlmacenService.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/sigi-morelia/!svn/ver/9/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/almacen/ConsultarEvidenciaPorAlmacenService.java
+END

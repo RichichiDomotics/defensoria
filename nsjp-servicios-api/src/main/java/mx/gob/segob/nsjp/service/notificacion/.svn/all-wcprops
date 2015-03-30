@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/sigi-morelia/!svn/ver/9/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/notificacion
+END
+ConsultarNotificacionesAlmacenService.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/sigi-morelia/!svn/ver/9/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/notificacion/ConsultarNotificacionesAlmacenService.java
+END
+ConsultarUltimaNotificacionPorAnioService.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/sigi-morelia/!svn/ver/9/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/notificacion/ConsultarUltimaNotificacionPorAnioService.java
+END
+ConsultarNotificacionesXUsuarioService.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/sigi-morelia/!svn/ver/9/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/notificacion/ConsultarNotificacionesXUsuarioService.java
+END
+ConsultaNotificacionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/sigi-morelia/!svn/ver/9/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/notificacion/ConsultaNotificacionService.java
+END
+GuardarNotificacionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/sigi-morelia/!svn/ver/9/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/notificacion/GuardarNotificacionService.java
+END
+ActualizarEstatusNotificacionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/sigi-morelia/!svn/ver/9/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/notificacion/ActualizarEstatusNotificacionService.java
+END

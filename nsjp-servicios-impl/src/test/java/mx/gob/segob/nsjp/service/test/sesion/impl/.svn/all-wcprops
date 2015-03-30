@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/sesion/impl
+END
+GuardarNotaEvolucionServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/sesion/impl/GuardarNotaEvolucionServiceImplTest.java
+END
+GuardarFamiliarServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/sesion/impl/GuardarFamiliarServiceImplTest.java
+END
+ConsultarFamiliarPorIdServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/sesion/impl/ConsultarFamiliarPorIdServiceImplTest.java
+END
+ConsultarFamiliaresPorIdEntrevistaComplementariaServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/sesion/impl/ConsultarFamiliaresPorIdEntrevistaComplementariaServiceImplTest.java
+END
+ConsultarNotaEvolucionPorIdServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/sesion/impl/ConsultarNotaEvolucionPorIdServiceImplTest.java
+END
+ConsultarSesionesPorIdNumeroExpedienteServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/sesion/impl/ConsultarSesionesPorIdNumeroExpedienteServiceImplTest.java
+END
+GuardarEntrevistaInicialServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/sesion/impl/GuardarEntrevistaInicialServiceImplTest.java
+END
+ConsultarEntrevistaComplementariaPorIdServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/sesion/impl/ConsultarEntrevistaComplementariaPorIdServiceImplTest.java
+END
+GuardarEntrevistaComplementariaServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/sesion/impl/GuardarEntrevistaComplementariaServiceImplTest.java
+END
+ConsultarEntrevistaInicialPorIdServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/sesion/impl/ConsultarEntrevistaInicialPorIdServiceImplTest.java
+END

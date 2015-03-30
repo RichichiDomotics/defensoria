@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/medida/impl
+END
+ConsultarMedidaServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/medida/impl/ConsultarMedidaServiceImplTest.java
+END
+IngresarMedidaServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/medida/impl/IngresarMedidaServiceImplTest.java
+END
+CambiarEstatusMedidaServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/medida/impl/CambiarEstatusMedidaServiceTest.java
+END
+CambiarEstatusAMedidasConFechaFinVencidaServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/medida/impl/CambiarEstatusAMedidasConFechaFinVencidaServiceTest.java
+END
+AsociarArchivoDigitalAMedidaServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/medida/impl/AsociarArchivoDigitalAMedidaServiceImplTest.java
+END
+ObtenerMedidasAlternasServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/medida/impl/ObtenerMedidasAlternasServiceTest.java
+END
+RegistrarMedidaAlternaPJServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/medida/impl/RegistrarMedidaAlternaPJServiceImplTest.java
+END
+RegistrarMedidaCautelarServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/medida/impl/RegistrarMedidaCautelarServiceImplTest.java
+END
+EnviarMedidaCautelarServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/medida/impl/EnviarMedidaCautelarServiceImplTest.java
+END
+EnviarMedidaAlternaServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/medida/impl/EnviarMedidaAlternaServiceImplTest.java
+END
+ConsultarMedidasAlternasServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/medida/impl/ConsultarMedidasAlternasServiceImplTest.java
+END

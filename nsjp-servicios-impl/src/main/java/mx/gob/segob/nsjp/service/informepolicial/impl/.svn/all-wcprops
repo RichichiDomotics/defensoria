@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/informepolicial/impl
+END
+CargarInformeIPHServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/informepolicial/impl/CargarInformeIPHServiceImpl.java
+END
+InformePolicialHomologadoServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/informepolicial/impl/InformePolicialHomologadoServiceImpl.java
+END
+ConsultarInformePorNombreoFechaServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/informepolicial/impl/ConsultarInformePorNombreoFechaServiceImpl.java
+END
+ConsultarInformePolicialHomologadoServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/informepolicial/impl/ConsultarInformePolicialHomologadoServiceImpl.java
+END
+EnviarInformePolicialHomologadoServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/informepolicial/impl/EnviarInformePolicialHomologadoServiceImpl.java
+END
+ConsultarEnviarInformePolicialHomologadoServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/informepolicial/impl/ConsultarEnviarInformePolicialHomologadoServiceImpl.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/sigi-morelia/!svn/ver/9/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/elemento
+END
+ConsultarRelacionesDeReincidenciaXElementoService.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/sigi-morelia/!svn/ver/9/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/elemento/ConsultarRelacionesDeReincidenciaXElementoService.java
+END
+RegistrarRelacionDeReincidenciaService.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/sigi-morelia/!svn/ver/9/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/elemento/RegistrarRelacionDeReincidenciaService.java
+END
+ConsultarElementosXActividadService.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/sigi-morelia/!svn/ver/9/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/elemento/ConsultarElementosXActividadService.java
+END
+AnularElementoService.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/sigi-morelia/!svn/ver/9/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/elemento/AnularElementoService.java
+END
+ConsultarCatElementoService.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/sigi-morelia/!svn/ver/9/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/elemento/ConsultarCatElementoService.java
+END
+ConsultarElementosXIdExpedienteCatRelacionService.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/sigi-morelia/!svn/ver/271/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/elemento/ConsultarElementosXIdExpedienteCatRelacionService.java
+END
+AdjuntarArchivoAElementoService.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/sigi-morelia/!svn/ver/9/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/elemento/AdjuntarArchivoAElementoService.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/policiaministerial/impl
+END
+GuardarComentarioServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/policiaministerial/impl/GuardarComentarioServiceImpl.java
+END
+GuardarLineaInvestigacionServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/policiaministerial/impl/GuardarLineaInvestigacionServiceImpl.java
+END
+ConsultarSeguimientoServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/policiaministerial/impl/ConsultarSeguimientoServiceImpl.java
+END
+ConsultarComentarioServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/policiaministerial/impl/ConsultarComentarioServiceImpl.java
+END
+GuardarSeguimientoServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/policiaministerial/impl/GuardarSeguimientoServiceImpl.java
+END
+ConsultarLineaInvestigacionServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/policiaministerial/impl/ConsultarLineaInvestigacionServiceImpl.java
+END
+CrearDocumentoLineaInvestigacionServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/policiaministerial/impl/CrearDocumentoLineaInvestigacionServiceImpl.java
+END

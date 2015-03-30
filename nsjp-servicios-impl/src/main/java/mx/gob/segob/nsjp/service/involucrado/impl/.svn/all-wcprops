@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/involucrado/impl
+END
+EliminarInvolucradoServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/involucrado/impl/EliminarInvolucradoServiceImpl.java
+END
+IngresarIndividuoMenorServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/involucrado/impl/IngresarIndividuoMenorServiceImpl.java
+END
+ModificarIndividuoServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/sigi-morelia/!svn/ver/291/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/involucrado/impl/ModificarIndividuoServiceImpl.java
+END
+ConsultarInvolucradosPorIdExpedienteServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/involucrado/impl/ConsultarInvolucradosPorIdExpedienteServiceImpl.java
+END
+RegistrarTestigoEnAudienciaServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/involucrado/impl/RegistrarTestigoEnAudienciaServiceImpl.java
+END
+ConsultarInvolucradoAudienciaServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/involucrado/impl/ConsultarInvolucradoAudienciaServiceImpl.java
+END
+ConsultarInvolucradosPorAudienciaServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/involucrado/impl/ConsultarInvolucradosPorAudienciaServiceImpl.java
+END
+ActualizarSituacionJuridicaInvolucradoServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/involucrado/impl/ActualizarSituacionJuridicaInvolucradoServiceImpl.java
+END
+IngresarIndividuoServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/sigi-morelia/!svn/ver/291/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/involucrado/impl/IngresarIndividuoServiceImpl.java
+END
+ConsultarIndividuoServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/sigi-morelia/!svn/ver/258/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/involucrado/impl/ConsultarIndividuoServiceImpl.java
+END
+ConsultarInvolucradosMedidaServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/involucrado/impl/ConsultarInvolucradosMedidaServiceImpl.java
+END

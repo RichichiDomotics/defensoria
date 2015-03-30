@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/audiencia/impl/transform
+END
+AudienciaTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/sigi-morelia/!svn/ver/232/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/audiencia/impl/transform/AudienciaTransformer.java
+END
+CatEstadoPermisoTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/audiencia/impl/transform/CatEstadoPermisoTransformer.java
+END
+PermisoAudienciaTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/audiencia/impl/transform/PermisoAudienciaTransformer.java
+END
+IntervinienteTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/audiencia/impl/transform/IntervinienteTransformer.java
+END
+EventoTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/audiencia/impl/transform/EventoTransformer.java
+END
+SalaAudienciaTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/audiencia/impl/transform/SalaAudienciaTransformer.java
+END
+ResolutivoTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/audiencia/impl/transform/ResolutivoTransformer.java
+END

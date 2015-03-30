@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/medida/impl/transform
+END
+IncidenciaTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/medida/impl/transform/IncidenciaTransformer.java
+END
+MedidaTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/medida/impl/transform/MedidaTransformer.java
+END
+EnviarDocumentoIncumplimientoMedidaServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/medida/impl/transform/EnviarDocumentoIncumplimientoMedidaServiceImpl.java
+END
+MedidaAlternaTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/medida/impl/transform/MedidaAlternaTransformer.java
+END

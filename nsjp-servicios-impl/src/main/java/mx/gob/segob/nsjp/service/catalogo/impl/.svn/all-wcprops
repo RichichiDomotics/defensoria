@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/catalogo/impl
+END
+ConsultarDistritoServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/catalogo/impl/ConsultarDistritoServiceImpl.java
+END
+RegistrarDistritoServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/catalogo/impl/RegistrarDistritoServiceImpl.java
+END
+ConsultarTribunalesPorDistritoServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/catalogo/impl/ConsultarTribunalesPorDistritoServiceImpl.java
+END
+CatalogoServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/sigi-morelia/!svn/ver/79/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/catalogo/impl/CatalogoServiceImpl.java
+END
+RegistrarDiscriminanteServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/catalogo/impl/RegistrarDiscriminanteServiceImpl.java
+END
+ConsultarDiscriminanteServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/catalogo/impl/ConsultarDiscriminanteServiceImpl.java
+END
+DiaInhabilServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/catalogo/impl/DiaInhabilServiceImpl.java
+END
+ConsultarFuncionariosXTribunalServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/catalogo/impl/ConsultarFuncionariosXTribunalServiceImpl.java
+END
+AdministrarCatalogoServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/catalogo/impl/AdministrarCatalogoServiceImpl.java
+END
+ConsultarUnidadeIEspecializadaServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/catalogo/impl/ConsultarUnidadeIEspecializadaServiceImpl.java
+END
+ConsultarDistritosServiceWSImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/catalogo/impl/ConsultarDistritosServiceWSImpl.java
+END
+RegistrarUnidadIEspecializadaServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/catalogo/impl/RegistrarUnidadIEspecializadaServiceImpl.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/tarea/impl
+END
+ConsultarTareaFuncionarioServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/tarea/impl/ConsultarTareaFuncionarioServiceImpl.java
+END
+AsignarTareaFuncionarioServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/tarea/impl/AsignarTareaFuncionarioServiceImpl.java
+END
+ActualizarTareaFuncionarioServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/tarea/impl/ActualizarTareaFuncionarioServiceImpl.java
+END
+ReducirCargaDeTrabajoServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/tarea/impl/ReducirCargaDeTrabajoServiceImpl.java
+END
+RegistrarVacacionesIncapacidadServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/tarea/impl/RegistrarVacacionesIncapacidadServiceImpl.java
+END

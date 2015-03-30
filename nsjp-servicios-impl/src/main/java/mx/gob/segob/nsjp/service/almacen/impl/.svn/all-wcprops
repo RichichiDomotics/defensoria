@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/almacen/impl
+END
+ValidarCadenaCustodiaEnAlmacenServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/almacen/impl/ValidarCadenaCustodiaEnAlmacenServiceImpl.java
+END
+ConsultarMovimientosDeObjetosAlmacenServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/almacen/impl/ConsultarMovimientosDeObjetosAlmacenServiceImpl.java
+END
+ConsultarAlmacenesPorTipoServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/almacen/impl/ConsultarAlmacenesPorTipoServiceImpl.java
+END
+AsociarEvidenciasPorAlmacenServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/almacen/impl/AsociarEvidenciasPorAlmacenServiceImpl.java
+END
+ConsultarEncargadosAlmacenServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/almacen/impl/ConsultarEncargadosAlmacenServiceImpl.java
+END
+EncargadoAlmacenServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/almacen/impl/EncargadoAlmacenServiceImpl.java
+END
+CambiarExpedienteDeAlmacenServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/almacen/impl/CambiarExpedienteDeAlmacenServiceImpl.java
+END
+RegistrarAlmacenServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/almacen/impl/RegistrarAlmacenServiceImpl.java
+END
+ConsultarAlmacenServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/almacen/impl/ConsultarAlmacenServiceImpl.java
+END
+ConsultarEvidenciaPorAlmacenServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/almacen/impl/ConsultarEvidenciaPorAlmacenServiceImpl.java
+END

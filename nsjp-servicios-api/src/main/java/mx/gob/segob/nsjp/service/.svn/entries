@@ -1,0 +1,229 @@
+10
+
+dir
+14
+https://subversion.assembla.com/svn/sigi-morelia/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service
+https://subversion.assembla.com/svn/sigi-morelia
+
+
+
+2013-09-09T15:37:03.301869Z
+9
+ariadna
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f7879140-5060-4e79-bf49-f6b8e9c27a7b
+
+actividad
+dir
+
+agenda
+dir
+
+alarma
+dir
+
+alerta
+dir
+
+almacen
+dir
+
+amparo
+dir
+
+archivo
+dir
+
+audiencia
+dir
+
+avisodetencion
+dir
+
+bitacora
+dir
+
+cadenadecustodia
+dir
+
+caso
+dir
+
+catalogo
+dir
+
+compromiso
+dir
+
+configuracion
+dir
+
+convenio
+dir
+
+defensoria
+dir
+
+delito
+dir
+
+detencion
+dir
+
+documento
+dir
+
+domicilio
+dir
+
+elemento
+dir
+
+elementomenu
+dir
+
+eslabon
+dir
+
+eventocita
+dir
+
+evidencia
+dir
+
+expediente
+dir
+
+familiar
+dir
+
+fecha
+dir
+
+forma
+dir
+
+funcionario
+dir
+
+funcionarioexterno
+dir
+
+graficacion
+dir
+
+hecho
+dir
+
+implicado
+dir
+
+indicador
+dir
+
+informepolicial
+dir
+
+infra
+dir
+
+insepeccion
+dir
+
+institucion
+dir
+
+involucrado
+dir
+
+leycodigo
+dir
+
+lugar
+dir
+
+medida
+dir
+
+medidasalternas
+dir
+
+medidascautelares
+dir
+
+niveles
+dir
+
+notificacion
+dir
+
+objeto
+dir
+
+ordenaprehension
+dir
+
+organizacion
+dir
+
+parametro
+dir
+
+persona
+dir
+
+policiaministerial
+dir
+
+proceso
+dir
+
+programa
+dir
+
+prueba
+dir
+
+quejaciudadana
+dir
+
+reinsercion
+dir
+
+relacion
+dir
+
+sentencia
+dir
+
+sesion
+dir
+
+solicitud
+dir
+
+tarea
+dir
+
+turnolaboral
+dir
+
+usuario
+dir
+
+visitante
+dir
+

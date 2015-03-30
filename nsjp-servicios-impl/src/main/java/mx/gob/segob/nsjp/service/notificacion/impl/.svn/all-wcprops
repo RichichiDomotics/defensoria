@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/notificacion/impl
+END
+ConsultarNotificacionesAlmacenServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/notificacion/impl/ConsultarNotificacionesAlmacenServiceImpl.java
+END
+NotificacionTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/notificacion/impl/NotificacionTransformer.java
+END
+ConsultarUltimaNotificacionPorAnioServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/notificacion/impl/ConsultarUltimaNotificacionPorAnioServiceImpl.java
+END
+ConsultarNotificacionesXUsuarioServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/notificacion/impl/ConsultarNotificacionesXUsuarioServiceImpl.java
+END
+CatFormaNotificacionTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/notificacion/impl/CatFormaNotificacionTransformer.java
+END
+ConsultaNotificacionServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/notificacion/impl/ConsultaNotificacionServiceImpl.java
+END
+GuardarNotificacionServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/notificacion/impl/GuardarNotificacionServiceImpl.java
+END
+ActualizarEstatusNotificacionServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/notificacion/impl/ActualizarEstatusNotificacionServiceImpl.java
+END

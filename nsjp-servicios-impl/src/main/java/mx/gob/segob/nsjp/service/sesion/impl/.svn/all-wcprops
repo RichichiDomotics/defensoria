@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/sesion/impl
+END
+GuardarEntrevistaInicialImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/sesion/impl/GuardarEntrevistaInicialImpl.java
+END
+ConsultarEntrevistaInicialPorIdServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/sesion/impl/ConsultarEntrevistaInicialPorIdServiceImpl.java
+END
+GuardarNotaEvolucionServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/sesion/impl/GuardarNotaEvolucionServiceImpl.java
+END
+ConsultarNotaEvolucionPorIdServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/sesion/impl/ConsultarNotaEvolucionPorIdServiceImpl.java
+END
+ConsultarSesionesPorIdNumeroExpedienteServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/sesion/impl/ConsultarSesionesPorIdNumeroExpedienteServiceImpl.java
+END
+ConsultarEntrevistaComplementariaPorIdServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/sesion/impl/ConsultarEntrevistaComplementariaPorIdServiceImpl.java
+END
+GuardarEntrevistaComplementariaServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/sesion/impl/GuardarEntrevistaComplementariaServiceImpl.java
+END

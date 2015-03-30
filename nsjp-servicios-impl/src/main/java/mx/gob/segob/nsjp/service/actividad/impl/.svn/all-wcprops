@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/actividad/impl
+END
+ConsultarActividadesXTipoAtencionExpedienteServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/actividad/impl/ConsultarActividadesXTipoAtencionExpedienteServiceImpl.java
+END
+ConfActividadDocumentoTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/sigi-morelia/!svn/ver/200/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/actividad/impl/ConfActividadDocumentoTransformer.java
+END
+ConsultarConfActividadDocumentoServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/sigi-morelia/!svn/ver/200/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/actividad/impl/ConsultarConfActividadDocumentoServiceImpl.java
+END
+EliminarAsociacionExpedienteDocumentoServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/actividad/impl/EliminarAsociacionExpedienteDocumentoServiceImpl.java
+END
+AdministradorActividadesServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/actividad/impl/AdministradorActividadesServiceImpl.java
+END
+RegistrarActividadServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/actividad/impl/RegistrarActividadServiceImpl.java
+END

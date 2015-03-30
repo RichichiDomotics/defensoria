@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/infra/impl/transform/consultarcatalogo
+END
+CriterioConsultaFuncionarioExternoWSDTOTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/infra/impl/transform/consultarcatalogo/CriterioConsultaFuncionarioExternoWSDTOTransformer.java
+END
+RolWSDTOTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/infra/impl/transform/consultarcatalogo/RolWSDTOTransformer.java
+END
+CatDiscriminanteWSDTOTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/infra/impl/transform/consultarcatalogo/CatDiscriminanteWSDTOTransformer.java
+END
+CatDistritoWSDTOTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/infra/impl/transform/consultarcatalogo/CatDistritoWSDTOTransformer.java
+END
+FuncionarioWSDTOTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/infra/impl/transform/consultarcatalogo/FuncionarioWSDTOTransformer.java
+END

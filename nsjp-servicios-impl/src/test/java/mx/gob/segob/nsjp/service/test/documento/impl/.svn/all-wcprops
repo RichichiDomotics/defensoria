@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/documento/impl
+END
+AdjuntarArchivoDigitalAExpedienteServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/documento/impl/AdjuntarArchivoDigitalAExpedienteServiceImplTest.java
+END
+ConsultarDocumentoServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/documento/impl/ConsultarDocumentoServiceImplTest.java
+END
+MandamientoJudicialServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/documento/impl/MandamientoJudicialServiceImplTest.java
+END
+GenerarNumeroDeAcuseDeAtencionServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/documento/impl/GenerarNumeroDeAcuseDeAtencionServiceImplTest.java
+END
+ConsultarTeoriaDelCasoServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/documento/impl/ConsultarTeoriaDelCasoServiceImplTest.java
+END
+GuardarDocumentoServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/documento/impl/GuardarDocumentoServiceImplTest.java
+END
+ActualizarNotaServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/documento/impl/ActualizarNotaServiceImplTest.java
+END
+ConsultarDocumentosDictamenPorTipoServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/documento/impl/ConsultarDocumentosDictamenPorTipoServiceImplTest.java
+END
+AsociarDocumentoAServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/documento/impl/AsociarDocumentoAServiceImplTest.java
+END
+AsociarArchivoDigitalASolicitudServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/documento/impl/AsociarArchivoDigitalASolicitudServiceTest.java
+END
+GenerarDocumentosDeMedidaIncumplidaManualmenteServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/documento/impl/GenerarDocumentosDeMedidaIncumplidaManualmenteServiceImplTest.java
+END
+GuardarAvisoHDelictivoServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/documento/impl/GuardarAvisoHDelictivoServiceImplTest.java
+END
+ActualizarControversiaServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/documento/impl/ActualizarControversiaServiceImplTest.java
+END
+ConsultarDocumentoXExpedienteServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/documento/impl/ConsultarDocumentoXExpedienteServiceImplTest.java
+END
+ConsultarResumenExpedienteParaDocumentoServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/documento/impl/ConsultarResumenExpedienteParaDocumentoServiceImplTest.java
+END
+ConsultarAvisosHDelictivoServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/documento/impl/ConsultarAvisosHDelictivoServiceImplTest.java
+END
+ConsultarControversiasResueltasServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/documento/impl/ConsultarControversiasResueltasServiceImplTest.java
+END
+ActualizarNotificacionServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/documento/impl/ActualizarNotificacionServiceImplTest.java
+END
+CargarDocumentoServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/documento/impl/CargarDocumentoServiceImplTest.java
+END
+ConsultarDocumentosXTipoDocumentoTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/documento/impl/ConsultarDocumentosXTipoDocumentoTest.java
+END
+ConsultarDocumentoPorUsuarioServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/documento/impl/ConsultarDocumentoPorUsuarioServiceImplTest.java
+END
+ConsultarCuerpoOficioServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/documento/impl/ConsultarCuerpoOficioServiceImplTest.java
+END
+ConsultarIndicesEstructuradosServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/documento/impl/ConsultarIndicesEstructuradosServiceImplTest.java
+END
+GenerarDocumentosDeMedidasIncumplidasServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/documento/impl/GenerarDocumentosDeMedidasIncumplidasServiceImplTest.java
+END
+AsociarNotaADocumentoServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/documento/impl/AsociarNotaADocumentoServiceImplTest.java
+END
+GuardarControversiaResueltaServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/documento/impl/GuardarControversiaResueltaServiceImplTest.java
+END

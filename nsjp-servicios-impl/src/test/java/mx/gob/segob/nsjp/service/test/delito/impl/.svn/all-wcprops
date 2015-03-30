@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/delito/impl
+END
+ConsultarDelitosPorImputadoServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/delito/impl/ConsultarDelitosPorImputadoServiceImplTest.java
+END
+AsociarDelitoResponsableVictimaServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/sigi-morelia/!svn/ver/79/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/delito/impl/AsociarDelitoResponsableVictimaServiceImplTest.java
+END
+RegistrarDelitoDenunciaServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/delito/impl/RegistrarDelitoDenunciaServiceImplTest.java
+END
+GuardarDelitoServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/sigi-morelia/!svn/ver/101/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/delito/impl/GuardarDelitoServiceImplTest.java
+END
+ValidarExisteDelitoGraveServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/delito/impl/ValidarExisteDelitoGraveServiceImplTest.java
+END
+ModificarDelitoServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/delito/impl/ModificarDelitoServiceImplTest.java
+END
+ConsultarDelitoPersonaServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/delito/impl/ConsultarDelitoPersonaServiceImplTest.java
+END
+ConsultarDelitoServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/delito/impl/ConsultarDelitoServiceImplTest.java
+END

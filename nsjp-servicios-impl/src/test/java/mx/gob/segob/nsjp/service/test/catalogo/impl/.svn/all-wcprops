@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/catalogo/impl
+END
+RegistrarDiscriminanteServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/catalogo/impl/RegistrarDiscriminanteServiceImplTest.java
+END
+ConsultarDiscriminanteServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/catalogo/impl/ConsultarDiscriminanteServiceImplTest.java
+END
+DiaInhabilServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/catalogo/impl/DiaInhabilServiceImplTest.java
+END
+AdministrarCatalogoServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/catalogo/impl/AdministrarCatalogoServiceImplTest.java
+END
+ConsultarUnidadeIEspecializadaServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/catalogo/impl/ConsultarUnidadeIEspecializadaServiceImplTest.java
+END
+RegistrarUnidadIEspecializadaServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/catalogo/impl/RegistrarUnidadIEspecializadaServiceImplTest.java
+END
+ConsultarDistritoServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/catalogo/impl/ConsultarDistritoServiceImplTest.java
+END
+RegistrarDistritoServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/catalogo/impl/RegistrarDistritoServiceImplTest.java
+END
+CatalogoServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/catalogo/impl/CatalogoServiceImplTest.java
+END

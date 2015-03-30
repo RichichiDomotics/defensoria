@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/documento/impl/tranform
+END
+CuerpoOficioEstructuradoTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/documento/impl/tranform/CuerpoOficioEstructuradoTransformer.java
+END
+ParametrosDocumentoTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/documento/impl/tranform/ParametrosDocumentoTransformer.java
+END
+DictamenTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/documento/impl/tranform/DictamenTransformer.java
+END
+OficioEstructuradoTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/documento/impl/tranform/OficioEstructuradoTransformer.java
+END
+NotaTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/documento/impl/tranform/NotaTransformer.java
+END
+IndiceEstructuradoTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/documento/impl/tranform/IndiceEstructuradoTransformer.java
+END
+DocumentoTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/documento/impl/tranform/DocumentoTransformer.java
+END
+AvisoHechoDelictivoTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/documento/impl/tranform/AvisoHechoDelictivoTransformer.java
+END
+MandamientoJudicialTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/documento/impl/tranform/MandamientoJudicialTransformer.java
+END
+AvisoDesignacionTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/sigi-morelia/!svn/ver/246/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/documento/impl/tranform/AvisoDesignacionTransformer.java
+END

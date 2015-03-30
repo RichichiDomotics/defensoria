@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/tarea/impl
+END
+ConsultarTareaFuncionarioServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/tarea/impl/ConsultarTareaFuncionarioServiceImplTest.java
+END
+AsignarTareaFuncionarioServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/tarea/impl/AsignarTareaFuncionarioServiceImplTest.java
+END
+ReducirCargaDeTrabajoServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/tarea/impl/ReducirCargaDeTrabajoServiceImplTest.java
+END
+RegistrarVacacionesIncapacidadServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/tarea/impl/RegistrarVacacionesIncapacidadServiceImplTest.java
+END

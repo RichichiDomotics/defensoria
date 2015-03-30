@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/sigi-morelia/!svn/ver/9/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/evidencia
+END
+AsociarDestinoLegalService.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/sigi-morelia/!svn/ver/9/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/evidencia/AsociarDestinoLegalService.java
+END
+CambiarEstatusEvidenciaService.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/sigi-morelia/!svn/ver/9/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/evidencia/CambiarEstatusEvidenciaService.java
+END
+AsignarEvidenciaService.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/sigi-morelia/!svn/ver/9/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/evidencia/AsignarEvidenciaService.java
+END
+ConsultarEvidenciasXEstatusService.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/sigi-morelia/!svn/ver/9/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/evidencia/ConsultarEvidenciasXEstatusService.java
+END
+GeneraEvidenciasConRetrasoService.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/sigi-morelia/!svn/ver/9/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/evidencia/GeneraEvidenciasConRetrasoService.java
+END
+ConsultarEvidenciaPorIdObjetoService.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/sigi-morelia/!svn/ver/9/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/evidencia/ConsultarEvidenciaPorIdObjetoService.java
+END
+ConsultarDocumentosDEvidenciaService.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/sigi-morelia/!svn/ver/9/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/evidencia/ConsultarDocumentosDEvidenciaService.java
+END
+ConsultarEvidenciasResguardadasPorUsuarioService.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/sigi-morelia/!svn/ver/9/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/evidencia/ConsultarEvidenciasResguardadasPorUsuarioService.java
+END
+ConsultarEvidenciasXCadenaCustodiaService.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/sigi-morelia/!svn/ver/9/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/evidencia/ConsultarEvidenciasXCadenaCustodiaService.java
+END
+GuardarEvidenciaService.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/sigi-morelia/!svn/ver/9/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/evidencia/GuardarEvidenciaService.java
+END
+RegistrarBajaEvidenciaService.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/sigi-morelia/!svn/ver/9/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/evidencia/RegistrarBajaEvidenciaService.java
+END
+ConsultarEvidenciasNoDevueltasService.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/sigi-morelia/!svn/ver/9/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/evidencia/ConsultarEvidenciasNoDevueltasService.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/infra/impl/transform/enviarcarpetainvestigacion
+END
+ExpedienteWSDTOTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/infra/impl/transform/enviarcarpetainvestigacion/ExpedienteWSDTOTransformer.java
+END
+InvolucradoWSDTOTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/infra/impl/transform/enviarcarpetainvestigacion/InvolucradoWSDTOTransformer.java
+END

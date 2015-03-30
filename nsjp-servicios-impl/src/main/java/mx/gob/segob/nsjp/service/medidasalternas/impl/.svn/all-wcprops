@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/medidasalternas/impl
+END
+ConsultarMedidasAlternasServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/medidasalternas/impl/ConsultarMedidasAlternasServiceImpl.java
+END
+ObtenerMedidasAlternasServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/medidasalternas/impl/ObtenerMedidasAlternasServiceImpl.java
+END
+RegistrarMedidaAlternaPJServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/medidasalternas/impl/RegistrarMedidaAlternaPJServiceImpl.java
+END
+EnviarMedidaAlternaServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/medidasalternas/impl/EnviarMedidaAlternaServiceImpl.java
+END

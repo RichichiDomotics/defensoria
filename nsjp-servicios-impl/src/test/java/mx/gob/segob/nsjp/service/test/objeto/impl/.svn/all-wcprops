@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/objeto/impl
+END
+ConsultarObjetosNoEvidenciaServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/objeto/impl/ConsultarObjetosNoEvidenciaServiceImplTest.java
+END
+IngresarOtroObjetoServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/objeto/impl/IngresarOtroObjetoServiceImplTest.java
+END
+RegistrarObjetoEnAudienciaServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/objeto/impl/RegistrarObjetoEnAudienciaServiceImplTest.java
+END
+IngresarNumerarioServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/objeto/impl/IngresarNumerarioServiceImplTest.java
+END
+IngresarSustanciaServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/objeto/impl/IngresarSustanciaServiceImplTest.java
+END
+ObtenerObjetoServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/objeto/impl/ObtenerObjetoServiceImplTest.java
+END
+IngresarExplosivoServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/objeto/impl/IngresarExplosivoServiceImplTest.java
+END
+AdministrarPertenenciasDetenidoServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/objeto/impl/AdministrarPertenenciasDetenidoServiceImplTest.java
+END
+IngresarTelefonoServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/objeto/impl/IngresarTelefonoServiceImplTest.java
+END
+ConsultarObjetoPorTipoConFolioServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/objeto/impl/ConsultarObjetoPorTipoConFolioServiceImplTest.java
+END
+ConsultarObjetosAudienciaServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/objeto/impl/ConsultarObjetosAudienciaServiceImplTest.java
+END
+AsociarObjetoAlmacenServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/objeto/impl/AsociarObjetoAlmacenServiceImplTest.java
+END
+IngresarEquipoDeComputoServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/objeto/impl/IngresarEquipoDeComputoServiceImplTest.java
+END
+IngresarAeronaveServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/objeto/impl/IngresarAeronaveServiceImplTest.java
+END
+IngresarObraArteServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/objeto/impl/IngresarObraArteServiceImplTest.java
+END
+IngresarVehiculoServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/objeto/impl/IngresarVehiculoServiceImplTest.java
+END
+IngresarArmaServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/objeto/impl/IngresarArmaServiceImplTest.java
+END

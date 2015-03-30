@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sigi-morelia/!svn/ver/9/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/funcionario
+END
+ConsultarFuncionariosJuecesDisponiblesParaAudienciaService.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/sigi-morelia/!svn/ver/9/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/funcionario/ConsultarFuncionariosJuecesDisponiblesParaAudienciaService.java
+END
+ActualizarFuncionarioService.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/sigi-morelia/!svn/ver/9/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/funcionario/ActualizarFuncionarioService.java
+END
+DesignarAbogadoDefensorService.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/sigi-morelia/!svn/ver/9/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/funcionario/DesignarAbogadoDefensorService.java
+END
+IngresarFuncionarioService.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/sigi-morelia/!svn/ver/9/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/funcionario/IngresarFuncionarioService.java
+END
+ConsultarFuncionariosPorRolService.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/sigi-morelia/!svn/ver/9/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/funcionario/ConsultarFuncionariosPorRolService.java
+END
+ConsultarFuncionarioExternoService.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/sigi-morelia/!svn/ver/9/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/funcionario/ConsultarFuncionarioExternoService.java
+END
+ConsultarDefensoresService.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/sigi-morelia/!svn/ver/9/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/funcionario/ConsultarDefensoresService.java
+END
+ConsultarPeritoPorEvidenciaService.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/sigi-morelia/!svn/ver/9/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/funcionario/ConsultarPeritoPorEvidenciaService.java
+END
+BitacoraDefensorService.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/sigi-morelia/!svn/ver/9/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/funcionario/BitacoraDefensorService.java
+END
+ConsultarPeritoPorNombreService.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/sigi-morelia/!svn/ver/9/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/funcionario/ConsultarPeritoPorNombreService.java
+END
+ConsultarFuncionarioPorDepartamentoService.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/sigi-morelia/!svn/ver/9/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/funcionario/ConsultarFuncionarioPorDepartamentoService.java
+END
+ConsultarFuncionarioPorFiltroService.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/sigi-morelia/!svn/ver/9/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/funcionario/ConsultarFuncionarioPorFiltroService.java
+END
+ConsultarAbogadosService.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/sigi-morelia/!svn/ver/9/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/funcionario/ConsultarAbogadosService.java
+END
+ConsultarFuncionarioService.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/sigi-morelia/!svn/ver/9/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/funcionario/ConsultarFuncionarioService.java
+END
+AdjuntarArchivoAFuncionarioService.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/sigi-morelia/!svn/ver/9/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/funcionario/AdjuntarArchivoAFuncionarioService.java
+END
+ConsultarFuncionarioXExpedienteService.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/sigi-morelia/!svn/ver/9/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/funcionario/ConsultarFuncionarioXExpedienteService.java
+END
+AsociarPeritoExpedienteService.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/sigi-morelia/!svn/ver/9/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/funcionario/AsociarPeritoExpedienteService.java
+END
+ConsultarAreasAgenciaService.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/sigi-morelia/!svn/ver/9/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/funcionario/ConsultarAreasAgenciaService.java
+END

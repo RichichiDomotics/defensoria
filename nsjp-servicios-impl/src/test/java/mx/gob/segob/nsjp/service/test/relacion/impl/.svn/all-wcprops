@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/relacion/impl
+END
+ConsultarCatCategoriaRelacionServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/relacion/impl/ConsultarCatCategoriaRelacionServiceImplTest.java
+END
+ConsultarElementosXIdExpedienteCatRelacionServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/relacion/impl/ConsultarElementosXIdExpedienteCatRelacionServiceImplTest.java
+END
+ActualizarRelacionServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/relacion/impl/ActualizarRelacionServiceImplTest.java
+END
+RegistrarRelacionServiceImplTestUno.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/relacion/impl/RegistrarRelacionServiceImplTestUno.java
+END
+ValidarRelacionXActividadServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/relacion/impl/ValidarRelacionXActividadServiceImplTest.java
+END
+ConsultarParentescosServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/relacion/impl/ConsultarParentescosServiceImplTest.java
+END
+ConsultarRelacionesXCategoriaServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/relacion/impl/ConsultarRelacionesXCategoriaServiceImplTest.java
+END

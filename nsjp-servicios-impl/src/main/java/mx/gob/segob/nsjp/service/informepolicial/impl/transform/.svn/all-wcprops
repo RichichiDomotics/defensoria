@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/informepolicial/impl/transform
+END
+FaltaAdministrativaIphTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/informepolicial/impl/transform/FaltaAdministrativaIphTransformer.java
+END
+InformePolicialHomologadoTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/informepolicial/impl/transform/InformePolicialHomologadoTransformer.java
+END
+InvolucradoIPHTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/informepolicial/impl/transform/InvolucradoIPHTransformer.java
+END
+CatDelitoTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/informepolicial/impl/transform/CatDelitoTransformer.java
+END
+OperativoTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/informepolicial/impl/transform/OperativoTransformer.java
+END
+CatFaltaAdministrativaTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/informepolicial/impl/transform/CatFaltaAdministrativaTransformer.java
+END
+DelitoIphIdTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/informepolicial/impl/transform/DelitoIphIdTransformer.java
+END
+FaltaAdministrativaIphIdTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/informepolicial/impl/transform/FaltaAdministrativaIphIdTransformer.java
+END
+DelitoIphTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/informepolicial/impl/transform/DelitoIphTransformer.java
+END

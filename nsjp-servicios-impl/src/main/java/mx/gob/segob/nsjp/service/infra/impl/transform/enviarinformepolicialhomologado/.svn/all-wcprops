@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/infra/impl/transform/enviarinformepolicialhomologado
+END
+ExpedienteIPHWSDTOTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/infra/impl/transform/enviarinformepolicialhomologado/ExpedienteIPHWSDTOTransformer.java
+END
+InformePolicialHomologadoWSDTOTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 200
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/infra/impl/transform/enviarinformepolicialhomologado/InformePolicialHomologadoWSDTOTransformer.java
+END
+InvolucradoIPHWSDTOTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/infra/impl/transform/enviarinformepolicialhomologado/InvolucradoIPHWSDTOTransformer.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/caso/impl
+END
+RegistrarRelacionDeReincidenciaServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/caso/impl/RegistrarRelacionDeReincidenciaServiceImplTest.java
+END
+ActualizarEtapaCasoServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/caso/impl/ActualizarEtapaCasoServiceImplTest.java
+END
+BuscarCasoServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/caso/impl/BuscarCasoServiceImplTest.java
+END
+AsignarNumeroCasoServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/caso/impl/AsignarNumeroCasoServiceImplTest.java
+END
+EnviarReplicaCasoServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/caso/impl/EnviarReplicaCasoServiceImplTest.java
+END
+ConsultarRelacionesDeReincidenciaXElementoServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/caso/impl/ConsultarRelacionesDeReincidenciaXElementoServiceImplTest.java
+END

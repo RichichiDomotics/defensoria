@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/involucrado/impl
+END
+ModificarIndividuoServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/involucrado/impl/ModificarIndividuoServiceImplTest.java
+END
+ConsultarInvolucradosPorExpedienteServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/involucrado/impl/ConsultarInvolucradosPorExpedienteServiceImplTest.java
+END
+ConsultarInvolucradoAudienciaServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/involucrado/impl/ConsultarInvolucradoAudienciaServiceImplTest.java
+END
+ConsultarInvolucradosPorAudienciaServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/involucrado/impl/ConsultarInvolucradosPorAudienciaServiceImplTest.java
+END
+ActualizarSituacionJuridicaInvolucradoServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/involucrado/impl/ActualizarSituacionJuridicaInvolucradoServiceImplTest.java
+END
+IngresarIndividuoServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/involucrado/impl/IngresarIndividuoServiceImplTest.java
+END
+ConsultarIndividuoServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/involucrado/impl/ConsultarIndividuoServiceImplTest.java
+END
+ConsultarInvolucradosMedidaServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/involucrado/impl/ConsultarInvolucradosMedidaServiceImplTest.java
+END

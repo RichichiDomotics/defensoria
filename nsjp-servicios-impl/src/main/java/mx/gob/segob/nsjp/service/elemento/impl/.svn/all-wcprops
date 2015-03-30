@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/elemento/impl
+END
+ConsultarRelacionesDeReincidenciaXElementoServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/elemento/impl/ConsultarRelacionesDeReincidenciaXElementoServiceImpl.java
+END
+RegistrarRelacionDeReincidenciaServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/elemento/impl/RegistrarRelacionDeReincidenciaServiceImpl.java
+END
+ConsultarElementosXActividadServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/elemento/impl/ConsultarElementosXActividadServiceImpl.java
+END
+AnularElementoServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/elemento/impl/AnularElementoServiceImpl.java
+END
+ConsultarCatElementoServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/elemento/impl/ConsultarCatElementoServiceImpl.java
+END
+ConsultarElementosXIdExpedienteCatRelacionServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/sigi-morelia/!svn/ver/272/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/elemento/impl/ConsultarElementosXIdExpedienteCatRelacionServiceImpl.java
+END
+AdjuntarArchivoAElementoServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/elemento/impl/AdjuntarArchivoAElementoServiceImpl.java
+END
+ElementoTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/elemento/impl/ElementoTransformer.java
+END

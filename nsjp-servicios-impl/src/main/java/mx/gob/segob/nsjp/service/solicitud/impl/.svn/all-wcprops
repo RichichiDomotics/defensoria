@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/solicitud/impl
+END
+AutorizarSolicitudEvidenciaServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/solicitud/impl/AutorizarSolicitudEvidenciaServiceImpl.java
+END
+ConsultarSolicitudServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/solicitud/impl/ConsultarSolicitudServiceImpl.java
+END
+RegistrarSolicitudTranscripcionAreaExternaServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/solicitud/impl/RegistrarSolicitudTranscripcionAreaExternaServiceImpl.java
+END
+EnviarSolicitudTrasladoImputadoSSPServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/solicitud/impl/EnviarSolicitudTrasladoImputadoSSPServiceImpl.java
+END
+GenerarFolioSolicitudServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/solicitud/impl/GenerarFolioSolicitudServiceImpl.java
+END
+AdjuntarArchivoASolicitudServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/solicitud/impl/AdjuntarArchivoASolicitudServiceImpl.java
+END
+SolicitarDefensorServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/solicitud/impl/SolicitarDefensorServiceImpl.java
+END
+ConsultarSolicitudesTrasladosImputadoServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/solicitud/impl/ConsultarSolicitudesTrasladosImputadoServiceImpl.java
+END
+EliminarSolicitudDiligenciaServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/solicitud/impl/EliminarSolicitudDiligenciaServiceImpl.java
+END
+RegistrarActualizarServicioPericialServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/solicitud/impl/RegistrarActualizarServicioPericialServiceImpl.java
+END
+ConsultarSolicitudDiligenciaServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/solicitud/impl/ConsultarSolicitudDiligenciaServiceImpl.java
+END
+RegistrarSolicitudDefensorEncargadoSalaServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/solicitud/impl/RegistrarSolicitudDefensorEncargadoSalaServiceImpl.java
+END
+ConsultarSolicitudesDefensoriaServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/solicitud/impl/ConsultarSolicitudesDefensoriaServiceImpl.java
+END
+DesignarPeritoASolicitudServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/solicitud/impl/DesignarPeritoASolicitudServiceImpl.java
+END
+AsignarNumeroSolicitudServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/solicitud/impl/AsignarNumeroSolicitudServiceImpl.java
+END
+SolicitudTranscripcionAudienciaServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/solicitud/impl/SolicitudTranscripcionAudienciaServiceImpl.java
+END
+RegistrarPermisoSolicitudServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/solicitud/impl/RegistrarPermisoSolicitudServiceImpl.java
+END
+ActualizarEstatusSolicitudServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/sigi-morelia/!svn/ver/137/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/solicitud/impl/ActualizarEstatusSolicitudServiceImpl.java
+END
+RegistrarSolicitudTransferenciaImputadoSSPServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/solicitud/impl/RegistrarSolicitudTransferenciaImputadoSSPServiceImpl.java
+END
+ActualizarSolicitudDiligenciaServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/solicitud/impl/ActualizarSolicitudDiligenciaServiceImpl.java
+END
+SolicitarPericialServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/solicitud/impl/SolicitarPericialServiceImpl.java
+END
+ConsultarSolicitudesAudienciaServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/solicitud/impl/ConsultarSolicitudesAudienciaServiceImpl.java
+END
+ActualizarEstatusSolicitudDefensorServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/solicitud/impl/ActualizarEstatusSolicitudDefensorServiceImpl.java
+END
+ConsultarTipoSolicitudAudienciaServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/solicitud/impl/ConsultarTipoSolicitudAudienciaServiceImpl.java
+END
+ConsultarSolicitudXEstatusServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/solicitud/impl/ConsultarSolicitudXEstatusServiceImpl.java
+END
+AtenderSolicitudPreliberacionServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/solicitud/impl/AtenderSolicitudPreliberacionServiceImpl.java
+END
+SolicitarBeneficiosPreliberacionServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/solicitud/impl/SolicitarBeneficiosPreliberacionServiceImpl.java
+END
+EnviarSolicitudDeTranscripcionServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/solicitud/impl/EnviarSolicitudDeTranscripcionServiceImpl.java
+END
+RegistrarSolicitudTransferenciaImputadoServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/solicitud/impl/RegistrarSolicitudTransferenciaImputadoServiceImpl.java
+END
+SolicitarCopiaCarpetaDeInvestigacionServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/solicitud/impl/SolicitarCopiaCarpetaDeInvestigacionServiceImpl.java
+END
+AsociarSolicitudANumeroExpedienteServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/solicitud/impl/AsociarSolicitudANumeroExpedienteServiceImpl.java
+END
+RegistrarSolicitudDefensorAreaExternaServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/solicitud/impl/RegistrarSolicitudDefensorAreaExternaServiceImpl.java
+END
+RecibirSolicitudCiudadanaDefensoriaServImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/sigi-morelia/!svn/ver/101/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/solicitud/impl/RecibirSolicitudCiudadanaDefensoriaServImpl.java
+END
+RegistrarSolicitudServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/solicitud/impl/RegistrarSolicitudServiceImpl.java
+END
+RegistrarAvisoDeDetencionServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/solicitud/impl/RegistrarAvisoDeDetencionServiceImpl.java
+END
+EnviarSolicitudDeAudienciaServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/sigi-morelia/!svn/ver/138/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/solicitud/impl/EnviarSolicitudDeAudienciaServiceImpl.java
+END
+RegistrarSolicitudDiligenciaServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/solicitud/impl/RegistrarSolicitudDiligenciaServiceImpl.java
+END
+ActualizarStatusSolicitudEvidenciaServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/solicitud/impl/ActualizarStatusSolicitudEvidenciaServiceImpl.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/catalogo/impl/transform
+END
+CatDiscriminanteTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/catalogo/impl/transform/CatDiscriminanteTransformer.java
+END
+CatDistritoTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/catalogo/impl/transform/CatDistritoTransformer.java
+END
+CatUIEspecializadaTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/catalogo/impl/transform/CatUIEspecializadaTransformer.java
+END
+CatalogoTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/sigi-morelia/!svn/ver/68/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/catalogo/impl/transform/CatalogoTransformer.java
+END
+CatAreaNegocioTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/catalogo/impl/transform/CatAreaNegocioTransformer.java
+END

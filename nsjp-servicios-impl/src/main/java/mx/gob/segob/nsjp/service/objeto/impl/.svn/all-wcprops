@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/objeto/impl
+END
+IngresarAnimalServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/objeto/impl/IngresarAnimalServiceImpl.java
+END
+ConsultarObjetosAudienciaServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/objeto/impl/ConsultarObjetosAudienciaServiceImpl.java
+END
+AsociarObjetoAlmacenServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/objeto/impl/AsociarObjetoAlmacenServiceImpl.java
+END
+IngresarJoyaSeviceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/objeto/impl/IngresarJoyaSeviceImpl.java
+END
+IngresarEquipoDeComputoServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/sigi-morelia/!svn/ver/291/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/objeto/impl/IngresarEquipoDeComputoServiceImpl.java
+END
+IngresarAeronaveServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/objeto/impl/IngresarAeronaveServiceImpl.java
+END
+IngresarObraArteServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/objeto/impl/IngresarObraArteServiceImpl.java
+END
+IngresarVehiculoServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/objeto/impl/IngresarVehiculoServiceImpl.java
+END
+IngresarArmaServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/objeto/impl/IngresarArmaServiceImpl.java
+END
+ConsultarObjetosNoEvidenciaServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/objeto/impl/ConsultarObjetosNoEvidenciaServiceImpl.java
+END
+IngresarObjetoServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/sigi-morelia/!svn/ver/291/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/objeto/impl/IngresarObjetoServiceImpl.java
+END
+IngresarOtroObjetoServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/objeto/impl/IngresarOtroObjetoServiceImpl.java
+END
+RegistrarObjetoEnAudienciaServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/objeto/impl/RegistrarObjetoEnAudienciaServiceImpl.java
+END
+IngresarNumerarioServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/objeto/impl/IngresarNumerarioServiceImpl.java
+END
+IngresarSustanciaServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/objeto/impl/IngresarSustanciaServiceImpl.java
+END
+GuardaOActualizaEvidenciaImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/objeto/impl/GuardaOActualizaEvidenciaImpl.java
+END
+IngresarDocumentoOficialServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/objeto/impl/IngresarDocumentoOficialServiceImpl.java
+END
+GuardaOActualizaEvidencia.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/objeto/impl/GuardaOActualizaEvidencia.java
+END
+IngresarEmbarcacionServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/objeto/impl/IngresarEmbarcacionServiceImpl.java
+END
+ObtenerObjetoServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/sigi-morelia/!svn/ver/274/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/objeto/impl/ObtenerObjetoServiceImpl.java
+END
+IngresarExplosivoServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/objeto/impl/IngresarExplosivoServiceImpl.java
+END
+AdministrarPertenenciasDetenidoServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/objeto/impl/AdministrarPertenenciasDetenidoServiceImpl.java
+END
+ConsultarObjetosPorTipoConFolioDeCustodiaServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/objeto/impl/ConsultarObjetosPorTipoConFolioDeCustodiaServiceImpl.java
+END
+IngresarTelefonoServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/objeto/impl/IngresarTelefonoServiceImpl.java
+END
+IngresarVegetalServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/objeto/impl/IngresarVegetalServiceImpl.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/cadenadecustodia/impl
+END
+GuardarCadenaCustodiaServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/sigi-morelia/!svn/ver/291/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/cadenadecustodia/impl/GuardarCadenaCustodiaServiceImpl.java
+END
+GuardarEvidenciaServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/cadenadecustodia/impl/GuardarEvidenciaServiceImpl.java
+END
+ConsultarCadenaCustodiaXExpedienteServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/sigi-morelia/!svn/ver/291/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/cadenadecustodia/impl/ConsultarCadenaCustodiaXExpedienteServiceImpl.java
+END
+ConsultarCadenaDeCustodiaXFolioServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/sigi-morelia/!svn/ver/291/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/cadenadecustodia/impl/ConsultarCadenaDeCustodiaXFolioServiceImpl.java
+END
+ConsultarCadenaCustodiaXAlmacenServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/cadenadecustodia/impl/ConsultarCadenaCustodiaXAlmacenServiceImpl.java
+END

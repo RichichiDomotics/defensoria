@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/objeto/impl/transform
+END
+ObjetoTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/sigi-morelia/!svn/ver/291/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/objeto/impl/transform/ObjetoTransformer.java
+END
+NumerarioTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/sigi-morelia/!svn/ver/275/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/objeto/impl/transform/NumerarioTransformer.java
+END
+SustanciaTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/sigi-morelia/!svn/ver/275/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/objeto/impl/transform/SustanciaTransformer.java
+END
+ObjetosIPHWSDTOTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/objeto/impl/transform/ObjetosIPHWSDTOTransformer.java
+END
+AlmacenTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/objeto/impl/transform/AlmacenTransformer.java
+END
+JoyaTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/sigi-morelia/!svn/ver/275/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/objeto/impl/transform/JoyaTransformer.java
+END
+EmbarcacionTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/sigi-morelia/!svn/ver/275/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/objeto/impl/transform/EmbarcacionTransformer.java
+END
+DocumentoOficialTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/sigi-morelia/!svn/ver/275/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/objeto/impl/transform/DocumentoOficialTransformer.java
+END
+ExplosivoTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/sigi-morelia/!svn/ver/275/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/objeto/impl/transform/ExplosivoTransformer.java
+END
+VegetalTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/sigi-morelia/!svn/ver/275/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/objeto/impl/transform/VegetalTransformer.java
+END
+TelefoniaTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/sigi-morelia/!svn/ver/275/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/objeto/impl/transform/TelefoniaTransformer.java
+END
+ObjetosWSDTOTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/objeto/impl/transform/ObjetosWSDTOTransformer.java
+END
+AnimalTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/sigi-morelia/!svn/ver/275/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/objeto/impl/transform/AnimalTransformer.java
+END
+EquipoComputoTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/sigi-morelia/!svn/ver/275/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/objeto/impl/transform/EquipoComputoTransformer.java
+END
+AeronaveTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/sigi-morelia/!svn/ver/275/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/objeto/impl/transform/AeronaveTransformer.java
+END
+InmuebleTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/sigi-morelia/!svn/ver/275/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/objeto/impl/transform/InmuebleTransformer.java
+END
+ObraArteTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/sigi-morelia/!svn/ver/275/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/objeto/impl/transform/ObraArteTransformer.java
+END
+VehiculoTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/sigi-morelia/!svn/ver/275/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/objeto/impl/transform/VehiculoTransformer.java
+END
+ArmaTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/sigi-morelia/!svn/ver/275/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/objeto/impl/transform/ArmaTransformer.java
+END

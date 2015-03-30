@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/almacen/impl
+END
+ConsultarAlmacenesPorTipoServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/almacen/impl/ConsultarAlmacenesPorTipoServiceImplTest.java
+END
+AsociarEvidenciasPorAlmacenServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/almacen/impl/AsociarEvidenciasPorAlmacenServiceImplTest.java
+END
+ConsultarEncargadosAlmacenServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/almacen/impl/ConsultarEncargadosAlmacenServiceImplTest.java
+END
+EncargadoAlmacenServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/almacen/impl/EncargadoAlmacenServiceImplTest.java
+END
+CambiarExpedienteDeAlmacenServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/almacen/impl/CambiarExpedienteDeAlmacenServiceImplTest.java
+END
+RegistrarAlmacenServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/almacen/impl/RegistrarAlmacenServiceImplTest.java
+END
+ConsultarAlmacenServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/almacen/impl/ConsultarAlmacenServiceImplTest.java
+END
+ConsultarEvidenciaPorAlmacenServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/almacen/impl/ConsultarEvidenciaPorAlmacenServiceImplTest.java
+END
+ValidarCadenaCustodiaEnAlmacenServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/almacen/impl/ValidarCadenaCustodiaEnAlmacenServiceImplTest.java
+END
+ConsultarMovimientosDeObjetosAlmacenServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/almacen/impl/ConsultarMovimientosDeObjetosAlmacenServiceImplTest.java
+END

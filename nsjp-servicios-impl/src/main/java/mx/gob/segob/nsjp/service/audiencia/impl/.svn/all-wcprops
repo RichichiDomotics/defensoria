@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/audiencia/impl
+END
+AdministrarAudienciaJAVSServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/audiencia/impl/AdministrarAudienciaJAVSServiceImpl.java
+END
+RegistrarResolutivoAudienciaServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/audiencia/impl/RegistrarResolutivoAudienciaServiceImpl.java
+END
+RegistrarAsistenciaEnAudienciaServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/audiencia/impl/RegistrarAsistenciaEnAudienciaServiceImpl.java
+END
+AdministrarSalaServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/audiencia/impl/AdministrarSalaServiceImpl.java
+END
+IngresarFuncionarioAudienciaServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/audiencia/impl/IngresarFuncionarioAudienciaServiceImpl.java
+END
+ActualizarIntervininenteServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/audiencia/impl/ActualizarIntervininenteServiceImpl.java
+END
+SalaJAVSTransformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/audiencia/impl/SalaJAVSTransformer.java
+END
+SolicitarAudienciaBasicoServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/audiencia/impl/SolicitarAudienciaBasicoServiceImpl.java
+END
+NotificacionPJSIAJServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/sigi-morelia/!svn/ver/231/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/audiencia/impl/NotificacionPJSIAJServiceImpl.java
+END
+ConsultarComplejidadAudienciaServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/sigi-morelia/!svn/ver/123/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/audiencia/impl/ConsultarComplejidadAudienciaServiceImpl.java
+END
+CalcularCargaTrabajoServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/audiencia/impl/CalcularCargaTrabajoServiceImpl.java
+END
+ConsultarAudienciasPorEstatusServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/audiencia/impl/ConsultarAudienciasPorEstatusServiceImpl.java
+END
+ConsultarPermisosAudienciaServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/audiencia/impl/ConsultarPermisosAudienciaServiceImpl.java
+END
+IngresarIntervinienteInvolucradoServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/audiencia/impl/IngresarIntervinienteInvolucradoServiceImpl.java
+END
+ConsultarEventosServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/audiencia/impl/ConsultarEventosServiceImpl.java
+END
+FinalizarAudienciaServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/audiencia/impl/FinalizarAudienciaServiceImpl.java
+END
+ConsultarAudienciasByFechasYEstatusServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/audiencia/impl/ConsultarAudienciasByFechasYEstatusServiceImpl.java
+END
+ConsultarTipoAudienciaPorIdentificadorServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/audiencia/impl/ConsultarTipoAudienciaPorIdentificadorServiceImpl.java
+END
+CalcularCargaTrabajoAudienciaServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/audiencia/impl/CalcularCargaTrabajoAudienciaServiceImpl.java
+END
+ProgramarAudienciaServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/audiencia/impl/ProgramarAudienciaServiceImpl.java
+END
+IngresarIntervinienteFuncionarioServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/audiencia/impl/IngresarIntervinienteFuncionarioServiceImpl.java
+END
+ConsultarResolutivosAudienciaServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/audiencia/impl/ConsultarResolutivosAudienciaServiceImpl.java
+END
+AsignarJuezAudienciaServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/audiencia/impl/AsignarJuezAudienciaServiceImpl.java
+END
+MarcarAudienciaResolutivosServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/audiencia/impl/MarcarAudienciaResolutivosServiceImpl.java
+END
+ConsultarIntervinientePorAudienciaServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/audiencia/impl/ConsultarIntervinientePorAudienciaServiceImpl.java
+END
+IngresarInvolucradoAudienciaServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/audiencia/impl/IngresarInvolucradoAudienciaServiceImpl.java
+END
+ConsultarEstadoPermisoServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/audiencia/impl/ConsultarEstadoPermisoServiceImpl.java
+END
+AdministrarPermisosAudienciaServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/audiencia/impl/AdministrarPermisosAudienciaServiceImpl.java
+END
+AsignarSalaTemporalServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/audiencia/impl/AsignarSalaTemporalServiceImpl.java
+END
+ConsultarDisponibilidadSalasServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/audiencia/impl/ConsultarDisponibilidadSalasServiceImpl.java
+END
+ConsultarAudienciaServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/sigi-morelia/!svn/ver/230/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/audiencia/impl/ConsultarAudienciaServiceImpl.java
+END
+EliminarFuncionarioAudienciaServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/audiencia/impl/EliminarFuncionarioAudienciaServiceImpl.java
+END

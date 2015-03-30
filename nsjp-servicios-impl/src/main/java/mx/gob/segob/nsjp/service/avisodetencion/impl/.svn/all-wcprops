@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/sigi-morelia/!svn/ver/244/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/avisodetencion/impl
+END
+EnviarAvisoDetencionServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/sigi-morelia/!svn/ver/293/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/avisodetencion/impl/EnviarAvisoDetencionServiceImpl.java
+END
+RegistrarAvisoSinDetencionDeAreaExternaImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/sigi-morelia/!svn/ver/297/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/avisodetencion/impl/RegistrarAvisoSinDetencionDeAreaExternaImpl.java
+END
+RegistrarAvisoDetencionDeAreaExternaImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/sigi-morelia/!svn/ver/297/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/avisodetencion/impl/RegistrarAvisoDetencionDeAreaExternaImpl.java
+END
+AvisoDetencionServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/sigi-morelia/!svn/ver/183/trunk/nsjp/nsjp-servicios-impl/src/main/java/mx/gob/segob/nsjp/service/avisodetencion/impl/AvisoDetencionServiceImpl.java
+END

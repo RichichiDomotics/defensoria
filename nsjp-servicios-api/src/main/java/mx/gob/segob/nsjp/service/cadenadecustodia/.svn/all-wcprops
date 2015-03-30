@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/sigi-morelia/!svn/ver/9/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/cadenadecustodia
+END
+GuardarCadenaCustodiaService.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/sigi-morelia/!svn/ver/9/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/cadenadecustodia/GuardarCadenaCustodiaService.java
+END
+ConsultarCadenaCustodiaXExpedienteService.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/sigi-morelia/!svn/ver/291/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/cadenadecustodia/ConsultarCadenaCustodiaXExpedienteService.java
+END
+ConsultarCadenaDeCustodiaXFolioService.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/sigi-morelia/!svn/ver/9/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/cadenadecustodia/ConsultarCadenaDeCustodiaXFolioService.java
+END
+ConsultarCadenaCustodiaXAlmacenService.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/sigi-morelia/!svn/ver/9/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/cadenadecustodia/ConsultarCadenaCustodiaXAlmacenService.java
+END

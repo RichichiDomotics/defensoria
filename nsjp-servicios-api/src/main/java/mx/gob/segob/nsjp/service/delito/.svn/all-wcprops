@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/sigi-morelia/!svn/ver/9/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/delito
+END
+ConsultarDelitoPersonaService.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/sigi-morelia/!svn/ver/122/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/delito/ConsultarDelitoPersonaService.java
+END
+ConsultarDelitoService.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/sigi-morelia/!svn/ver/9/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/delito/ConsultarDelitoService.java
+END
+ConsultarDelitosPorImputadoService.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/sigi-morelia/!svn/ver/9/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/delito/ConsultarDelitosPorImputadoService.java
+END
+AsociarDelitoResponsableVictimaService.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/sigi-morelia/!svn/ver/68/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/delito/AsociarDelitoResponsableVictimaService.java
+END
+RegistrarDelitoDenunciaService.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/sigi-morelia/!svn/ver/9/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/delito/RegistrarDelitoDenunciaService.java
+END
+GuardarDelitoService.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/sigi-morelia/!svn/ver/100/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/delito/GuardarDelitoService.java
+END
+ValidarExisteDelitoGraveService.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/sigi-morelia/!svn/ver/9/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/delito/ValidarExisteDelitoGraveService.java
+END
+ModificarDelitoService.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/sigi-morelia/!svn/ver/9/trunk/nsjp/nsjp-servicios-api/src/main/java/mx/gob/segob/nsjp/service/delito/ModificarDelitoService.java
+END

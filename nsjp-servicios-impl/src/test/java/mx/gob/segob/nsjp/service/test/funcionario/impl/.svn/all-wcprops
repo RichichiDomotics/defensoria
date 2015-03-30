@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/funcionario/impl
+END
+ConsultarPeritoPorEvidenciaServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/funcionario/impl/ConsultarPeritoPorEvidenciaServiceImplTest.java
+END
+ConsultarPeritoPorNombreServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/funcionario/impl/ConsultarPeritoPorNombreServiceImplTest.java
+END
+ConsultarFuncionarioPorDepartamentoServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/funcionario/impl/ConsultarFuncionarioPorDepartamentoServiceImplTest.java
+END
+ConsultarFuncionarioPorFiltroServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/funcionario/impl/ConsultarFuncionarioPorFiltroServiceImplTest.java
+END
+ConsultarAbogadosServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/funcionario/impl/ConsultarAbogadosServiceImplTest.java
+END
+RegistrarTestigoEnAudienciaServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/funcionario/impl/RegistrarTestigoEnAudienciaServiceImplTest.java
+END
+AdjuntarArchivoAFuncionarioServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/funcionario/impl/AdjuntarArchivoAFuncionarioServiceImplTest.java
+END
+ConsultarFuncionarioXExpedienteServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/funcionario/impl/ConsultarFuncionarioXExpedienteServiceImplTest.java
+END
+AsociarPeritoExpedienteServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/funcionario/impl/AsociarPeritoExpedienteServiceImplTest.java
+END
+ConsultarAreasAgenciaServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/funcionario/impl/ConsultarAreasAgenciaServiceImplTest.java
+END
+ConsultarTribunalesPorDistritoServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/funcionario/impl/ConsultarTribunalesPorDistritoServiceImplTest.java
+END
+ActualizarFuncionarioServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/funcionario/impl/ActualizarFuncionarioServiceTest.java
+END
+ConsultarFuncionariosPorRolServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/funcionario/impl/ConsultarFuncionariosPorRolServiceImplTest.java
+END
+ConsultarDefensoresServiceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/funcionario/impl/ConsultarDefensoresServiceTest.java
+END
+IngresarPeritoServiceImplTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/sigi-morelia/!svn/ver/10/trunk/nsjp/nsjp-servicios-impl/src/test/java/mx/gob/segob/nsjp/service/test/funcionario/impl/IngresarPeritoServiceImplTest.java
+END
