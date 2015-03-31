@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/sigi-morelia/!svn/ver/133/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/enable/moreliapj
+END
+MoreliaBridgePJSoap_MoreliaBridgePJSoap_Client.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/sigi-morelia/!svn/ver/133/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/enable/moreliapj/MoreliaBridgePJSoap_MoreliaBridgePJSoap_Client.java
+END
+MoreliaBridgePJSoap_MoreliaBridgePJSoap12_Client.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/sigi-morelia/!svn/ver/133/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/enable/moreliapj/MoreliaBridgePJSoap_MoreliaBridgePJSoap12_Client.java
+END
+MoreliaBridgePJSoap.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/sigi-morelia/!svn/ver/133/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/enable/moreliapj/MoreliaBridgePJSoap.java
+END
+ObjectFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/sigi-morelia/!svn/ver/133/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/enable/moreliapj/ObjectFactory.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/sigi-morelia/!svn/ver/133/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/enable/moreliapj/package-info.java
+END
+SolicitarAudienciaResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/sigi-morelia/!svn/ver/133/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/enable/moreliapj/SolicitarAudienciaResponse.java
+END
+SolicitarAudiencia.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/sigi-morelia/!svn/ver/133/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/enable/moreliapj/SolicitarAudiencia.java
+END
+MoreliaBridgePJ.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/sigi-morelia/!svn/ver/133/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/enable/moreliapj/MoreliaBridgePJ.java
+END

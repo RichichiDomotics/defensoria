@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/medidaalterna
+END
+NSJPNegocioException.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/medidaalterna/NSJPNegocioException.java
+END
+CodigoError.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/medidaalterna/CodigoError.java
+END
+DocumentoWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/medidaalterna/DocumentoWSDTO.java
+END
+GenericWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/medidaalterna/GenericWSDTO.java
+END
+ObjectFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/medidaalterna/ObjectFactory.java
+END
+MedidaWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/medidaalterna/MedidaWSDTO.java
+END
+RegistrarMedidaAlternaResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/medidaalterna/RegistrarMedidaAlternaResponse.java
+END
+RegistrarMedidaAlterna.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/medidaalterna/RegistrarMedidaAlterna.java
+END
+RegistrarMedidaAlternaServiceExporterImplService.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/medidaalterna/RegistrarMedidaAlternaServiceExporterImplService.java
+END
+RegistrarMedidaAlternaServiceExporter_RegistrarMedidaAlternaServiceExporterImplPort_Client.java
+K 25
+svn:wc:ra_dav:version-url
+V 207
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/medidaalterna/RegistrarMedidaAlternaServiceExporter_RegistrarMedidaAlternaServiceExporterImplPort_Client.java
+END
+NSJPNegocioException_Exception.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/medidaalterna/NSJPNegocioException_Exception.java
+END
+ArchivoDigitalWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/medidaalterna/ArchivoDigitalWSDTO.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/medidaalterna/package-info.java
+END
+RegistrarMedidaAlternaServiceExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/medidaalterna/RegistrarMedidaAlternaServiceExporter.java
+END
+MedidaAlternaWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/medidaalterna/MedidaAlternaWSDTO.java
+END

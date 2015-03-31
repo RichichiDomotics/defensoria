@@ -1,0 +1,329 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/solicitudtransferenciaimputado
+END
+NSJPNegocioException.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/solicitudtransferenciaimputado/NSJPNegocioException.java
+END
+CadenaDeCustodiaWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/solicitudtransferenciaimputado/CadenaDeCustodiaWSDTO.java
+END
+InvolucradoWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/solicitudtransferenciaimputado/InvolucradoWSDTO.java
+END
+GenericWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/solicitudtransferenciaimputado/GenericWSDTO.java
+END
+ObjectFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/solicitudtransferenciaimputado/ObjectFactory.java
+END
+AudienciaWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/solicitudtransferenciaimputado/AudienciaWSDTO.java
+END
+RegistrarSolicitudTransferenciaImputadoSSPExporter_RegistrarSolicitudTransferenciaImputadoSSPExporterImplPort_Client.java
+K 25
+svn:wc:ra_dav:version-url
+V 250
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/solicitudtransferenciaimputado/RegistrarSolicitudTransferenciaImputadoSSPExporter_RegistrarSolicitudTransferenciaImputadoSSPExporterImplPort_Client.java
+END
+FuncionarioWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/solicitudtransferenciaimputado/FuncionarioWSDTO.java
+END
+TiempoWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/solicitudtransferenciaimputado/TiempoWSDTO.java
+END
+MediaFiliacionWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/solicitudtransferenciaimputado/MediaFiliacionWSDTO.java
+END
+NSJPNegocioException_Exception.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/solicitudtransferenciaimputado/NSJPNegocioException_Exception.java
+END
+RegistrarSolicitudTransferenciaImputadoSSPExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/solicitudtransferenciaimputado/RegistrarSolicitudTransferenciaImputadoSSPExporter.java
+END
+InmuebleWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/solicitudtransferenciaimputado/InmuebleWSDTO.java
+END
+InmediacionWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/solicitudtransferenciaimputado/InmediacionWSDTO.java
+END
+OrganizacionWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/solicitudtransferenciaimputado/OrganizacionWSDTO.java
+END
+VehiculoWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/solicitudtransferenciaimputado/VehiculoWSDTO.java
+END
+DomicilioWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/solicitudtransferenciaimputado/DomicilioWSDTO.java
+END
+EvidenciaWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/solicitudtransferenciaimputado/EvidenciaWSDTO.java
+END
+SeniaParticularWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/solicitudtransferenciaimputado/SeniaParticularWSDTO.java
+END
+ArchivoDigitalWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/solicitudtransferenciaimputado/ArchivoDigitalWSDTO.java
+END
+PersonaWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/solicitudtransferenciaimputado/PersonaWSDTO.java
+END
+RegistrarSolicitudTransferenciaImputadoSSPExporterImplService.java
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/solicitudtransferenciaimputado/RegistrarSolicitudTransferenciaImputadoSSPExporterImplService.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/solicitudtransferenciaimputado/package-info.java
+END
+ExplosivoWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/solicitudtransferenciaimputado/ExplosivoWSDTO.java
+END
+LugarWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/solicitudtransferenciaimputado/LugarWSDTO.java
+END
+DocumentoOficialWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/solicitudtransferenciaimputado/DocumentoOficialWSDTO.java
+END
+VegetalWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/solicitudtransferenciaimputado/VegetalWSDTO.java
+END
+TelefoniaWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/solicitudtransferenciaimputado/TelefoniaWSDTO.java
+END
+ElementoWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/solicitudtransferenciaimputado/ElementoWSDTO.java
+END
+CodigoError.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/solicitudtransferenciaimputado/CodigoError.java
+END
+TelefonoWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/solicitudtransferenciaimputado/TelefonoWSDTO.java
+END
+DocumentoWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/solicitudtransferenciaimputado/DocumentoWSDTO.java
+END
+SolicitudTrasladoImputadoWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/solicitudtransferenciaimputado/SolicitudTrasladoImputadoWSDTO.java
+END
+SolicitudAudienciaBasicoWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/solicitudtransferenciaimputado/SolicitudAudienciaBasicoWSDTO.java
+END
+DelitoWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/solicitudtransferenciaimputado/DelitoWSDTO.java
+END
+NombreDemograficoWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/solicitudtransferenciaimputado/NombreDemograficoWSDTO.java
+END
+AnimalWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/solicitudtransferenciaimputado/AnimalWSDTO.java
+END
+CorreoElectronicoWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/solicitudtransferenciaimputado/CorreoElectronicoWSDTO.java
+END
+EslabonWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/solicitudtransferenciaimputado/EslabonWSDTO.java
+END
+DetencionWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/solicitudtransferenciaimputado/DetencionWSDTO.java
+END
+EquipoComputoWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/solicitudtransferenciaimputado/EquipoComputoWSDTO.java
+END
+RegistrarSolicitudTransferenciaImputadoSSPResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/solicitudtransferenciaimputado/RegistrarSolicitudTransferenciaImputadoSSPResponse.java
+END
+AeronaveWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/solicitudtransferenciaimputado/AeronaveWSDTO.java
+END
+ObraArteWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/solicitudtransferenciaimputado/ObraArteWSDTO.java
+END
+RegistrarSolicitudTransferenciaImputadoSSP.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/solicitudtransferenciaimputado/RegistrarSolicitudTransferenciaImputadoSSP.java
+END
+ArmaWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/solicitudtransferenciaimputado/ArmaWSDTO.java
+END
+ExpedienteWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/solicitudtransferenciaimputado/ExpedienteWSDTO.java
+END
+ObjetoWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/solicitudtransferenciaimputado/ObjetoWSDTO.java
+END
+NumerarioWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/solicitudtransferenciaimputado/NumerarioWSDTO.java
+END
+SustanciaWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/solicitudtransferenciaimputado/SustanciaWSDTO.java
+END
+CalidadWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/solicitudtransferenciaimputado/CalidadWSDTO.java
+END
+JoyaWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/solicitudtransferenciaimputado/JoyaWSDTO.java
+END
+HechoWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/solicitudtransferenciaimputado/HechoWSDTO.java
+END
+EmbarcacionWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/solicitudtransferenciaimputado/EmbarcacionWSDTO.java
+END

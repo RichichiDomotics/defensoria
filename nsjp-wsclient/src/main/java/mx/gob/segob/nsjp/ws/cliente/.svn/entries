@@ -1,0 +1,115 @@
+10
+
+dir
+14
+https://subversion.assembla.com/svn/sigi-morelia/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente
+https://subversion.assembla.com/svn/sigi-morelia
+
+
+
+2013-09-09T16:11:02.947031Z
+13
+ariadna
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f7879140-5060-4e79-bf49-f6b8e9c27a7b
+
+administrarPermisosAudiencia
+dir
+
+agendaraudienciajavs
+dir
+
+avidohdelictivo
+dir
+
+avisodetencion
+dir
+
+consultaraudiencia
+dir
+
+consultardistritos
+dir
+
+consultarfuncionarioexterno
+dir
+
+consultarfuncionariosxtribunal
+dir
+
+consultartribunalespordistrito
+dir
+
+enviarcarpetainvestigacion
+dir
+
+enviardocumentoainstitucion
+dir
+
+enviardocumentoincumplimientomedida
+dir
+
+enviarinformepolicialhomologado
+dir
+
+estatusmandamiento
+dir
+
+generaracuse
+dir
+
+mandamiento
+dir
+
+medidaalterna
+dir
+
+medidacautelar
+dir
+
+notificacionaudiencia
+dir
+
+registarreplicacaso
+dir
+
+respuestatranscripcion
+dir
+
+seguimiento
+dir
+
+sentencia
+dir
+
+solicitud
+dir
+
+solicitudaudiencia
+dir
+
+solicitudcarpeta
+dir
+
+solicituddefensor
+dir
+
+solicitudtranscripcion
+dir
+
+solicitudtransferenciaimputado
+dir
+

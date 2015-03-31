@@ -1,0 +1,62 @@
+
+package mx.gob.segob.nsjp.ws.cliente.solicitudaudiencia;
+
+import javax.xml.bind.annotation.XmlAccessType;
+import javax.xml.bind.annotation.XmlAccessorType;
+import javax.xml.bind.annotation.XmlType;
+
+
+/**
+ * <p>Clase Java para areaWSDTO complex type.
+ * 
+ * <p>El siguiente fragmento de esquema especifica el contenido que se espera que haya en esta clase.
+ * 
+ * <pre>
+ * &lt;complexType name="areaWSDTO">
+ *   &lt;complexContent>
+ *     &lt;extension base="{http://ws.service.nsjp.segob.gob.mx/}genericWSDTO">
+ *       &lt;sequence>
+ *         &lt;element name="areaId" type="{http://www.w3.org/2001/XMLSchema}long" minOccurs="0"/>
+ *       &lt;/sequence>
+ *     &lt;/extension>
+ *   &lt;/complexContent>
+ * &lt;/complexType>
+ * </pre>
+ * 
+ * 
+ */
+@XmlAccessorType(XmlAccessType.FIELD)
+@XmlType(name = "areaWSDTO", propOrder = {
+    "areaId"
+})
+public class AreaWSDTO
+    extends GenericWSDTO
+{
+
+    protected Long areaId;
+
+    /**
+     * Obtiene el valor de la propiedad areaId.
+     * 
+     * @return
+     *     possible object is
+     *     {@link Long }
+     *     
+     */
+    public Long getAreaId() {
+        return areaId;
+    }
+
+    /**
+     * Define el valor de la propiedad areaId.
+     * 
+     * @param value
+     *     allowed object is
+     *     {@link Long }
+     *     
+     */
+    public void setAreaId(Long value) {
+        this.areaId = value;
+    }
+
+}

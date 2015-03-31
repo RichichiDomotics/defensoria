@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/avidohdelictivo
+END
+NSJPNegocioException.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/avidohdelictivo/NSJPNegocioException.java
+END
+AvisoHechoDelictivoWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/avidohdelictivo/AvisoHechoDelictivoWSDTO.java
+END
+InvolucradoWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/avidohdelictivo/InvolucradoWSDTO.java
+END
+GenericWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/avidohdelictivo/GenericWSDTO.java
+END
+ObjectFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/avidohdelictivo/ObjectFactory.java
+END
+RecibirAvisoHDelictivoExporter_RecibirAvisoHDelictivoExporterImplPort_Client.java
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/avidohdelictivo/RecibirAvisoHDelictivoExporter_RecibirAvisoHDelictivoExporterImplPort_Client.java
+END
+RecibirAvisoHDelictivoExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/avidohdelictivo/RecibirAvisoHDelictivoExporter.java
+END
+FuncionarioWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/avidohdelictivo/FuncionarioWSDTO.java
+END
+NotificacionWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/avidohdelictivo/NotificacionWSDTO.java
+END
+TiempoWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/avidohdelictivo/TiempoWSDTO.java
+END
+MediaFiliacionWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/avidohdelictivo/MediaFiliacionWSDTO.java
+END
+NSJPNegocioException_Exception.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/avidohdelictivo/NSJPNegocioException_Exception.java
+END
+InmediacionWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/avidohdelictivo/InmediacionWSDTO.java
+END
+OrganizacionWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/avidohdelictivo/OrganizacionWSDTO.java
+END
+DomicilioWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/avidohdelictivo/DomicilioWSDTO.java
+END
+SeniaParticularWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/avidohdelictivo/SeniaParticularWSDTO.java
+END
+ArchivoDigitalWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/avidohdelictivo/ArchivoDigitalWSDTO.java
+END
+PersonaWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/avidohdelictivo/PersonaWSDTO.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/avidohdelictivo/package-info.java
+END
+LugarWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/avidohdelictivo/LugarWSDTO.java
+END
+ElementoWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/avidohdelictivo/ElementoWSDTO.java
+END
+CodigoError.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/avidohdelictivo/CodigoError.java
+END
+TelefonoWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/avidohdelictivo/TelefonoWSDTO.java
+END
+DocumentoWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/avidohdelictivo/DocumentoWSDTO.java
+END
+RecibirAvisoHDelictivoServiceResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/avidohdelictivo/RecibirAvisoHDelictivoServiceResponse.java
+END
+RecibirAvisoHDelictivoService.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/avidohdelictivo/RecibirAvisoHDelictivoService.java
+END
+RecibirAvisoHDelictivoExporterImplService.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/avidohdelictivo/RecibirAvisoHDelictivoExporterImplService.java
+END
+DelitoWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/avidohdelictivo/DelitoWSDTO.java
+END
+NombreDemograficoWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/avidohdelictivo/NombreDemograficoWSDTO.java
+END
+CorreoElectronicoWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/avidohdelictivo/CorreoElectronicoWSDTO.java
+END
+DetencionWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/avidohdelictivo/DetencionWSDTO.java
+END
+CalidadWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/avidohdelictivo/CalidadWSDTO.java
+END
+HechoWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/avidohdelictivo/HechoWSDTO.java
+END

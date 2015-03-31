@@ -1,0 +1,347 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultarfuncionarioexterno
+END
+NSJPNegocioException.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultarfuncionarioexterno/NSJPNegocioException.java
+END
+CadenaDeCustodiaWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultarfuncionarioexterno/CadenaDeCustodiaWSDTO.java
+END
+InvolucradoWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultarfuncionarioexterno/InvolucradoWSDTO.java
+END
+CriterioConsultaFuncionarioExternoWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultarfuncionarioexterno/CriterioConsultaFuncionarioExternoWSDTO.java
+END
+GenericWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultarfuncionarioexterno/GenericWSDTO.java
+END
+ObjectFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultarfuncionarioexterno/ObjectFactory.java
+END
+FuncionarioWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultarfuncionarioexterno/FuncionarioWSDTO.java
+END
+TiempoWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultarfuncionarioexterno/TiempoWSDTO.java
+END
+ConsultarFuncionarioExternoExporter_ConsultarFuncionarioExternoExporterImplPort_Client.java
+K 25
+svn:wc:ra_dav:version-url
+V 217
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultarfuncionarioexterno/ConsultarFuncionarioExternoExporter_ConsultarFuncionarioExternoExporterImplPort_Client.java
+END
+MediaFiliacionWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultarfuncionarioexterno/MediaFiliacionWSDTO.java
+END
+NSJPNegocioException_Exception.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultarfuncionarioexterno/NSJPNegocioException_Exception.java
+END
+InmuebleWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultarfuncionarioexterno/InmuebleWSDTO.java
+END
+InmediacionWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultarfuncionarioexterno/InmediacionWSDTO.java
+END
+OrganizacionWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultarfuncionarioexterno/OrganizacionWSDTO.java
+END
+VehiculoWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultarfuncionarioexterno/VehiculoWSDTO.java
+END
+DomicilioWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultarfuncionarioexterno/DomicilioWSDTO.java
+END
+EvidenciaWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultarfuncionarioexterno/EvidenciaWSDTO.java
+END
+SeniaParticularWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultarfuncionarioexterno/SeniaParticularWSDTO.java
+END
+ArchivoDigitalWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultarfuncionarioexterno/ArchivoDigitalWSDTO.java
+END
+PersonaWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultarfuncionarioexterno/PersonaWSDTO.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultarfuncionarioexterno/package-info.java
+END
+ExplosivoWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultarfuncionarioexterno/ExplosivoWSDTO.java
+END
+LugarWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultarfuncionarioexterno/LugarWSDTO.java
+END
+DocumentoOficialWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultarfuncionarioexterno/DocumentoOficialWSDTO.java
+END
+VegetalWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultarfuncionarioexterno/VegetalWSDTO.java
+END
+ConsultarFuncionariosXCriterioResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultarfuncionarioexterno/ConsultarFuncionariosXCriterioResponse.java
+END
+ConsultarFuncionariosXCriterio.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultarfuncionarioexterno/ConsultarFuncionariosXCriterio.java
+END
+TelefoniaWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultarfuncionarioexterno/TelefoniaWSDTO.java
+END
+ElementoWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultarfuncionarioexterno/ElementoWSDTO.java
+END
+CodigoError.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultarfuncionarioexterno/CodigoError.java
+END
+TelefonoWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultarfuncionarioexterno/TelefonoWSDTO.java
+END
+DocumentoWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultarfuncionarioexterno/DocumentoWSDTO.java
+END
+DelitoWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultarfuncionarioexterno/DelitoWSDTO.java
+END
+NombreDemograficoWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultarfuncionarioexterno/NombreDemograficoWSDTO.java
+END
+CasoWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultarfuncionarioexterno/CasoWSDTO.java
+END
+AnimalWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultarfuncionarioexterno/AnimalWSDTO.java
+END
+CorreoElectronicoWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultarfuncionarioexterno/CorreoElectronicoWSDTO.java
+END
+ActividadWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultarfuncionarioexterno/ActividadWSDTO.java
+END
+EslabonWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultarfuncionarioexterno/EslabonWSDTO.java
+END
+ConsultarFuncionarioExternoExporterImplService.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultarfuncionarioexterno/ConsultarFuncionarioExternoExporterImplService.java
+END
+DetencionWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultarfuncionarioexterno/DetencionWSDTO.java
+END
+EquipoComputoWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultarfuncionarioexterno/EquipoComputoWSDTO.java
+END
+AeronaveWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultarfuncionarioexterno/AeronaveWSDTO.java
+END
+DepartamentoWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultarfuncionarioexterno/DepartamentoWSDTO.java
+END
+ObraArteWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultarfuncionarioexterno/ObraArteWSDTO.java
+END
+ArmaWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultarfuncionarioexterno/ArmaWSDTO.java
+END
+ExpedienteWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultarfuncionarioexterno/ExpedienteWSDTO.java
+END
+ObjetoWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultarfuncionarioexterno/ObjetoWSDTO.java
+END
+NumerarioWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultarfuncionarioexterno/NumerarioWSDTO.java
+END
+SustanciaWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultarfuncionarioexterno/SustanciaWSDTO.java
+END
+CalidadWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultarfuncionarioexterno/CalidadWSDTO.java
+END
+JoyaWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultarfuncionarioexterno/JoyaWSDTO.java
+END
+AreaWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultarfuncionarioexterno/AreaWSDTO.java
+END
+HechoWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultarfuncionarioexterno/HechoWSDTO.java
+END
+EmbarcacionWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultarfuncionarioexterno/EmbarcacionWSDTO.java
+END
+RolWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultarfuncionarioexterno/RolWSDTO.java
+END
+ConsultarFuncionarioExternoExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultarfuncionarioexterno/ConsultarFuncionarioExternoExporter.java
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultarfuncionariosxtribunal
+END
+NSJPNegocioException_Exception.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultarfuncionariosxtribunal/NSJPNegocioException_Exception.java
+END
+NSJPNegocioException.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultarfuncionariosxtribunal/NSJPNegocioException.java
+END
+ConsultarFuncionariosXTribunalResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultarfuncionariosxtribunal/ConsultarFuncionariosXTribunalResponse.java
+END
+ConsultarFuncionariosXTribunalExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultarfuncionariosxtribunal/ConsultarFuncionariosXTribunalExporter.java
+END
+CodigoError.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultarfuncionariosxtribunal/CodigoError.java
+END
+ConsultarFuncionariosXTribunal.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultarfuncionariosxtribunal/ConsultarFuncionariosXTribunal.java
+END
+GenericWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultarfuncionariosxtribunal/GenericWSDTO.java
+END
+ObjectFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultarfuncionariosxtribunal/ObjectFactory.java
+END
+ConsultarFuncionariosXTribunalExporter_ConsultarFuncionariosXTribunalExporterImplPort_Client.java
+K 25
+svn:wc:ra_dav:version-url
+V 226
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultarfuncionariosxtribunal/ConsultarFuncionariosXTribunalExporter_ConsultarFuncionariosXTribunalExporterImplPort_Client.java
+END
+FuncionarioWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultarfuncionariosxtribunal/FuncionarioWSDTO.java
+END
+ConsultarFuncionariosXTribunalExporterImplService.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultarfuncionariosxtribunal/ConsultarFuncionariosXTribunalExporterImplService.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultarfuncionariosxtribunal/package-info.java
+END

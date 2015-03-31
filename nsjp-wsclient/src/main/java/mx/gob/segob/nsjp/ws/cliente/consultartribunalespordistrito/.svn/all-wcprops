@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultartribunalespordistrito
+END
+NSJPNegocioException_Exception.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultartribunalespordistrito/NSJPNegocioException_Exception.java
+END
+NSJPNegocioException.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultartribunalespordistrito/NSJPNegocioException.java
+END
+CodigoError.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultartribunalespordistrito/CodigoError.java
+END
+GenericWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultartribunalespordistrito/GenericWSDTO.java
+END
+ObjectFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultartribunalespordistrito/ObjectFactory.java
+END
+ConsultarAgenciasPorDistritoResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultartribunalespordistrito/ConsultarAgenciasPorDistritoResponse.java
+END
+ConsultarAgenciasPorDistrito.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultartribunalespordistrito/ConsultarAgenciasPorDistrito.java
+END
+ConsultarTribunalesPorDistritoResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultartribunalespordistrito/ConsultarTribunalesPorDistritoResponse.java
+END
+ConsultarTribunalesPorDistritoServiceExporter_ConsultarTribunalesPorDistritoServiceExporterImplPort_Client.java
+K 25
+svn:wc:ra_dav:version-url
+V 240
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultartribunalespordistrito/ConsultarTribunalesPorDistritoServiceExporter_ConsultarTribunalesPorDistritoServiceExporterImplPort_Client.java
+END
+CatDiscriminanteWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultartribunalespordistrito/CatDiscriminanteWSDTO.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultartribunalespordistrito/package-info.java
+END
+ConsultarTribunalesPorDistrito.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultartribunalespordistrito/ConsultarTribunalesPorDistrito.java
+END
+ConsultarTribunalesPorDistritoServiceExporterImplService.java
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultartribunalespordistrito/ConsultarTribunalesPorDistritoServiceExporterImplService.java
+END
+ConsultarTribunalesPorDistritoServiceExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultartribunalespordistrito/ConsultarTribunalesPorDistritoServiceExporter.java
+END

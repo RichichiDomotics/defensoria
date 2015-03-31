@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/solicitudtranscripcion
+END
+NSJPNegocioException_Exception.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/solicitudtranscripcion/NSJPNegocioException_Exception.java
+END
+NSJPNegocioException.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/solicitudtranscripcion/NSJPNegocioException.java
+END
+CodigoError.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/solicitudtranscripcion/CodigoError.java
+END
+RegistrarSolicitudTranscripcionResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/solicitudtranscripcion/RegistrarSolicitudTranscripcionResponse.java
+END
+SolicitudAudienciaBasicoWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/solicitudtranscripcion/SolicitudAudienciaBasicoWSDTO.java
+END
+RegistrarSolicitudTranscripcion.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/solicitudtranscripcion/RegistrarSolicitudTranscripcion.java
+END
+GenericWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/solicitudtranscripcion/GenericWSDTO.java
+END
+RegistrarSolicitudTranscripcionAreaExternaExporterImplService.java
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/solicitudtranscripcion/RegistrarSolicitudTranscripcionAreaExternaExporterImplService.java
+END
+ObjectFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/solicitudtranscripcion/ObjectFactory.java
+END
+AudienciaWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/solicitudtranscripcion/AudienciaWSDTO.java
+END
+RegistrarSolicitudTranscripcionAreaExternaExporter_RegistrarSolicitudTranscripcionAreaExternaExporterImplPort_Client.java
+K 25
+svn:wc:ra_dav:version-url
+V 242
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/solicitudtranscripcion/RegistrarSolicitudTranscripcionAreaExternaExporter_RegistrarSolicitudTranscripcionAreaExternaExporterImplPort_Client.java
+END
+RegistrarSolicitudTranscripcionAreaExternaExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/solicitudtranscripcion/RegistrarSolicitudTranscripcionAreaExternaExporter.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/solicitudtranscripcion/package-info.java
+END
+SolicitudTranscripcionWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/solicitudtranscripcion/SolicitudTranscripcionWSDTO.java
+END

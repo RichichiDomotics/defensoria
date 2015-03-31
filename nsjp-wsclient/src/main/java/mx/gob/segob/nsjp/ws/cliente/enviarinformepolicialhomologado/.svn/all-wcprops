@@ -1,0 +1,323 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/enviarinformepolicialhomologado
+END
+NSJPNegocioException.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/enviarinformepolicialhomologado/NSJPNegocioException.java
+END
+CadenaDeCustodiaWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/enviarinformepolicialhomologado/CadenaDeCustodiaWSDTO.java
+END
+EnviarInformePolicialHomologadoExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/enviarinformepolicialhomologado/EnviarInformePolicialHomologadoExporter.java
+END
+InvolucradoWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/enviarinformepolicialhomologado/InvolucradoWSDTO.java
+END
+EnviarInformePolicialHomologadoExporter_EnviarInformePolicialHomologadoExporterImplPort_Client.java
+K 25
+svn:wc:ra_dav:version-url
+V 229
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/enviarinformepolicialhomologado/EnviarInformePolicialHomologadoExporter_EnviarInformePolicialHomologadoExporterImplPort_Client.java
+END
+GenericWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/enviarinformepolicialhomologado/GenericWSDTO.java
+END
+ObjectFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/enviarinformepolicialhomologado/ObjectFactory.java
+END
+FuncionarioWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/enviarinformepolicialhomologado/FuncionarioWSDTO.java
+END
+TiempoWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/enviarinformepolicialhomologado/TiempoWSDTO.java
+END
+MediaFiliacionWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/enviarinformepolicialhomologado/MediaFiliacionWSDTO.java
+END
+NSJPNegocioException_Exception.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/enviarinformepolicialhomologado/NSJPNegocioException_Exception.java
+END
+InmuebleWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/enviarinformepolicialhomologado/InmuebleWSDTO.java
+END
+InmediacionWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/enviarinformepolicialhomologado/InmediacionWSDTO.java
+END
+OrganizacionWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/enviarinformepolicialhomologado/OrganizacionWSDTO.java
+END
+VehiculoWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/enviarinformepolicialhomologado/VehiculoWSDTO.java
+END
+DomicilioWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/enviarinformepolicialhomologado/DomicilioWSDTO.java
+END
+EvidenciaWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/enviarinformepolicialhomologado/EvidenciaWSDTO.java
+END
+SeniaParticularWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/enviarinformepolicialhomologado/SeniaParticularWSDTO.java
+END
+ArchivoDigitalWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/enviarinformepolicialhomologado/ArchivoDigitalWSDTO.java
+END
+PersonaWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/enviarinformepolicialhomologado/PersonaWSDTO.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/enviarinformepolicialhomologado/package-info.java
+END
+ExplosivoWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/enviarinformepolicialhomologado/ExplosivoWSDTO.java
+END
+LugarWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/enviarinformepolicialhomologado/LugarWSDTO.java
+END
+DocumentoOficialWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/enviarinformepolicialhomologado/DocumentoOficialWSDTO.java
+END
+VegetalWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/enviarinformepolicialhomologado/VegetalWSDTO.java
+END
+TelefoniaWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/enviarinformepolicialhomologado/TelefoniaWSDTO.java
+END
+ElementoWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/enviarinformepolicialhomologado/ElementoWSDTO.java
+END
+CodigoError.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/enviarinformepolicialhomologado/CodigoError.java
+END
+TelefonoWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/enviarinformepolicialhomologado/TelefonoWSDTO.java
+END
+DocumentoWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/enviarinformepolicialhomologado/DocumentoWSDTO.java
+END
+EnviarInformePolicialHomologadoResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/enviarinformepolicialhomologado/EnviarInformePolicialHomologadoResponse.java
+END
+EnviarInformePolicialHomologado.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/enviarinformepolicialhomologado/EnviarInformePolicialHomologado.java
+END
+DelitoWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/enviarinformepolicialhomologado/DelitoWSDTO.java
+END
+NombreDemograficoWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/enviarinformepolicialhomologado/NombreDemograficoWSDTO.java
+END
+InformePolicialHomologadoWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/enviarinformepolicialhomologado/InformePolicialHomologadoWSDTO.java
+END
+AnimalWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/enviarinformepolicialhomologado/AnimalWSDTO.java
+END
+EnviarInformePolicialHomologadoExporterImplService.java
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/enviarinformepolicialhomologado/EnviarInformePolicialHomologadoExporterImplService.java
+END
+CorreoElectronicoWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/enviarinformepolicialhomologado/CorreoElectronicoWSDTO.java
+END
+ActividadWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/enviarinformepolicialhomologado/ActividadWSDTO.java
+END
+EslabonWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/enviarinformepolicialhomologado/EslabonWSDTO.java
+END
+DetencionWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/enviarinformepolicialhomologado/DetencionWSDTO.java
+END
+EquipoComputoWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/enviarinformepolicialhomologado/EquipoComputoWSDTO.java
+END
+AeronaveWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/enviarinformepolicialhomologado/AeronaveWSDTO.java
+END
+ObraArteWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/enviarinformepolicialhomologado/ObraArteWSDTO.java
+END
+ArmaWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/enviarinformepolicialhomologado/ArmaWSDTO.java
+END
+ExpedienteWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/enviarinformepolicialhomologado/ExpedienteWSDTO.java
+END
+ObjetoWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/enviarinformepolicialhomologado/ObjetoWSDTO.java
+END
+NumerarioWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/enviarinformepolicialhomologado/NumerarioWSDTO.java
+END
+SustanciaWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/enviarinformepolicialhomologado/SustanciaWSDTO.java
+END
+CalidadWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/enviarinformepolicialhomologado/CalidadWSDTO.java
+END
+JoyaWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/enviarinformepolicialhomologado/JoyaWSDTO.java
+END
+HechoWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/enviarinformepolicialhomologado/HechoWSDTO.java
+END
+EmbarcacionWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/enviarinformepolicialhomologado/EmbarcacionWSDTO.java
+END

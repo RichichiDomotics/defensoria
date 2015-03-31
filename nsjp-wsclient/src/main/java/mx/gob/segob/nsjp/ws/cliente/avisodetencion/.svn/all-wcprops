@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/sigi-morelia/!svn/ver/282/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/avisodetencion
+END
+NSJPNegocioException.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/avisodetencion/NSJPNegocioException.java
+END
+RegistrarAvisoSinDetencionResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/sigi-morelia/!svn/ver/243/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/avisodetencion/RegistrarAvisoSinDetencionResponse.java
+END
+GenericWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/avisodetencion/GenericWSDTO.java
+END
+RegistrarAvisoSinDetencion.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/sigi-morelia/!svn/ver/243/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/avisodetencion/RegistrarAvisoSinDetencion.java
+END
+ObjectFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/avisodetencion/ObjectFactory.java
+END
+AvisoDesignacionWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/sigi-morelia/!svn/ver/243/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/avisodetencion/AvisoDesignacionWSDTO.java
+END
+RegistrarAvisoDetencionDeAreaExternaExporter_RegistrarAvisoDetencionDeAreaExternaExporterImplPort_Client.java
+K 25
+svn:wc:ra_dav:version-url
+V 222
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/avisodetencion/RegistrarAvisoDetencionDeAreaExternaExporter_RegistrarAvisoDetencionDeAreaExternaExporterImplPort_Client.java
+END
+RegistrarAvisoSinDetencionDeAreaExternaExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/sigi-morelia/!svn/ver/243/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/avisodetencion/RegistrarAvisoSinDetencionDeAreaExternaExporter.java
+END
+NSJPNegocioException_Exception.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/avisodetencion/NSJPNegocioException_Exception.java
+END
+InmuebleWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/sigi-morelia/!svn/ver/278/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/avisodetencion/InmuebleWSDTO.java
+END
+RegistrarAvisoDetencionDeAreaExternaExporterImplService.java
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/sigi-morelia/!svn/ver/282/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/avisodetencion/RegistrarAvisoDetencionDeAreaExternaExporterImplService.java
+END
+VehiculoWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/sigi-morelia/!svn/ver/278/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/avisodetencion/VehiculoWSDTO.java
+END
+SolicitudDefensorWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/sigi-morelia/!svn/ver/282/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/avisodetencion/SolicitudDefensorWSDTO.java
+END
+RegistrarAvisoDetencionDeAreaExternaExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/avisodetencion/RegistrarAvisoDetencionDeAreaExternaExporter.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/avisodetencion/package-info.java
+END
+DocumentoOficialWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/sigi-morelia/!svn/ver/278/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/avisodetencion/DocumentoOficialWSDTO.java
+END
+ExplosivoWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/sigi-morelia/!svn/ver/278/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/avisodetencion/ExplosivoWSDTO.java
+END
+AvisoDetencionWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/sigi-morelia/!svn/ver/282/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/avisodetencion/AvisoDetencionWSDTO.java
+END
+VegetalWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/sigi-morelia/!svn/ver/278/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/avisodetencion/VegetalWSDTO.java
+END
+TelefoniaWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/sigi-morelia/!svn/ver/278/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/avisodetencion/TelefoniaWSDTO.java
+END
+CodigoError.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/avisodetencion/CodigoError.java
+END
+RegistrarAvisoSinDetencionDeAreaExternaExporterImplService.java
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/sigi-morelia/!svn/ver/243/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/avisodetencion/RegistrarAvisoSinDetencionDeAreaExternaExporterImplService.java
+END
+DelitoWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/avisodetencion/DelitoWSDTO.java
+END
+Objetos.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/sigi-morelia/!svn/ver/278/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/avisodetencion/Objetos.java
+END
+AnimalWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/sigi-morelia/!svn/ver/278/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/avisodetencion/AnimalWSDTO.java
+END
+DetencionWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/sigi-morelia/!svn/ver/282/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/avisodetencion/DetencionWSDTO.java
+END
+EquipoComputoWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/sigi-morelia/!svn/ver/278/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/avisodetencion/EquipoComputoWSDTO.java
+END
+AeronaveWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/sigi-morelia/!svn/ver/278/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/avisodetencion/AeronaveWSDTO.java
+END
+RegistrarAvisoDetencionResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/avisodetencion/RegistrarAvisoDetencionResponse.java
+END
+ObraArteWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/sigi-morelia/!svn/ver/278/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/avisodetencion/ObraArteWSDTO.java
+END
+RegistrarAvisoDetencion.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/avisodetencion/RegistrarAvisoDetencion.java
+END
+ArmaWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/sigi-morelia/!svn/ver/278/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/avisodetencion/ArmaWSDTO.java
+END
+ObjetoWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/sigi-morelia/!svn/ver/278/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/avisodetencion/ObjetoWSDTO.java
+END
+NumerarioWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/sigi-morelia/!svn/ver/278/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/avisodetencion/NumerarioWSDTO.java
+END
+RegistrarAvisoSinDetencionDeAreaExternaExporter_RegistrarAvisoSinDetencionDeAreaExternaExporterImplPort_Client.java
+K 25
+svn:wc:ra_dav:version-url
+V 229
+/svn/sigi-morelia/!svn/ver/243/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/avisodetencion/RegistrarAvisoSinDetencionDeAreaExternaExporter_RegistrarAvisoSinDetencionDeAreaExternaExporterImplPort_Client.java
+END
+SustanciaWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/sigi-morelia/!svn/ver/278/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/avisodetencion/SustanciaWSDTO.java
+END
+JoyaWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/sigi-morelia/!svn/ver/278/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/avisodetencion/JoyaWSDTO.java
+END
+EmbarcacionWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/sigi-morelia/!svn/ver/278/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/avisodetencion/EmbarcacionWSDTO.java
+END

@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultaraudiencia
+END
+NSJPNegocioException.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultaraudiencia/NSJPNegocioException.java
+END
+ConsultarAudienciaByIdResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultaraudiencia/ConsultarAudienciaByIdResponse.java
+END
+CodigoError.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultaraudiencia/CodigoError.java
+END
+ConsultarAudienciaById.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultaraudiencia/ConsultarAudienciaById.java
+END
+ObjectFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultaraudiencia/ObjectFactory.java
+END
+AudienciaDefensoriaWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultaraudiencia/AudienciaDefensoriaWSDTO.java
+END
+AudienciaWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultaraudiencia/AudienciaWSDTO.java
+END
+ConsultarAudienciasPorFechasYSolicitudTranscripcionResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultaraudiencia/ConsultarAudienciasPorFechasYSolicitudTranscripcionResponse.java
+END
+ConsultarAudienciasPorFechasYSolicitudTranscripcion.java
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultaraudiencia/ConsultarAudienciasPorFechasYSolicitudTranscripcion.java
+END
+ConsultarAudienciasByFechasYEstatusExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultaraudiencia/ConsultarAudienciasByFechasYEstatusExporter.java
+END
+ConsultarAudienciasByFechasYEstatusResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultaraudiencia/ConsultarAudienciasByFechasYEstatusResponse.java
+END
+ConsultarAudienciasByFechasYEstatusExporter_ConsultarAudienciasByFechasYEstatusExporterImplPort_Client.java
+K 25
+svn:wc:ra_dav:version-url
+V 224
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultaraudiencia/ConsultarAudienciasByFechasYEstatusExporter_ConsultarAudienciasByFechasYEstatusExporterImplPort_Client.java
+END
+ConsultarAudienciasByFechasYEstatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultaraudiencia/ConsultarAudienciasByFechasYEstatus.java
+END
+InvolucradoAudienciaDefWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultaraudiencia/InvolucradoAudienciaDefWSDTO.java
+END
+NSJPNegocioException_Exception.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultaraudiencia/NSJPNegocioException_Exception.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultaraudiencia/package-info.java
+END
+ConsultarAudienciasByFechasYEstatusExporterImplService.java
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/consultaraudiencia/ConsultarAudienciasByFechasYEstatusExporterImplService.java
+END

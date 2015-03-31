@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/administrarPermisosAudiencia
+END
+NSJPNegocioException.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/administrarPermisosAudiencia/NSJPNegocioException.java
+END
+FuncionarioExternoWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/administrarPermisosAudiencia/FuncionarioExternoWSDTO.java
+END
+CodigoError.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/administrarPermisosAudiencia/CodigoError.java
+END
+DatosConexionResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/administrarPermisosAudiencia/DatosConexionResponse.java
+END
+DatosConexion.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/administrarPermisosAudiencia/DatosConexion.java
+END
+ConsultarDirectoriosConsultaJAVSResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/administrarPermisosAudiencia/ConsultarDirectoriosConsultaJAVSResponse.java
+END
+ConsultarDirectoriosConsultaJAVS.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/administrarPermisosAudiencia/ConsultarDirectoriosConsultaJAVS.java
+END
+GenericWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/administrarPermisosAudiencia/GenericWSDTO.java
+END
+ObjectFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/administrarPermisosAudiencia/ObjectFactory.java
+END
+AdministrarPermisosAudienciaExporter_AdministrarPermisosAudienciaExporterImplPort_Client.java
+K 25
+svn:wc:ra_dav:version-url
+V 220
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/administrarPermisosAudiencia/AdministrarPermisosAudienciaExporter_AdministrarPermisosAudienciaExporterImplPort_Client.java
+END
+GenerarPermisoUsuarioExternoResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/administrarPermisosAudiencia/GenerarPermisoUsuarioExternoResponse.java
+END
+GenerarPermisoUsuarioExterno.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/administrarPermisosAudiencia/GenerarPermisoUsuarioExterno.java
+END
+ConsultarPermisoAudienciaUsuarioExternoResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/administrarPermisosAudiencia/ConsultarPermisoAudienciaUsuarioExternoResponse.java
+END
+ConsultarRegistroMaestroJVLResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/administrarPermisosAudiencia/ConsultarRegistroMaestroJVLResponse.java
+END
+ConsultarParametrosConsultaAudienciaJavsResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/administrarPermisosAudiencia/ConsultarParametrosConsultaAudienciaJavsResponse.java
+END
+ConsultarPermisoAudienciaUsuarioExterno.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/administrarPermisosAudiencia/ConsultarPermisoAudienciaUsuarioExterno.java
+END
+ConsultarRegistroMaestroJVL.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/administrarPermisosAudiencia/ConsultarRegistroMaestroJVL.java
+END
+ConsultarParametrosConsultaAudienciaJavs.java
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/administrarPermisosAudiencia/ConsultarParametrosConsultaAudienciaJavs.java
+END
+AdministrarPermisosAudienciaExporterImplService.java
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/administrarPermisosAudiencia/AdministrarPermisosAudienciaExporterImplService.java
+END
+NSJPNegocioException_Exception.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/administrarPermisosAudiencia/NSJPNegocioException_Exception.java
+END
+AudienciaJAVSTransporteWSDTO.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/administrarPermisosAudiencia/AudienciaJAVSTransporteWSDTO.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/administrarPermisosAudiencia/package-info.java
+END
+AdministrarPermisosAudienciaExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/sigi-morelia/!svn/ver/13/trunk/nsjp/nsjp-wsclient/src/main/java/mx/gob/segob/nsjp/ws/cliente/administrarPermisosAudiencia/AdministrarPermisosAudienciaExporter.java
+END

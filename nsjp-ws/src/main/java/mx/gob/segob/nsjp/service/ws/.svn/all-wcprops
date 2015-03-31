@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sigi-morelia/!svn/ver/245/trunk/nsjp/nsjp-ws/src/main/java/mx/gob/segob/nsjp/service/ws
+END
+EnviarInformePolicialHomologadoExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/sigi-morelia/!svn/ver/12/trunk/nsjp/nsjp-ws/src/main/java/mx/gob/segob/nsjp/service/ws/EnviarInformePolicialHomologadoExporter.java
+END
+RecibirNotificacionAudienciaExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/sigi-morelia/!svn/ver/12/trunk/nsjp/nsjp-ws/src/main/java/mx/gob/segob/nsjp/service/ws/RecibirNotificacionAudienciaExporter.java
+END
+SolicitudDeDefensorDeTribunalExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/sigi-morelia/!svn/ver/245/trunk/nsjp/nsjp-ws/src/main/java/mx/gob/segob/nsjp/service/ws/SolicitudDeDefensorDeTribunalExporter.java
+END
+RecibirAvisoHDelictivoExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/sigi-morelia/!svn/ver/12/trunk/nsjp/nsjp-ws/src/main/java/mx/gob/segob/nsjp/service/ws/RecibirAvisoHDelictivoExporter.java
+END
+RegistrarSolicitudTranscripcionAreaExternaExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/sigi-morelia/!svn/ver/12/trunk/nsjp/nsjp-ws/src/main/java/mx/gob/segob/nsjp/service/ws/RegistrarSolicitudTranscripcionAreaExternaExporter.java
+END
+RegistrarAvisoSinDetencionDeAreaExternaExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/sigi-morelia/!svn/ver/243/trunk/nsjp/nsjp-ws/src/main/java/mx/gob/segob/nsjp/service/ws/RegistrarAvisoSinDetencionDeAreaExternaExporter.java
+END
+RegistrarReplicaCasoExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/sigi-morelia/!svn/ver/12/trunk/nsjp/nsjp-ws/src/main/java/mx/gob/segob/nsjp/service/ws/RegistrarReplicaCasoExporter.java
+END
+RegistrarTranscripcionAudienciaExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/sigi-morelia/!svn/ver/12/trunk/nsjp/nsjp-ws/src/main/java/mx/gob/segob/nsjp/service/ws/RegistrarTranscripcionAudienciaExporter.java
+END
+RegistrarSolicitudTransferenciaImputadoSSPExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/sigi-morelia/!svn/ver/12/trunk/nsjp/nsjp-ws/src/main/java/mx/gob/segob/nsjp/service/ws/RegistrarSolicitudTransferenciaImputadoSSPExporter.java
+END
+ConsultarFuncionariosXTribunalExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/sigi-morelia/!svn/ver/12/trunk/nsjp/nsjp-ws/src/main/java/mx/gob/segob/nsjp/service/ws/ConsultarFuncionariosXTribunalExporter.java
+END
+GenerarAcuseDeReciboExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/sigi-morelia/!svn/ver/12/trunk/nsjp/nsjp-ws/src/main/java/mx/gob/segob/nsjp/service/ws/GenerarAcuseDeReciboExporter.java
+END
+EnviarDocumentoIncumplimientoMedidaExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/sigi-morelia/!svn/ver/12/trunk/nsjp/nsjp-ws/src/main/java/mx/gob/segob/nsjp/service/ws/EnviarDocumentoIncumplimientoMedidaExporter.java
+END
+ActualizarSeguimientoMandamientoMedidaExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/sigi-morelia/!svn/ver/12/trunk/nsjp/nsjp-ws/src/main/java/mx/gob/segob/nsjp/service/ws/ActualizarSeguimientoMandamientoMedidaExporter.java
+END
+RegistrarAvisoDetencionDeAreaExternaExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/sigi-morelia/!svn/ver/12/trunk/nsjp/nsjp-ws/src/main/java/mx/gob/segob/nsjp/service/ws/RegistrarAvisoDetencionDeAreaExternaExporter.java
+END
+SolicitarCopiaCarpetaDeInvestigacionExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/sigi-morelia/!svn/ver/12/trunk/nsjp/nsjp-ws/src/main/java/mx/gob/segob/nsjp/service/ws/SolicitarCopiaCarpetaDeInvestigacionExporter.java
+END
+EnviarDocumentoAInstitucionExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/sigi-morelia/!svn/ver/12/trunk/nsjp/nsjp-ws/src/main/java/mx/gob/segob/nsjp/service/ws/EnviarDocumentoAInstitucionExporter.java
+END
+RegistrarMandamientoExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/sigi-morelia/!svn/ver/12/trunk/nsjp/nsjp-ws/src/main/java/mx/gob/segob/nsjp/service/ws/RegistrarMandamientoExporter.java
+END
+EnviarCarpetaDeInvestigacionExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/sigi-morelia/!svn/ver/12/trunk/nsjp/nsjp-ws/src/main/java/mx/gob/segob/nsjp/service/ws/EnviarCarpetaDeInvestigacionExporter.java
+END
+ActualizarEstatusMandamientoInstitucionalExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/sigi-morelia/!svn/ver/12/trunk/nsjp/nsjp-ws/src/main/java/mx/gob/segob/nsjp/service/ws/ActualizarEstatusMandamientoInstitucionalExporter.java
+END
+ConsultarAudienciasByFechasYEstatusExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/sigi-morelia/!svn/ver/12/trunk/nsjp/nsjp-ws/src/main/java/mx/gob/segob/nsjp/service/ws/ConsultarAudienciasByFechasYEstatusExporter.java
+END
+NotificacionPJSIAJServiceExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/sigi-morelia/!svn/ver/239/trunk/nsjp/nsjp-ws/src/main/java/mx/gob/segob/nsjp/service/ws/NotificacionPJSIAJServiceExporter.java
+END
+EnviarSolicitudServiceExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/sigi-morelia/!svn/ver/12/trunk/nsjp/nsjp-ws/src/main/java/mx/gob/segob/nsjp/service/ws/EnviarSolicitudServiceExporter.java
+END
+SentenciaExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/sigi-morelia/!svn/ver/12/trunk/nsjp/nsjp-ws/src/main/java/mx/gob/segob/nsjp/service/ws/SentenciaExporter.java
+END
+RegistrarMedidaCautelarServiceExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/sigi-morelia/!svn/ver/12/trunk/nsjp/nsjp-ws/src/main/java/mx/gob/segob/nsjp/service/ws/RegistrarMedidaCautelarServiceExporter.java
+END
+RegistrarSolicitudDefensorAreaExternaExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/sigi-morelia/!svn/ver/12/trunk/nsjp/nsjp-ws/src/main/java/mx/gob/segob/nsjp/service/ws/RegistrarSolicitudDefensorAreaExternaExporter.java
+END
+SolicitarAudienciaBasicoExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/sigi-morelia/!svn/ver/12/trunk/nsjp/nsjp-ws/src/main/java/mx/gob/segob/nsjp/service/ws/SolicitarAudienciaBasicoExporter.java
+END
+ConsultarDistritosServiceWSExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/sigi-morelia/!svn/ver/12/trunk/nsjp/nsjp-ws/src/main/java/mx/gob/segob/nsjp/service/ws/ConsultarDistritosServiceWSExporter.java
+END
+RegistrarMedidaAlternaServiceExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/sigi-morelia/!svn/ver/12/trunk/nsjp/nsjp-ws/src/main/java/mx/gob/segob/nsjp/service/ws/RegistrarMedidaAlternaServiceExporter.java
+END
+AdministrarPermisosAudienciaExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/sigi-morelia/!svn/ver/12/trunk/nsjp/nsjp-ws/src/main/java/mx/gob/segob/nsjp/service/ws/AdministrarPermisosAudienciaExporter.java
+END
+ConsultarFuncionarioExternoExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/sigi-morelia/!svn/ver/12/trunk/nsjp/nsjp-ws/src/main/java/mx/gob/segob/nsjp/service/ws/ConsultarFuncionarioExternoExporter.java
+END
+ConsultarTribunalesPorDistritoServiceExporter.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/sigi-morelia/!svn/ver/12/trunk/nsjp/nsjp-ws/src/main/java/mx/gob/segob/nsjp/service/ws/ConsultarTribunalesPorDistritoServiceExporter.java
+END
