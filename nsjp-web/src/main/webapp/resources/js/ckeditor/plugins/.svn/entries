@@ -1,0 +1,127 @@
+10
+
+dir
+127
+https://subversion.assembla.com/svn/sigi-morelia/trunk/nsjp/nsjp-web/src/main/webapp/resources/js/ckeditor/plugins
+https://subversion.assembla.com/svn/sigi-morelia
+
+
+
+2013-09-09T15:50:12.490246Z
+11
+ariadna
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f7879140-5060-4e79-bf49-f6b8e9c27a7b
+
+a11yhelp
+dir
+
+about
+dir
+
+adobeair
+dir
+
+ajax
+dir
+
+autogrow
+dir
+
+clipboard
+dir
+
+colordialog
+dir
+
+dialog
+dir
+
+div
+dir
+
+find
+dir
+
+flash
+dir
+
+forms
+dir
+
+iframe
+dir
+
+iframedialog
+dir
+
+image
+dir
+
+link
+dir
+
+liststyle
+dir
+
+pagebreak
+dir
+
+pastefromword
+dir
+
+pastetext
+dir
+
+placeholder
+dir
+
+scayt
+dir
+
+showblocks
+dir
+
+smiley
+dir
+
+specialchar
+dir
+
+styles
+dir
+
+table
+dir
+
+tableresize
+dir
+
+tabletools
+dir
+
+templates
+dir
+
+uicolor
+dir
+
+wsc
+dir
+
+xml
+dir
+

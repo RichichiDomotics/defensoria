@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/sigi-morelia/!svn/ver/124/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/solicitud/action
+END
+AdministrarSolicitudesDeTrasladoDeImputadosSSPAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/solicitud/action/AdministrarSolicitudesDeTrasladoDeImputadosSSPAction.java
+END
+ConsultarSolicitudSSPAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/solicitud/action/ConsultarSolicitudSSPAction.java
+END
+ElaborarSolicitudAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/solicitud/action/ElaborarSolicitudAction.java
+END
+AdministrarSolicitudesTranscripcionAudioVideo.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/solicitud/action/AdministrarSolicitudesTranscripcionAudioVideo.java
+END
+AdministrarSolicitudesDeDescarcelacionSSPAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/solicitud/action/AdministrarSolicitudesDeDescarcelacionSSPAction.java
+END
+SolicitudBeneficiosPreliberacionPJAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/solicitud/action/SolicitudBeneficiosPreliberacionPJAction.java
+END
+SolicitarAudienciaAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/sigi-morelia/!svn/ver/259/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/solicitud/action/SolicitarAudienciaAction.java
+END
+AsignarPermisosAFuncionarioSobreSolicitudAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/solicitud/action/AsignarPermisosAFuncionarioSobreSolicitudAction.java
+END
+SolicitudCiudadanaDefensorAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/sigi-morelia/!svn/ver/292/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/solicitud/action/SolicitudCiudadanaDefensorAction.java
+END
+ConsultarTodasSolicitudesUAVDAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/solicitud/action/ConsultarTodasSolicitudesUAVDAction.java
+END
+SolicitudDefensorAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/sigi-morelia/!svn/ver/246/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/solicitud/action/SolicitudDefensorAction.java
+END
+ConsultarSolicitudesPJEAAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/solicitud/action/ConsultarSolicitudesPJEAAction.java
+END

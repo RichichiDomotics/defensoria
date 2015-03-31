@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+
+<!DOCTYPE tiles-definitions PUBLIC
+"-//Apache Software Foundation//DTD Tiles Configuration 1.1//EN"
+"http://jakarta.apache.org/struts/dtds/tiles-config_1_1.dtd">
+
+<tiles-definitions>
+    
+    <definition name="ventanaFlotante" path="/WEB-INF/tiles/LayoutVentana.jsp">
+    	<put name="title"   		value="Nuevo Sistema de Justicia Penal"/>
+    	<put name="detalles"   		value="/WEB-INF/tiles/Blank.jsp"/>
+    	<put name="body"    		value="/WEB-INF/tiles/Blank.jsp"/>
+    </definition>
+    
+    <definition name="ventanaFlotanteAdmin" path="/WEB-INF/tiles/LayoutVentanaAdmin.jsp">
+    	<put name="title"   		value="Nuevo Sistema de Justicia Penal"/>
+    	<put name="body"    		value="/WEB-INF/tiles/Blank.jsp"/>
+    </definition>
+    
+    <definition name="resumenRS.page" extends="ventanaFlotante">
+    	<put name="detalles"   		value="/WEB-INF/paginas/reinsercionSocial/detalles.jsp"/>
+    	<put name="body"    		value="/WEB-INF/paginas/reinsercionSocial/principal.jsp"/>    
+    </definition>
+    
+    <definition name="consultaRS.page" extends="ventanaFlotante">
+    	<put name="detalles"   		value="/WEB-INF/paginas/reinsercionSocial/detalles.jsp"/>
+    	<put name="body"    		value="/WEB-INF/paginas/reinsercionSocial/consultarRS.jsp"/>
+    </definition> 
+
+    <definition name="gridRS.page" path="/WEB-INF/paginas/reinsercionSocial/resumen.jsp"/>
+    <definition name="otro.page"   path="/WEB-INF/paginas/reinsercionSocial/otro.jsp"/>
+
+    <definition name="pdr.epdr.page" path="/WEB-INF/paginas/reinsercionSocial/programaDeReinsercion/elaborarProgramaDeReinsercion.jsp"/>
+    <definition name="pdr.ec.page" path="/WEB-INF/paginas/reinsercionSocial/programaDeReinsercion/emitirCertificado.jsp"/>
+
+    <definition name="spr.itr.page" path="/WEB-INF/paginas/reinsercionSocial/seguimientoProgramaReinserción/inscripcionAlTrabajoRemunerado.jsp"/>
+    <definition name="spr.tmd.page" path="/WEB-INF/paginas/reinsercionSocial/seguimientoProgramaReinserción/tomaMedidasDisciplinarias.jsp"/>
+	<definition name="spr.rae.page" path="/WEB-INF/paginas/reinsercionSocial/seguimientoProgramaReinserción/reporteAnomaliasEjecucion.jsp"/>
+
+    <definition name="sc.eps.page" 	path="/WEB-INF/paginas/reinsercionSocial/salidasCentro/excarcelacionPermisosSalida.jsp"/>
+    <definition name="sc.ts.page" 	path="/WEB-INF/paginas/reinsercionSocial/salidasCentro/trasladoSentenciado.jsp"/>
+	<definition name="sc.fp.page" 	path="/WEB-INF/paginas/reinsercionSocial/salidasCentro/finPena.jsp"/>
+
+	<definition name="rem.bpl.page" path="/WEB-INF/paginas/reinsercionSocial/remisiones/beneficioPreLiberacion.jsp"/>
+	<definition name="rem.rrd.page" path="/WEB-INF/paginas/reinsercionSocial/remisiones/reduccionReparacionDanio.jsp"/>
+        
+    <definition name="admin.programas.page" extends="ventanaFlotanteAdmin">
+    	<put name="body"    		value="/WEB-INF/paginas/reinsercionSocial/administracion/registroPrograma.jsp"/>
+    </definition> 
+
+	<definition name="datosGeneralesRS.page" path="/WEB-INF/paginas/reinsercionSocial/generales/datosGenerales.jsp">
+		<put name="title"   		value="Nuevo Sistema de Justicia Penal"/>
+    	<put name="detallesGen"		value="/WEB-INF/paginas/reinsercionSocial/generales/detallesGenerales.jsp"/>   
+    	<put name="documentosGen" 	value="/WEB-INF/paginas/reinsercionSocial/generales/documentosGenerales.jsp"/>
+    	<put name="actuacionesGen"	value="/WEB-INF/paginas/reinsercionSocial/generales/actuacionesGenerales.jsp"/>
+    </definition>
+    
+    <definition name="datosGeneralesSentencia.page" path="/WEB-INF/paginas/encargadoCausa/sentencia/datosGeneralesSentencia.jsp">
+		<put name="title"   		value="Nuevo Sistema de Justicia Penal"/>
+    	<put name="detallesGen"		value="/WEB-INF/paginas/encargadoCausa/sentencia/detallesGeneralesSentencia.jsp"/>
+    </definition>
+    
+	<definition name="asignar.programas.page" extends="ventanaFlotanteAdmin">
+    	<put name="body"    		value="/WEB-INF/paginas/reinsercionSocial/programaDeReinsercion/asignarProgramaReinsercion.jsp"/>
+    </definition>
+    <definition name="administrar.actosBuenaConducta.page" extends="ventanaFlotanteAdmin">
+    	<put name="body"    		value="/WEB-INF/paginas/reinsercionSocial/actosBuenaConducta/administrarActosBuenaConducta.jsp"/>
+    </definition>
+    
+    <definition name="administrar.acumulacionPuntos.page" extends="ventanaFlotanteAdmin">
+    	<put name="body"    		value="/WEB-INF/paginas/reinsercionSocial/actosBuenaConducta/administrarAcumulacionPuntos.jsp"/>
+    </definition>
+    
+    <definition name="administrar.inventarioPertenencias.page" extends="ventanaFlotanteAdmin">
+    	<put name="body"    		value="/WEB-INF/paginas/reinsercionSocial/inventarioPertenencias/inventarioPertenencias.jsp"/>
+    </definition>
+        
+    <definition name="genOficioIngresoRS.page" 	path="/WEB-INF/paginas/reinsercionSocial/generales/datosAdicionales/genOficioIngresoRS.jsp"/>        
+
+	<definition name="evaluarDesempenioActuacion.page" 	path="/WEB-INF/paginas/reinsercionSocial/generales/datosAdicionales/evaluarDesempenioActuacion.jsp"/>
+
+	<definition name="informeFinalRS.page" 	path="/WEB-INF/paginas/reinsercionSocial/generales/datosAdicionales/informeFinalRS.jsp"/>
+
+	<definition name="avisarIngresoCERESO.page" 	path="/WEB-INF/paginas/reinsercionSocial/generales/datosAdicionales/avisarIngresoCERESO.jsp"/>
+
+    <definition name="certificado.medico.page" extends="datosGeneralesRS.page">
+    	<put name="detallesGen"		value="/WEB-INF/paginas/reinsercionSocial/generales/encabezadoDetallesGenerales.jsp"/>   
+    	<put name="documentosGen" 	value="/WEB-INF/paginas/reinsercionSocial/generales/documentosGenerales.jsp"/>
+    	<put name="actuacionesGen"	value="/WEB-INF/paginas/reinsercionSocial/medico/certificadoMedico.jsp" />  
+    </definition> 
+
+
+
+<!-- TERMINA REINSERCION SOCIAL -->
+
+<!-- INICIA PAGINA PRINCIPAL -->
+
+
+
+
+	<definition name="paginaPrincipal.page" path="/WEB-INF/paginaPrincipal/paginaPrincipal.jsp">
+        <put name="title"   			value="Nuevo Sistema de Justicia Penal"/>
+        <put name="encabezado"  		value="/WEB-INF/paginaPrincipal/encabezado.jsp"></put>
+        <put name="menuIzquierdo"  		value="/WEB-INF/paginaPrincipal/menuIzquierdo.jsp"></put>
+        <put name="centro"    			value="/WEB-INF/paginaPrincipal/central.jsp"/>
+        <put name="menuDerecho"  		value="/WEB-INF/paginaPrincipal/menuDerecho.jsp"></put>
+        <put name="alertasGenericas"  	value="/WEB-INF/paginaPrincipal/alertasGenericas.jsp"></put>
+        <put name="pie"  				value="/WEB-INF/paginaPrincipal/pie.jsp"></put>
+    </definition>
+
+	<definition name="indexProcuraduriaView.page" extends="paginaPrincipal.page">
+        <put name="centro"    			value="/WEB-INF/pg/indexProcuraduriaView.jsp"/>
+    </definition>
+	<definition name="atencionTempranaPenalView.page" extends="paginaPrincipal.page">
+        <put name="centro"    			value="/WEB-INF/pg/atencionTempranaPenalView.jsp"/>
+    </definition>
+
+	<definition name="atencionTemprana.page" extends="paginaPrincipal.page">
+        <put name="centro"    			value="/WEB-INF/pg/atencionTemprana.jsp"/>
+    </definition>
+
+	<definition name="justiciaRestaurativa.page" extends="paginaPrincipal.page">
+        <put name="centro"    			value="/WEB-INF/pg/justiciaRestaurativa.jsp"/>
+    </definition>
+
+	<definition name="justiciaRestaurativaCoordinadorAMP.page" extends="paginaPrincipal.page">
+        <put name="centro"    			value="/WEB-INF/pg/justiciaRestaurativaCoordinadorAMP.jsp"/>
+    </definition>
+    
+    <definition name="confMenu.page" path="/WEB-INF/paginaPrincipal/menuIzquierdo.jsp">
+    </definition>
+
+	<definition name="carpetaDeInvestigacionView.page" extends="paginaPrincipal.page">
+        <put name="centro"    			value="/WEB-INF/pg/carpetaDeInvestigacionView.jsp"/>
+    </definition>
+
+	<definition name="carpetaDeInvestigacionConsultaView.page" extends="paginaPrincipal.page">
+        <put name="centro"    			value="/WEB-INF/pg/carpetaDeInvestigacionConsulta.jsp"/>
+    </definition>
+	<definition name="coordinadorATView.page" extends="paginaPrincipal.page">
+        <put name="centro"    			value="/WEB-INF/pg/coordinadorATView.jsp"/>
+    </definition>
+    
+<!--     /*agegando definición/*ByYolo*/ -->
+	<definition name="indexDirectorPeritos.page" extends="paginaPrincipal.page">
+        <put name="centro"    			value="/WEB-INF/pg/indexDirectorPeritos.jsp"/>
+    </definition>
+
+	<!-- INICIA REINSERCIÓN SOCIAL CON PAGINA PRINCIPAL -->
+
+	<definition name="dse.index.page" extends="paginaPrincipal.page">
+        <put name="centro"	value="/WEB-INF/paginas/reinsercionSocial/bodyDSE.jsp"/>	
+	</definition>
+    
+	<definition name="med.index.page" extends="paginaPrincipal.page">
+        <put name="centro"	value="/WEB-INF/paginas/reinsercionSocial/bodyMED.jsp"/>	
+	</definition>
+
+	<definition name="cer.index.page" extends="paginaPrincipal.page">
+        <put name="centro"	value="/WEB-INF/paginas/reinsercionSocial/bodyCER.jsp"/>	
+	</definition>
+
+	<definition name="ase.index.page" extends="paginaPrincipal.page">
+        <put name="centro"	value="/WEB-INF/paginas/reinsercionSocial/bodyASE.jsp"/>	
+	</definition>
+
+	<definition name="cmt.index.page" extends="paginaPrincipal.page">
+        <put name="centro"	value="/WEB-INF/paginas/reinsercionSocial/bodyCMT.jsp"/>	
+	</definition>
+
+	<definition name="cpr.index.page" extends="paginaPrincipal.page">
+        <put name="centro"	value="/WEB-INF/paginas/reinsercionSocial/bodyCPR.jsp"/>	
+	</definition>
+	
+	<definition name="pop.index.page" extends="paginaPrincipal.page">
+        <put name="centro"	value="/WEB-INF/paginas/reinsercionSocial/bodyPOP.jsp"/>	
+	</definition>
+
+	
+	<!-- INICIA REINSERCIÓN SOCIAL CON PAGINA PRINCIPAL -->
+
+
+</tiles-definitions>

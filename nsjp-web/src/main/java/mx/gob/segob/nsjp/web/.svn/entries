@@ -1,0 +1,151 @@
+10
+
+dir
+127
+https://subversion.assembla.com/svn/sigi-morelia/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web
+https://subversion.assembla.com/svn/sigi-morelia
+
+
+
+2013-11-29T22:20:26.614774Z
+124
+DorianMina
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f7879140-5060-4e79-bf49-f6b8e9c27a7b
+
+MedidasAlternas
+dir
+
+MedidasCautelares
+dir
+
+administrador
+dir
+
+agenda
+dir
+
+atencionTempranaPenal
+dir
+
+aviso
+dir
+
+base
+dir
+
+cadenadecustodia
+dir
+
+carpetaejecucion
+dir
+
+caso
+dir
+
+catalogo
+dir
+
+configuracion
+dir
+
+convenio
+dir
+
+defensor
+dir
+
+documento
+dir
+
+elemento
+dir
+
+evento
+dir
+
+expdiente
+dir
+
+expediente
+dir
+
+funcionario
+dir
+
+graficacion
+dir
+
+hecho
+dir
+
+indicador
+dir
+
+lineadeinvestigacion
+dir
+
+login
+dir
+
+menu
+dir
+
+notificacion
+dir
+
+numeroExpedienteAlterno
+dir
+
+objeto
+dir
+
+organizacion
+dir
+
+pericial
+dir
+
+persona
+dir
+
+pliegoDeConsignacion
+dir
+
+reinsercionsocial
+dir
+
+rol
+dir
+
+seguridadPublica
+dir
+
+sistemaTradicional
+dir
+
+solicitud
+dir
+
+uavd
+dir
+
+utilerias
+dir
+
+visitaduria
+dir
+

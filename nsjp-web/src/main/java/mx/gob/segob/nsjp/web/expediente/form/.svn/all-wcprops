@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/expediente/form
+END
+BuscarExpedientePorNombreDePersonaForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/expediente/form/BuscarExpedientePorNombreDePersonaForm.java
+END
+BuscarExpedientePorAliasForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/expediente/form/BuscarExpedientePorAliasForm.java
+END
+ArancelExpedienteForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/expediente/form/ArancelExpedienteForm.java
+END
+NotaForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/expediente/form/NotaForm.java
+END

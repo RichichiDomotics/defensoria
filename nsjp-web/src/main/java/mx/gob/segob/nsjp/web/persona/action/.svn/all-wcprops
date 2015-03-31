@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/sigi-morelia/!svn/ver/33/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/persona/action
+END
+EnviarCarpetaInvestigacionAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/sigi-morelia/!svn/ver/292/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/persona/action/EnviarCarpetaInvestigacionAction.java
+END
+IngresarDatosGeneralesAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/persona/action/IngresarDatosGeneralesAction.java
+END
+IngresarDetenidoAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/persona/action/IngresarDetenidoAction.java
+END
+CambiarContraseniaIndividuoAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/persona/action/CambiarContraseniaIndividuoAction.java
+END
+ConsultarIndividuoAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/persona/action/ConsultarIndividuoAction.java
+END
+consultarPersonalOperativoAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/persona/action/consultarPersonalOperativoAction.java
+END
+IngresarServidorPublicoAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/persona/action/IngresarServidorPublicoAction.java
+END
+IngresarIndividuoAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/sigi-morelia/!svn/ver/33/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/persona/action/IngresarIndividuoAction.java
+END
+IngresarMediaFiliacionAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/persona/action/IngresarMediaFiliacionAction.java
+END
+IngresarMediosContactoAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/persona/action/IngresarMediosContactoAction.java
+END

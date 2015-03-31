@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/tld
+END
+struts-logic.tld
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/tld/struts-logic.tld
+END
+struts-html.tld
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/tld/struts-html.tld
+END
+struts-bean.tld
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/tld/struts-bean.tld
+END
+struts-nested.tld
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/tld/struts-nested.tld
+END

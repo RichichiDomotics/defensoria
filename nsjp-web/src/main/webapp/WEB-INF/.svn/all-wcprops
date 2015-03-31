@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/sigi-morelia/!svn/ver/127/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF
+END
+log4j.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/log4j.dtd
+END
+.struts-config.xml.strutsdia
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/.struts-config.xml.strutsdia
+END
+struts-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sigi-morelia/!svn/ver/245/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/struts-config.xml
+END
+action-servlet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/sigi-morelia/!svn/ver/245/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/action-servlet.xml
+END
+sun-web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/sun-web.xml
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/web.xml
+END
+log4j-config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sigi-morelia/!svn/ver/141/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/log4j-config.xml
+END
+tiles-defs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/tiles-defs.xml
+END

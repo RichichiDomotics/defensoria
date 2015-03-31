@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sigi-morelia/!svn/ver/26/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/catalogos
+END
+altaConsultaCatalogoAreasNegocio.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/catalogos/altaConsultaCatalogoAreasNegocio.jsp
+END
+altaConsultaCatalogoDelitos.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/catalogos/altaConsultaCatalogoDelitos.jsp
+END
+consultaCatalogo.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/catalogos/consultaCatalogo.jsp
+END
+verModificarCatalogo.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/sigi-morelia/!svn/ver/26/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/catalogos/verModificarCatalogo.jsp
+END
+altaConsultaCatalogoSalaAudiencia.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/catalogos/altaConsultaCatalogoSalaAudiencia.jsp
+END
+administrarCatalogos.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/catalogos/administrarCatalogos.jsp
+END

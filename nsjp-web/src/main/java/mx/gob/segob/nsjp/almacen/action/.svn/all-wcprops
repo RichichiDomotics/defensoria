@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/almacen/action
+END
+AdministrarSalidasDeAlmacenAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/almacen/action/AdministrarSalidasDeAlmacenAction.java
+END
+AdministrarEntradasDeAlmacenAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/almacen/action/AdministrarEntradasDeAlmacenAction.java
+END
+AdministrarAlmacenAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/almacen/action/AdministrarAlmacenAction.java
+END
+DarDeBajaIndicioOEvidencia.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/almacen/action/DarDeBajaIndicioOEvidencia.java
+END
+RegistrarSalidasDelAlmacenAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/almacen/action/RegistrarSalidasDelAlmacenAction.java
+END
+SeleccionarAlmacenDeEvidenciasAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/almacen/action/SeleccionarAlmacenDeEvidenciasAction.java
+END

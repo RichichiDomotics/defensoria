@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/evento/action
+END
+ConsultaEventosPJATPAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/evento/action/ConsultaEventosPJATPAction.java
+END
+ModuloAdministrativoEjecucionAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/evento/action/ModuloAdministrativoEjecucionAction.java
+END
+ConsultaEventosAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/evento/action/ConsultaEventosAction.java
+END
+ConsultaEventosPJENCAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/evento/action/ConsultaEventosPJENCAction.java
+END
+ConsultaEventosPJENSAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/evento/action/ConsultaEventosPJENSAction.java
+END
+ConsultarEventosPJAudienciaResolutivaAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/evento/action/ConsultarEventosPJAudienciaResolutivaAction.java
+END
+ConsultaEventosPJENAAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/evento/action/ConsultaEventosPJENAAction.java
+END
+ConsultaEventosPJENSIAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/evento/action/ConsultaEventosPJENSIAction.java
+END
+ConsultaEventosPJJUAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/evento/action/ConsultaEventosPJJUAction.java
+END
+RegistrarSentenciaAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/evento/action/RegistrarSentenciaAction.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/elemento/action
+END
+AnularElementoAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/elemento/action/AnularElementoAction.java
+END
+BuscarReincidenciasDeElementoAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/elemento/action/BuscarReincidenciasDeElementoAction.java
+END
+AdjuntarFotoDeElementoAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/elemento/action/AdjuntarFotoDeElementoAction.java
+END

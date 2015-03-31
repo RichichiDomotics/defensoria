@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/js/defensoria
+END
+cmpDiligenciasExpediente.js
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/js/defensoria/cmpDiligenciasExpediente.js
+END
+funcionesComunes.js
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/js/defensoria/funcionesComunes.js
+END
+cmpActuacionesExpediente.js
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/sigi-morelia/!svn/ver/260/trunk/nsjp/nsjp-web/src/main/webapp/js/defensoria/cmpActuacionesExpediente.js
+END
+cmpDocumentosExpediente.js
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/js/defensoria/cmpDocumentosExpediente.js
+END
+cmpInvolucradosExpediente.js
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/js/defensoria/cmpInvolucradosExpediente.js
+END

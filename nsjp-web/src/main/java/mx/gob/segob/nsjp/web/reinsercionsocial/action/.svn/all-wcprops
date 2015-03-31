@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/reinsercionsocial/action
+END
+ReinsercionSocialAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/reinsercionsocial/action/ReinsercionSocialAction.java
+END
+AdministrarActosBuenaConductaAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/reinsercionsocial/action/AdministrarActosBuenaConductaAction.java
+END
+DatosGeneralesReinsercionAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/reinsercionsocial/action/DatosGeneralesReinsercionAction.java
+END
+InventarioPertenenciasAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/reinsercionsocial/action/InventarioPertenenciasAction.java
+END
+AsignarProgramaReinsercionAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/reinsercionsocial/action/AsignarProgramaReinsercionAction.java
+END
+DocumentosReinsercionAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/reinsercionsocial/action/DocumentosReinsercionAction.java
+END
+AdministrarAcumulacionPuntosAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/reinsercionsocial/action/AdministrarAcumulacionPuntosAction.java
+END
+EnvioDocumentosReinsercionAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/reinsercionsocial/action/EnvioDocumentosReinsercionAction.java
+END

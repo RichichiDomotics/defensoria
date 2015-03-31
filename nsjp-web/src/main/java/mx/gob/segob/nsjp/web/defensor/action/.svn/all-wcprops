@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/sigi-morelia/!svn/ver/73/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/defensor/action
+END
+MultasDefensorAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/defensor/action/MultasDefensorAction.java
+END
+ActualizarTareaDefensorAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/defensor/action/ActualizarTareaDefensorAction.java
+END
+TareaDefensorAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/defensor/action/TareaDefensorAction.java
+END
+AdministrarDiligenciaAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/defensor/action/AdministrarDiligenciaAction.java
+END
+AdministrarDefensaEjecucionAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/defensor/action/AdministrarDefensaEjecucionAction.java
+END
+DefensaRestaurativaAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/defensor/action/DefensaRestaurativaAction.java
+END
+ConsultarFuncionariosSubordinadosAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/defensor/action/ConsultarFuncionariosSubordinadosAction.java
+END
+AudienciasDefensorAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/sigi-morelia/!svn/ver/287/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/defensor/action/AudienciasDefensorAction.java
+END
+SolicitarDiligenciasAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/defensor/action/SolicitarDiligenciasAction.java
+END
+CoordinarCarpetaInvestigacionDefensorAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/defensor/action/CoordinarCarpetaInvestigacionDefensorAction.java
+END
+DefensaenIntegracionAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/sigi-morelia/!svn/ver/73/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/defensor/action/DefensaenIntegracionAction.java
+END
+DefensaTecnicaAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/defensor/action/DefensaTecnicaAction.java
+END
+RegistroVacacionesIncapacidadesAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/defensor/action/RegistroVacacionesIncapacidadesAction.java
+END
+AdministrarActuacionDefensoriaAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/sigi-morelia/!svn/ver/286/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/defensor/action/AdministrarActuacionDefensoriaAction.java
+END

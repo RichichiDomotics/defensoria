@@ -1,0 +1,1829 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/sigi-morelia/!svn/ver/127/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas
+END
+ingresarRepresentanteLegalView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarRepresentanteLegalView.jsp
+END
+nuevoExpedienteCausa.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/nuevoExpedienteCausa.jsp
+END
+datosSolicitud.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/datosSolicitud.jsp
+END
+ingresarMandamientoJudicial.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarMandamientoJudicial.jsp
+END
+visorAudienciaPJENC.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/visorAudienciaPJENC.jsp
+END
+buscarExpedienteGeneral.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/buscarExpedienteGeneral.jsp
+END
+actividadesDefensor.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/sigi-morelia/!svn/ver/80/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/actividadesDefensor.jsp
+END
+visorGrafica.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/visorGrafica.jsp
+END
+visorTranscripcionDeAudiencia.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/visorTranscripcionDeAudiencia.jsp
+END
+visorReportesAdministrador.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/visorReportesAdministrador.jsp
+END
+quejaCiudadanaConcluida.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/quejaCiudadanaConcluida.jsp
+END
+atencionSolicitudAudienciaSala.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/atencionSolicitudAudienciaSala.jsp
+END
+expedientesAuditadosView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/expedientesAuditadosView.jsp
+END
+visorCrearOEditarPlantilla.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/visorCrearOEditarPlantilla.jsp
+END
+visorSolicitudPJENA.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/visorSolicitudPJENA.jsp
+END
+elaborarDocumentoPerito.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/elaborarDocumentoPerito.jsp
+END
+almacenCadenaCustodia.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/almacenCadenaCustodia.jsp
+END
+mediaFiliacionDefensoria.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/mediaFiliacionDefensoria.jsp
+END
+audienciaDeControl.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/audienciaDeControl.jsp
+END
+administrarDestinoLegalEvidencias.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/administrarDestinoLegalEvidencias.jsp
+END
+Login.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/Login.jsp
+END
+asignarCancelarAMP.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/asignarCancelarAMP.jsp
+END
+ingresarMedidasAlternativasPJENC.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarMedidasAlternativasPJENC.jsp
+END
+ingresarSalaManualmente.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarSalaManualmente.jsp
+END
+visorEncargadoCausasExpedientes.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/visorEncargadoCausasExpedientes.jsp
+END
+asociarIndividuoView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/asociarIndividuoView.jsp
+END
+ingresarMedidasCautelaresPJENC.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarMedidasCautelaresPJENC.jsp
+END
+visorGestionarAlmacen.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/visorGestionarAlmacen.jsp
+END
+visorbuscarInvolucradosAudienciaPorCausa.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/visorbuscarInvolucradosAudienciaPorCausa.jsp
+END
+ingresarOrganizacionVirtual.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarOrganizacionVirtual.jsp
+END
+solicitarServicioPericial.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/sigi-morelia/!svn/ver/25/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/solicitarServicioPericial.jsp
+END
+buscarExpedientePorEvidenciaGeneral.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/buscarExpedientePorEvidenciaGeneral.jsp
+END
+buscarCasoPorDelito.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/buscarCasoPorDelito.jsp
+END
+asociarSolicitudAExpedienteManual.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/asociarSolicitudAExpedienteManual.jsp
+END
+garantiaEconomica.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/garantiaEconomica.jsp
+END
+seleccionarDelitoView2.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/seleccionarDelitoView2.jsp
+END
+buscarExpedientePorNombreDePersona.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/sigi-morelia/!svn/ver/180/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/buscarExpedientePorNombreDePersona.jsp
+END
+relacionaDelitoPorTodosView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/relacionaDelitoPorTodosView.jsp
+END
+canalizarAUnidadFiscalesInvestigadores.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/sigi-morelia/!svn/ver/19/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/canalizarAUnidadFiscalesInvestigadores.jsp
+END
+mostrarRegistroDetencion.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/mostrarRegistroDetencion.jsp
+END
+ingresarJuezSalaManualmente.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarJuezSalaManualmente.jsp
+END
+registrarInteresadoAsesoriaLegal.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/registrarInteresadoAsesoriaLegal.jsp
+END
+vincularExpedienteCaso.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/vincularExpedienteCaso.jsp
+END
+visorSolicitudesDirectorPeritos.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/visorSolicitudesDirectorPeritos.jsp
+END
+modificarIndividuo.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/modificarIndividuo.jsp
+END
+ingresarSentenciadoReinsertarView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarSentenciadoReinsertarView.jsp
+END
+asignarNumeroExpedienteDefensor.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/asignarNumeroExpedienteDefensor.jsp
+END
+consultarVictima.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/consultarVictima.jsp
+END
+asignarExpedienteDefensor.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/asignarExpedienteDefensor.jsp
+END
+nuevoPerito.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/nuevoPerito.jsp
+END
+VExpedienteView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/VExpedienteView.jsp
+END
+asignarAbogado.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/asignarAbogado.jsp
+END
+ingresarDocumentoIdentificacionView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarDocumentoIdentificacionView.jsp
+END
+buscarCasoPorAlias.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/buscarCasoPorAlias.jsp
+END
+consultarEventosAgenda.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/consultarEventosAgenda.jsp
+END
+modificarVictima.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/modificarVictima.jsp
+END
+visorAtnAlPublicoSolicitudes.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/visorAtnAlPublicoSolicitudes.jsp
+END
+DefensaProbableResponsable.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/DefensaProbableResponsable.jsp
+END
+visorAdministrarCarpetaDeEjecucionPJOAE.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/visorAdministrarCarpetaDeEjecucionPJOAE.jsp
+END
+ingresarLugarDeLosHechos.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarLugarDeLosHechos.jsp
+END
+administrarDiasInhabiles.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/administrarDiasInhabiles.jsp
+END
+generarConvenioView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/generarConvenioView.jsp
+END
+reprogramarAudiencia.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/reprogramarAudiencia.jsp
+END
+ingresarMenuIntermedioSistemaTradicional.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarMenuIntermedioSistemaTradicional.jsp
+END
+SeleccionarAMPView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/SeleccionarAMPView.jsp
+END
+ingresarTemaDeLineaDeInvView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarTemaDeLineaDeInvView.jsp
+END
+ingresarPuntoCarretero.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarPuntoCarretero.jsp
+END
+NotificacionesIncludeView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/NotificacionesIncludeView.jsp
+END
+relacionarElementosView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/relacionarElementosView.jsp
+END
+defensaIntegracion.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/defensaIntegracion.jsp
+END
+ingresarMediaFiliacion.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarMediaFiliacion.jsp
+END
+ingresarOrganizacion.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarOrganizacion.jsp
+END
+darDeAltaUsuarioEnSistema.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/darDeAltaUsuarioEnSistema.jsp
+END
+actualizarTareaDefensor.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/actualizarTareaDefensor.jsp
+END
+visorAtencionSolicitudesPericiales.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/visorAtencionSolicitudesPericiales.jsp
+END
+busquedaExpedienteCaso.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/busquedaExpedienteCaso.jsp
+END
+ingresarDenuncianteView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarDenuncianteView.jsp
+END
+invocacionAppletView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/invocacionAppletView.jsp
+END
+security.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/security.jsp
+END
+datosCoordenadasGPSNotifView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/datosCoordenadasGPSNotifView.jsp
+END
+progressbar.gif
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/progressbar.gif
+END
+registrarDatosPersonaView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sigi-morelia/!svn/ver/157/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/registrarDatosPersonaView.jsp
+END
+visorDetalleAudiencia.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/sigi-morelia/!svn/ver/236/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/visorDetalleAudiencia.jsp
+END
+salidaAlmacen.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/salidaAlmacen.jsp
+END
+GridDragDrop.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/GridDragDrop.jsp
+END
+buscarCasoPorNumeroDeCasoGeneral.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/buscarCasoPorNumeroDeCasoGeneral.jsp
+END
+vAdmonIndividuo.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/vAdmonIndividuo.jsp
+END
+ingresarNarrativaTeoriaView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarNarrativaTeoriaView.jsp
+END
+listaAbogado.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/listaAbogado.jsp
+END
+seguimientoAAudiencias.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/seguimientoAAudiencias.jsp
+END
+ingresarOrganizacionDelictiva.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarOrganizacionDelictiva.jsp
+END
+menuJusticiaRestaurativa.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/menuJusticiaRestaurativa.jsp
+END
+ingresarTiempoLapsoDetencion.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarTiempoLapsoDetencion.jsp
+END
+consultaBitacoraIAMView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/consultaBitacoraIAMView.jsp
+END
+visorDetallePermisoAudiencia.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/visorDetallePermisoAudiencia.jsp
+END
+buscarPerito.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/buscarPerito.jsp
+END
+ingresarTestigoViewPJENS.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarTestigoViewPJENS.jsp
+END
+consultarExpedientesAsociadosADefensores.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/consultarExpedientesAsociadosADefensores.jsp
+END
+visorAudienciasPorExpediente.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/visorAudienciasPorExpediente.jsp
+END
+ingresarTraductorView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarTraductorView.jsp
+END
+elaborarNotificacionAuditoria.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/elaborarNotificacionAuditoria.jsp
+END
+ingresarQuienDetuvoView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarQuienDetuvoView.jsp
+END
+relacionarExpedienteCaso.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/relacionarExpedienteCaso.jsp
+END
+datosGeneralesView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/datosGeneralesView.jsp
+END
+ingresarLugarDeDetencion.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarLugarDeDetencion.jsp
+END
+registrarEntradaAlmacen.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/registrarEntradaAlmacen.jsp
+END
+ingresarOrganizacionNoFormal.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarOrganizacionNoFormal.jsp
+END
+ingresarMenuIntermedio.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/sigi-morelia/!svn/ver/197/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarMenuIntermedio.jsp
+END
+administrarSubRoles.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/administrarSubRoles.jsp
+END
+datosPersonalesUsuario.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/datosPersonalesUsuario.jsp
+END
+menuDefensaIntegracion.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/sigi-morelia/!svn/ver/289/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/menuDefensaIntegracion.jsp
+END
+programarAudienciaView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/programarAudienciaView.jsp
+END
+asistiolaVictimaView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/asistiolaVictimaView.jsp
+END
+seleccionarDelitoViewDefensoria.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/seleccionarDelitoViewDefensoria.jsp
+END
+jsch-0.1.42.jar
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/jsch-0.1.42.jar
+END
+cambiarContrasenaEnSistema.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/cambiarContrasenaEnSistema.jsp
+END
+consultarListaDeDocumentosDeExpediente.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/consultarListaDeDocumentosDeExpediente.jsp
+END
+visorMedidaCautelar.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/visorMedidaCautelar.jsp
+END
+atencionSolicitudAudienciaInformatica.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/atencionSolicitudAudienciaInformatica.jsp
+END
+consultaBitacoraMovObjetosAlmacenView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/consultaBitacoraMovObjetosAlmacenView.jsp
+END
+datosNacimientoView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/datosNacimientoView.jsp
+END
+detalleSolsGeneradasView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/detalleSolsGeneradasView.jsp
+END
+consultarFuncionario.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/consultarFuncionario.jsp
+END
+solicitudesAsignadas.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/solicitudesAsignadas.jsp
+END
+ingresarOrganizacionFormal.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarOrganizacionFormal.jsp
+END
+detalleSolsXAtndrUIView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/detalleSolsXAtndrUIView.jsp
+END
+ingresarMediosContactoView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarMediosContactoView.jsp
+END
+ingresarLugarIPHView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarLugarIPHView.jsp
+END
+configurarComplejidadDeAudiencia.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/configurarComplejidadDeAudiencia.jsp
+END
+buscarCasoPorFechaDeCreacion.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/buscarCasoPorFechaDeCreacion.jsp
+END
+consultarLeyesCodigos.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/consultarLeyesCodigos.jsp
+END
+asignarSalaTemporalPJENA.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/asignarSalaTemporalPJENA.jsp
+END
+ingresarTutorView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarTutorView.jsp
+END
+leyesyCodigos.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/leyesyCodigos.jsp
+END
+ingresarHechosIPHView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarHechosIPHView.jsp
+END
+visorEncargadoCausasSolicitudes.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/visorEncargadoCausasSolicitudes.jsp
+END
+datosCoordenadasGPSView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/datosCoordenadasGPSView.jsp
+END
+menuUAVD.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/menuUAVD.jsp
+END
+consultarTutor.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/consultarTutor.jsp
+END
+generarSeguimientoConvenioDetalle.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/generarSeguimientoConvenioDetalle.jsp
+END
+consultarCadenaCustodiaDirector.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/consultarCadenaCustodiaDirector.jsp
+END
+visorPresentaciones.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/visorPresentaciones.jsp
+END
+buscarExpedientePorNumeroDeExpediente.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/sigi-morelia/!svn/ver/211/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/buscarExpedientePorNumeroDeExpediente.jsp
+END
+ingresarMenuIntermedioPJENC.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarMenuIntermedioPJENC.jsp
+END
+registroVacacionesIncapacidad.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/registroVacacionesIncapacidad.jsp
+END
+visorCargasDeTrabajo.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/visorCargasDeTrabajo.jsp
+END
+asentarRegCadenaCustodiaView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/sigi-morelia/!svn/ver/144/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/asentarRegCadenaCustodiaView.jsp
+END
+visorEntrevistaComplementaria.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/visorEntrevistaComplementaria.jsp
+END
+visorDocumentos.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/visorDocumentos.jsp
+END
+generarDetalleDeBusquedaDeCaso.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/generarDetalleDeBusquedaDeCaso.jsp
+END
+pruebaTablaHTML.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/pruebaTablaHTML.jsp
+END
+consultarIndividuo.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/consultarIndividuo.jsp
+END
+quejaCiudadana.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/quejaCiudadana.jsp
+END
+elaborarSolicitud.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/elaborarSolicitud.jsp
+END
+datosSolicitud2.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/datosSolicitud2.jsp
+END
+solicitarServicioPolicial.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/solicitarServicioPolicial.jsp
+END
+ingresarNotaExpedienteView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarNotaExpedienteView.jsp
+END
+visorDefensaCoordinadorSolicitudes.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/visorDefensaCoordinadorSolicitudes.jsp
+END
+buscarExpedientePorNumeroDeExpedienteGeneral.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/buscarExpedientePorNumeroDeExpedienteGeneral.jsp
+END
+buscarCaso.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/buscarCaso.jsp
+END
+registrarFuncionario.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sigi-morelia/!svn/ver/24/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/registrarFuncionario.jsp
+END
+buscarExpedientePorAliasGeneral.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/buscarExpedientePorAliasGeneral.jsp
+END
+ingresarComentarioView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarComentarioView.jsp
+END
+buscarExpediente.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/sigi-morelia/!svn/ver/210/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/buscarExpediente.jsp
+END
+buscaCarpetaEjecucion.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/buscaCarpetaEjecucion.jsp
+END
+visorTraslados.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/visorTraslados.jsp
+END
+mostrarIPH.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/mostrarIPH.jsp
+END
+ingresarInventarioPertenencias.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarInventarioPertenencias.jsp
+END
+capturaEntrevistas.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/capturaEntrevistas.jsp
+END
+generarSeguimientoConvenioView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/sigi-morelia/!svn/ver/147/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/generarSeguimientoConvenioView.jsp
+END
+visorEntrevistaInicial.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/visorEntrevistaInicial.jsp
+END
+ingresarProbableResponsableViewPJENS.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/sigi-morelia/!svn/ver/156/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarProbableResponsableViewPJENS.jsp
+END
+seleccionarDelitoView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/sigi-morelia/!svn/ver/197/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/seleccionarDelitoView.jsp
+END
+consultaEslabonView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/consultaEslabonView.jsp
+END
+generarDocumentoSincrono.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/generarDocumentoSincrono.jsp
+END
+registrarDatosPersonaUavdDos.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/registrarDatosPersonaUavdDos.jsp
+END
+JAVS1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/JAVS1.jar
+END
+entradasAlmacen.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/entradasAlmacen.jsp
+END
+visorGenerarDevolucionDeEvidencia.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/visorGenerarDevolucionDeEvidencia.jsp
+END
+modificarContactoDeUnaOrganizacion.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/modificarContactoDeUnaOrganizacion.jsp
+END
+mostrarGenerarDetencion.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/mostrarGenerarDetencion.jsp
+END
+visorDesignacionesCDEF.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/visorDesignacionesCDEF.jsp
+END
+registrarSalidaAlmacen.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/registrarSalidaAlmacen.jsp
+END
+atencionSolicitudAudienciaNotificador.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/atencionSolicitudAudienciaNotificador.jsp
+END
+ingresarHechosView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/sigi-morelia/!svn/ver/114/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarHechosView.jsp
+END
+visorAtnAlPublicoAudiencias.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/visorAtnAlPublicoAudiencias.jsp
+END
+modificarRepresentanteLegal.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/modificarRepresentanteLegal.jsp
+END
+solicitudSeguimientoEstucioSocioEconomico.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/solicitudSeguimientoEstucioSocioEconomico.jsp
+END
+ingresarHipotesisView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarHipotesisView.jsp
+END
+ingresarProbableResponsableView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/sigi-morelia/!svn/ver/112/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarProbableResponsableView.jsp
+END
+inicio.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/inicio.jsp
+END
+mediaFiliacionView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/mediaFiliacionView.jsp
+END
+visorAudienciaJuezPJJUE.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/visorAudienciaJuezPJJUE.jsp
+END
+visorAtnAlPublicoRecepciones.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/visorAtnAlPublicoRecepciones.jsp
+END
+elaborarNotasDocumento.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/elaborarNotasDocumento.jsp
+END
+generarDocumentoSinCaso.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/sigi-morelia/!svn/ver/20/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/generarDocumentoSinCaso.jsp
+END
+consultaBitacoraINQView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/consultaBitacoraINQView.jsp
+END
+ingresarVictimaView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarVictimaView.jsp
+END
+generarDetalleDeBusquedaDeExpediente.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/generarDetalleDeBusquedaDeExpediente.jsp
+END
+solicitudesTabPericialesView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/solicitudesTabPericialesView.jsp
+END
+inspeccionesDefensoria.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/inspeccionesDefensoria.jsp
+END
+transcriptorSolicitudes.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/transcriptorSolicitudes.jsp
+END
+ingresarDefensorView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarDefensorView.jsp
+END
+buscarCasoPorNumeroDeCaso.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/buscarCasoPorNumeroDeCaso.jsp
+END
+registrarDatosPersona.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/registrarDatosPersona.jsp
+END
+solicitudPermisosVisitaduria.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/solicitudPermisosVisitaduria.jsp
+END
+visorDatoPruebaPJENS.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/visorDatoPruebaPJENS.jsp
+END
+ingresarLugarView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarLugarView.jsp
+END
+visorConciliacionMediacion.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/visorConciliacionMediacion.jsp
+END
+seleccionarAlmacenExpediente.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/seleccionarAlmacenExpediente.jsp
+END
+visorSolicitudAudienciaPJENA.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/visorSolicitudAudienciaPJENA.jsp
+END
+error.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/error.jsp
+END
+JAVS.jar
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/JAVS.jar
+END
+solicitudesTabPolMinisterialView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/solicitudesTabPolMinisterialView.jsp
+END
+detalleSolicitudPermisos.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/detalleSolicitudPermisos.jsp
+END
+registrarInformePolicialHomologado.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/registrarInformePolicialHomologado.jsp
+END
+vAdmonRecepcion.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/vAdmonRecepcion.jsp
+END
+visorAtnAlPublicoSolicitudesEnPG.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/visorAtnAlPublicoSolicitudesEnPG.jsp
+END
+llamadasAuxilioView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/llamadasAuxilioView.jsp
+END
+solicitarDiligencia.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/solicitarDiligencia.jsp
+END
+cadenaDeCustodiaEvidencia.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/cadenaDeCustodiaEvidencia.jsp
+END
+visorAlmacenDirector.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/visorAlmacenDirector.jsp
+END
+detalleDeOrdenView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/detalleDeOrdenView.jsp
+END
+actuacionesPerito.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/actuacionesPerito.jsp
+END
+buscarExpedientePorAlias.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/buscarExpedientePorAlias.jsp
+END
+visorDesignarPerito.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/visorDesignarPerito.jsp
+END
+encabezadoDocumentos.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/encabezadoDocumentos.jsp
+END
+buscarCasoPorNombreDePersona.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/buscarCasoPorNombreDePersona.jsp
+END
+mapaGoogle.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/mapaGoogle.jsp
+END
+autorizarEvidencia.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/autorizarEvidencia.jsp
+END
+asentarBitacoraDefensor.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/asentarBitacoraDefensor.jsp
+END
+solicitanteJusticiaRestaurativa.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/solicitanteJusticiaRestaurativa.jsp
+END
+manejoDeAranceles.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/manejoDeAranceles.jsp
+END
+solicitarInvestigacionPericial.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/solicitarInvestigacionPericial.jsp
+END
+relacionaDelitoPorPersonaView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/sigi-morelia/!svn/ver/197/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/relacionaDelitoPorPersonaView.jsp
+END
+buscarExpedientePorEvidencia.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/buscarExpedientePorEvidencia.jsp
+END
+visorMedioPruebaPJENS.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/visorMedioPruebaPJENS.jsp
+END
+ingresarJuezManualmente.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarJuezManualmente.jsp
+END
+menuGestionarAlmacen.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/menuGestionarAlmacen.jsp
+END
+ingresarTiempoEspecificamente.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarTiempoEspecificamente.jsp
+END
+progressbg_green.gif
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/progressbg_green.gif
+END
+ingresarSentenciadoReinsertar.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarSentenciadoReinsertar.jsp
+END
+seleccionarDelitoViewPJENC.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/seleccionarDelitoViewPJENC.jsp
+END
+seguimientoAMedidasCautelaresOAlternativas.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/seguimientoAMedidasCautelaresOAlternativas.jsp
+END
+ingresarDomicilioView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarDomicilioView.jsp
+END
+multasYSancionesDefensoria.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/multasYSancionesDefensoria.jsp
+END
+ubicarExpediente.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/ubicarExpediente.jsp
+END
+visorMedidasAlternas.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/visorMedidasAlternas.jsp
+END
+reasignarDefensor.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/reasignarDefensor.jsp
+END
+ingresarNarrativaView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarNarrativaView.jsp
+END
+ingresarIndividuoServidorPublicoView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarIndividuoServidorPublicoView.jsp
+END
+datosDetencion.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/datosDetencion.jsp
+END
+datosGeneralesSolicitud.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/datosGeneralesSolicitud.jsp
+END
+visorDoctosPerito.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/visorDoctosPerito.jsp
+END
+ingresarTiempoLapso.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarTiempoLapso.jsp
+END
+visorMandamientoJudicial.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/visorMandamientoJudicial.jsp
+END
+visorEncargadoCausasAudiencias.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/visorEncargadoCausasAudiencias.jsp
+END
+ingresarTestigoView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarTestigoView.jsp
+END
+visorAudienciaCDEF.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/visorAudienciaCDEF.jsp
+END
+registrarDatosPersonaUavd.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/registrarDatosPersonaUavd.jsp
+END
+ingresarMenuIntermedioPoliciaMinisterialView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarMenuIntermedioPoliciaMinisterialView.jsp
+END
+visorDetalleATDEF.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sigi-morelia/!svn/ver/295/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/visorDetalleATDEF.jsp
+END
+visorCoorPeriDefensoriaBandSolicitudes.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/visorCoorPeriDefensoriaBandSolicitudes.jsp
+END
+elaborarSolicitudAyudaPsicologica.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/elaborarSolicitudAyudaPsicologica.jsp
+END
+seleccionarDestinatarioView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/seleccionarDestinatarioView.jsp
+END
+generarDocumento.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/generarDocumento.jsp
+END
+diligencias.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/diligencias.jsp
+END
+visorMedidasAlternativasPJADE.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/visorMedidasAlternativasPJADE.jsp
+END
+realizarValoracionHechos.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/realizarValoracionHechos.jsp
+END
+enviarCarpetaInvestigacionDefensoria.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/enviarCarpetaInvestigacionDefensoria.jsp
+END
+designarAbogadoDefensor.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/designarAbogadoDefensor.jsp
+END
+modificarTutor.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/modificarTutor.jsp
+END
+ingresarOrganizacionSectorPublico.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarOrganizacionSectorPublico.jsp
+END
+lineasInvestigacionView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/lineasInvestigacionView.jsp
+END
+ingresarIPH.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/sigi-morelia/!svn/ver/21/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarIPH.jsp
+END
+ingresarContactoDeUnaOrganizacionView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarContactoDeUnaOrganizacionView.jsp
+END
+modificarTestigo.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/modificarTestigo.jsp
+END
+consultaQuejaCiudadana.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/consultaQuejaCiudadana.jsp
+END
+visorMedidasCautelares.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/visorMedidasCautelares.jsp
+END
+visorRecursoPJENC.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/visorRecursoPJENC.jsp
+END
+asignarTareaDefensor.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/asignarTareaDefensor.jsp
+END
+asignacionDeEvidencia.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/asignacionDeEvidencia.jsp
+END
+ingresarAbogadoManualmente.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarAbogadoManualmente.jsp
+END
+visorRecursoPJENSI.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/visorRecursoPJENSI.jsp
+END
+asignaTranscripcion.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/asignaTranscripcion.jsp
+END
+administrarPermisoRol.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/administrarPermisoRol.jsp
+END
+agendaUsuario.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/agendaUsuario.jsp
+END
+eslabonView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/eslabonView.jsp
+END
+nuevoVisorPJENS.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/nuevoVisorPJENS.jsp
+END
+relacionaDelitoPorDelitoView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/relacionaDelitoPorDelitoView.jsp
+END
+inventarioDeEvidenciasView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/inventarioDeEvidenciasView.jsp
+END
+modificarProbableResponsable.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/modificarProbableResponsable.jsp
+END
+solicitaAtencionPsicologicaUAVDView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/solicitaAtencionPsicologicaUAVDView.jsp
+END
+consultarPersonalOperativoView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/consultarPersonalOperativoView.jsp
+END
+consultaEslabonInclueView.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/consultaEslabonInclueView.jsp
+END
+adjuntarDocumento.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sigi-morelia/!svn/ver/261/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/adjuntarDocumento.jsp
+END
+visorAudienciasPJENS.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/visorAudienciasPJENS.jsp
+END
+ingresarMedidasAlternativasPJADE.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarMedidasAlternativasPJADE.jsp
+END
+conveniosConciliacionMediacion.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/conveniosConciliacionMediacion.jsp
+END
+ingresarMenuIntermedioPJENA.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/ingresarMenuIntermedioPJENA.jsp
+END
+buscarExpedientePorNombreDePersonaGeneral.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/buscarExpedientePorNombreDePersonaGeneral.jsp
+END
+VisorGraficas.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/VisorGraficas.jsp
+END
+solicitudDePeritoExterno.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/solicitudDePeritoExterno.jsp
+END
+administrarResolutivosImputado.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/webapp/WEB-INF/paginas/administrarResolutivosImputado.jsp
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/notificacion/action
+END
+GenerarNotificacionAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/notificacion/action/GenerarNotificacionAction.java
+END
+ConsultarNotificacionesAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/notificacion/action/ConsultarNotificacionesAction.java
+END
+Grid.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/notificacion/action/Grid.java
+END

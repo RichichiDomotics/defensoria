@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/graficacion/action
+END
+GraficaSeguimientoMedidasCautelaresAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/graficacion/action/GraficaSeguimientoMedidasCautelaresAction.java
+END
+GraficaDenunciasProbablesResponsablesDetenidosAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/graficacion/action/GraficaDenunciasProbablesResponsablesDetenidosAction.java
+END
+GraficaPrincipalesDelitosAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/graficacion/action/GraficaPrincipalesDelitosAction.java
+END
+GraficaDenunciasTiempoAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/graficacion/action/GraficaDenunciasTiempoAction.java
+END
+ReportesAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/graficacion/action/ReportesAction.java
+END
+GraficaCasosRemitidosAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/graficacion/action/GraficaCasosRemitidosAction.java
+END
+GraficaSeguimientoMedidasAlternasAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/graficacion/action/GraficaSeguimientoMedidasAlternasAction.java
+END
+GraficaDenunciasVSTipoDelitoAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/graficacion/action/GraficaDenunciasVSTipoDelitoAction.java
+END
+GraficaInformesElaboradosAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/graficacion/action/GraficaInformesElaboradosAction.java
+END
+GraficaDetencionesPorTipoAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/graficacion/action/GraficaDetencionesPorTipoAction.java
+END
+GraficaConciliacionesAtendidasAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/graficacion/action/GraficaConciliacionesAtendidasAction.java
+END
+GraficaDeterminacionPorDenunciaAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/sigi-morelia/!svn/ver/11/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp/web/graficacion/action/GraficaDeterminacionPorDenunciaAction.java
+END

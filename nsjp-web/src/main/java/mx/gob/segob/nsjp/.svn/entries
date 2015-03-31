@@ -1,0 +1,86 @@
+10
+
+dir
+127
+https://subversion.assembla.com/svn/sigi-morelia/trunk/nsjp/nsjp-web/src/main/java/mx/gob/segob/nsjp
+https://subversion.assembla.com/svn/sigi-morelia
+
+
+
+2013-11-29T22:20:40.415715Z
+125
+DorianMina
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+f7879140-5060-4e79-bf49-f6b8e9c27a7b
+
+App.java
+file
+
+
+
+
+2013-09-09T16:42:11.222000Z
+2f68500a93cf74b021564bb84d733d1d
+2013-09-09T15:50:12.490246Z
+11
+ariadna
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+193
+
+administrarAudienciaJavs
+dir
+
+almacen
+dir
+
+amparo
+dir
+
+context
+dir
+
+converters
+dir
+
+pruebas
+dir
+
+sesion
+dir
+
+web
+dir
+
